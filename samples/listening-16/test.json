@@ -1,0 +1,216 @@
+{
+  "title": "Listening Practice Test 16 – Arts, Media & Entertainment",
+  "description": "Đề luyện Listening theo cấu trúc đề thi TOEIC (IIG Việt Nam), rút gọn 26 câu: Part 1 (2) · Part 2 (6) · Part 3 (9, có hội thoại 3 người, câu hỏi hàm ý và biểu đồ) · Part 4 (9). Chủ đề: bảo tàng, nhà hát, lễ hội, tạp chí, truyền thông.",
+  "skill": "Listening",
+  "durationMinutes": 15,
+  "publish": true,
+  "groups": [
+    {
+      "part": 1, "audio": "audio/q01.mp3", "image": "images/q01.png",
+      "scene": { "bg": "lobby", "items": [
+        "#rect 0 180 800 6 #d6c7b3",
+        "🖼️ 180 270 150", "🖼️ 400 270 150", "🖼️ 620 270 150",
+        "#shadow 400 480 320", "#rect 260 420 280 16 #1f2937 4", "#rect 280 436 14 44 #374151", "#rect 506 436 14 44 #374151",
+        "#shadow 60 505 100", "🪴 60 507 110"
+      ] },
+      "transcript": "(A) Some artwork is being hung on a wall.\n(B) Some paintings are displayed on a wall.\n(C) Some visitors are sitting on a bench.\n(D) A painter is working at an easel.",
+      "questions": [
+        { "number": 1,
+          "options": { "A": "Some artwork is being hung on a wall.", "B": "Some paintings are displayed on a wall.", "C": "Some visitors are sitting on a bench.", "D": "A painter is working at an easel." },
+          "answer": "B",
+          "explanation": "Ba bức tranh được trưng bày trên tường → (B). 'is being hung' cần có người đang treo (A); ghế trống (C); không có hoạ sĩ (D)." }
+      ]
+    },
+    {
+      "part": 1, "audio": "audio/q02.mp3", "image": "images/q02.png",
+      "scene": { "bg": "plain", "items": [
+        "#rect 0 0 800 430 #1f2937", "#rect 0 0 90 430 #b91c1c", "#rect 710 0 90 430 #b91c1c", "#rect 0 0 800 36 #991b1b",
+        "#ellipse 180 40 180 120 rgba(255,255,255,.08)", "#ellipse 440 40 180 120 rgba(255,255,255,.08)",
+        "#rect 0 430 800 110 #7c5a3a",
+        "#shadow 250 440 240", "🎹 250 444 220",
+        "🎸 460 440 140 r-12", "🎤 540 440 90",
+        "#shadow 640 440 150", "🥁 640 444 150"
+      ] },
+      "transcript": "(A) Musicians are performing on a stage.\n(B) A piano is being moved off a stage.\n(C) Some audience members are clapping.\n(D) Musical instruments have been set up on a stage.",
+      "questions": [
+        { "number": 2,
+          "options": { "A": "Musicians are performing on a stage.", "B": "A piano is being moved off a stage.", "C": "Some audience members are clapping.", "D": "Musical instruments have been set up on a stage." },
+          "answer": "D",
+          "explanation": "Các nhạc cụ đã được bày sẵn trên sân khấu → (D). Không có nhạc công (A), không ai di chuyển đàn piano (B), không có khán giả (C)." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q07.mp3",
+      "transcript": "Who's performing at the concert tonight?\n(A) At eight o'clock.\n(B) A jazz band from New Orleans.\n(C) In the city concert hall.",
+      "questions": [
+        { "number": 7,
+          "options": { "A": "At eight o'clock.", "B": "A jazz band from New Orleans.", "C": "In the city concert hall." },
+          "answer": "B",
+          "explanation": "Who → ai biểu diễn: một ban nhạc jazz. (A) trả lời When; (C) trả lời Where và lặp 'concert'." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q08.mp3",
+      "transcript": "Have you seen the new exhibit at the art museum?\n(A) The museum is on Park Street.\n(B) She's an art student.\n(C) Not yet, but I'm going this weekend.",
+      "questions": [
+        { "number": 8,
+          "options": { "A": "The museum is on Park Street.", "B": "She's an art student.", "C": "Not yet, but I'm going this weekend." },
+          "answer": "C",
+          "explanation": "Câu hỏi Yes/No → 'Chưa, nhưng cuối tuần này tôi sẽ đi'. (A) lặp 'museum'; (B) lặp 'art'." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q09.mp3",
+      "transcript": "How much are tickets for the film festival?\n(A) Fifteen dollars per screening.\n(B) It's a documentary.\n(C) Five films a day.",
+      "questions": [
+        { "number": 9,
+          "options": { "A": "Fifteen dollars per screening.", "B": "It's a documentary.", "C": "Five films a day." },
+          "answer": "A",
+          "explanation": "How much → giá vé. (B) liên tưởng 'film' – 'documentary'; (C) con số nhưng là số phim (How many)." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q10.mp3",
+      "transcript": "Why don't we get dinner before the play?\n(A) The play is two hours long.\n(B) We played tennis last week.\n(C) Good idea. There's a nice café next door.",
+      "questions": [
+        { "number": 10,
+          "options": { "A": "The play is two hours long.", "B": "We played tennis last week.", "C": "Good idea. There's a nice café next door." },
+          "answer": "C",
+          "explanation": "'Why don't we…?' là lời đề nghị → đồng ý. (A) lặp 'play'; (B) 'play' với nghĩa chơi thể thao." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q11.mp3",
+      "transcript": "Where can I buy a concert program?\n(A) The concert was great.\n(B) At the booth by the entrance.\n(C) It was programmed yesterday.",
+      "questions": [
+        { "number": 11,
+          "options": { "A": "The concert was great.", "B": "At the booth by the entrance.", "C": "It was programmed yesterday." },
+          "answer": "B",
+          "explanation": "Where → quầy cạnh lối vào. (A) lặp 'concert'; (C) bẫy 'program' – 'programmed'." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q12.mp3",
+      "transcript": "The radio interview has been moved to Thursday.\n(A) Oh, I'll update my calendar.\n(B) She moved to Toronto.\n(C) It's a popular radio station.",
+      "questions": [
+        { "number": 12,
+          "options": { "A": "Oh, I'll update my calendar.", "B": "She moved to Toronto.", "C": "It's a popular radio station." },
+          "answer": "A",
+          "explanation": "Câu thông báo đổi lịch → 'Tôi sẽ cập nhật lịch'. (B) lặp 'moved'; (C) lặp 'radio'." }
+      ]
+    },
+    {
+      "part": 3, "audio": "audio/q32-34.mp3",
+      "transcript": "W: Hi, I'd like two tickets for tonight's performance of The Silent Sea.\nM: I'm sorry, but tonight's show is sold out. We still have seats for tomorrow evening, though.\nW: Tomorrow works. Are there any seats near the stage?\nM: Yes, there are two in the third row. They're sixty-five dollars each.\nW: That's a bit more than I wanted to spend. Do you offer any discounts?\nM: If you have a student ID, you can get twenty percent off.",
+      "questions": [
+        { "number": 32, "content": "What is the woman trying to do?",
+          "options": { "A": "Return some tickets", "B": "Change a reservation", "C": "Purchase tickets", "D": "Find a lost item" },
+          "answer": "C",
+          "explanation": "'I'd like two tickets for tonight's performance' → mua vé." },
+        { "number": 33, "content": "What problem does the man mention?",
+          "options": { "A": "A performance is sold out.", "B": "A show has been canceled.", "C": "Ticket prices have increased.", "D": "The theater is closed for repairs." },
+          "answer": "A",
+          "explanation": "'Tonight's show is sold out.'" },
+        { "number": 34, "content": "How can the woman get a discount?",
+          "options": { "A": "By buying tickets online", "B": "By joining a membership program", "C": "By choosing different seats", "D": "By presenting a student card" },
+          "answer": "D",
+          "explanation": "'If you have a student ID, you can get twenty percent off.'" }
+      ]
+    },
+    {
+      "part": 3, "audio": "audio/q35-37.mp3", "intro": "conversation with three speakers",
+      "transcript": "M1: OK, let's discuss the cover story for the June issue of Travel World.\nW: I think we should feature the article about hiking trails in New Zealand. The photos are amazing.\nM2: The May issue had a hiking story on the cover, though.\nW: Oh, you're right. We don't want to repeat that.\nM1: What about the piece on street food in Bangkok? Readers loved our last food feature.\nM2: Good idea. I'll ask our photographer to send the best images by Wednesday.",
+      "questions": [
+        { "number": 35, "content": "Where do the speakers most likely work?",
+          "options": { "A": "At a travel agency", "B": "At a publishing company", "C": "At a restaurant", "D": "At a photo studio" },
+          "answer": "B",
+          "explanation": "Họ bàn về bài trang bìa số tháng Sáu của tạp chí Travel World → làm ở công ty xuất bản." },
+        { "number": 36, "content": "Why does one of the men say, “The May issue had a hiking story on the cover, though”?",
+          "options": { "A": "To suggest choosing a different topic", "B": "To praise a writer", "C": "To correct a publication date", "D": "To request more photographs" },
+          "answer": "A",
+          "explanation": "Câu hỏi hàm ý: số tháng Năm đã có bài leo núi trên bìa → không nên lặp lại, cần chủ đề khác. Người phụ nữ đồng ý 'We don't want to repeat that'." },
+        { "number": 37, "content": "What will one of the men do?",
+          "options": { "A": "Write an article", "B": "Travel to Bangkok", "C": "Request some photos", "D": "Design a cover" },
+          "answer": "C",
+          "explanation": "'I'll ask our photographer to send the best images by Wednesday.'" }
+      ]
+    },
+    {
+      "part": 3, "audio": "audio/q38-40.mp3", "image": "images/q38-40.png", "intro": "conversation and price list",
+      "graphic": { "type": "table", "title": "Riverside Film Festival – Passes",
+        "head": ["Pass", "Price"],
+        "rows": [["Single Screening", "$12"], ["Day Pass", "$30"], ["Weekend Pass", "$55"], ["Full Festival Pass", "$90"]] },
+      "transcript": "M: Hi, I'd like to see some films at the festival this weekend. What kinds of passes do you have?\nW: Well, how many films are you planning to watch?\nM: About six on Saturday, and maybe a couple on Sunday.\nW: Then the pass for both days would be the best deal. It covers every screening on Saturday and Sunday.\nM: Great, I'll take it. Can I choose my seats?\nW: Seating is first come, first served, so I recommend arriving about twenty minutes early.",
+      "questions": [
+        { "number": 38, "content": "Look at the graphic. How much will the man most likely pay?",
+          "options": { "A": "$12", "B": "$30", "C": "$55", "D": "$90" },
+          "answer": "C",
+          "explanation": "Người phụ nữ gợi ý vé cho cả hai ngày thứ Bảy và Chủ nhật → Weekend Pass, giá $55." },
+        { "number": 39, "content": "What does the woman ask the man about?",
+          "options": { "A": "His membership status", "B": "How many films he will watch", "C": "Which films he prefers", "D": "How he will pay" },
+          "answer": "B",
+          "explanation": "'How many films are you planning to watch?'" },
+        { "number": 40, "content": "What does the woman recommend?",
+          "options": { "A": "Arriving early", "B": "Booking seats online", "C": "Buying a full festival pass", "D": "Watching films on Sunday" },
+          "answer": "A",
+          "explanation": "'I recommend arriving about twenty minutes early.'" }
+      ]
+    },
+    {
+      "part": 4, "audio": "audio/q71-73.mp3", "intro": "radio broadcast", "voice": "W",
+      "transcript": "You're listening to City Radio. This weekend, the Lakeside Park Summer Music Festival returns for its tenth year. More than twenty bands will perform on three outdoor stages. Admission is free, but food and drinks will be sold by local restaurants. Because parking near the park is limited, organizers recommend taking the free shuttle bus from the Central Library. And if it rains, performances will move indoors to the Civic Arena.",
+      "questions": [
+        { "number": 71, "content": "What event is being described?",
+          "options": { "A": "A food fair", "B": "A sports competition", "C": "A book sale", "D": "A music festival" },
+          "answer": "D",
+          "explanation": "'The Lakeside Park Summer Music Festival returns for its tenth year.'" },
+        { "number": 72, "content": "What do the organizers recommend?",
+          "options": { "A": "Bringing their own food", "B": "Using a free shuttle", "C": "Buying tickets in advance", "D": "Arriving early" },
+          "answer": "B",
+          "explanation": "'Organizers recommend taking the free shuttle bus from the Central Library.' (C) sai vì vào cửa miễn phí." },
+        { "number": 73, "content": "What will happen if it rains?",
+          "options": { "A": "The event will be postponed.", "B": "Tickets will be refunded.", "C": "Performances will take place in another venue.", "D": "Some bands will cancel." },
+          "answer": "C",
+          "explanation": "'If it rains, performances will move indoors to the Civic Arena.'" }
+      ]
+    },
+    {
+      "part": 4, "audio": "audio/q74-76.mp3", "intro": "tour information", "voice": "M",
+      "transcript": "Welcome to the Hartley Museum of Modern Art. I'm Daniel, and I'll be guiding you through our new exhibition, Colors of the City. All the paintings in this room were created by local artists over the past five years. Please feel free to take photographs, but don't use a flash. This next painting took the artist three years to complete. Look closely, and you'll see thousands of tiny dots. At the end of the tour, you're welcome to visit our gift shop, where prints of many of these works are available.",
+      "questions": [
+        { "number": 74, "content": "Who created the paintings in the room?",
+          "options": { "A": "Artists from the area", "B": "Art students", "C": "Famous European painters", "D": "Museum staff" },
+          "answer": "A",
+          "explanation": "'All the paintings in this room were created by local artists' – local = từ địa phương (from the area)." },
+        { "number": 75, "content": "What are listeners asked not to do?",
+          "options": { "A": "Take photographs", "B": "Use a flash", "C": "Touch the artwork", "D": "Leave the group" },
+          "answer": "B",
+          "explanation": "'Please feel free to take photographs, but don't use a flash.' (A) là bẫy – được phép chụp ảnh." },
+        { "number": 76, "content": "Why does the speaker say, “This next painting took the artist three years to complete”?",
+          "options": { "A": "To explain why a painting is expensive", "B": "To announce a new exhibit", "C": "To apologize for a delay", "D": "To emphasize the detail of a work" },
+          "answer": "D",
+          "explanation": "Câu hỏi hàm ý: bức tranh mất 3 năm, gồm hàng nghìn chấm nhỏ → nhấn mạnh sự tỉ mỉ, công phu của tác phẩm." }
+      ]
+    },
+    {
+      "part": 4, "audio": "audio/q77-79.mp3", "image": "images/q77-79.png", "intro": "excerpt from a meeting and chart", "voice": "W",
+      "graphic": { "type": "bars", "title": "Streaming Subscribers", "unit": "M",
+        "data": [["Q1", 1.2], ["Q2", 1.5], ["Q3", 1.4], ["Q4", 2.1]], "note": "In millions" },
+      "transcript": "Our subscriber numbers grew overall this year. There was one small drop, which happened right after we raised our monthly price. But the biggest jump came in the quarter when we released our original drama series, Northern Lights. Because of that success, we've decided to produce two more original series next year. I'd like the marketing team to start planning the promotional campaign now.",
+      "questions": [
+        { "number": 77, "content": "What kind of company does the speaker most likely work for?",
+          "options": { "A": "A newspaper", "B": "A movie theater", "C": "A video streaming service", "D": "A bookstore" },
+          "answer": "C",
+          "explanation": "Số người đăng ký (subscribers), phí hằng tháng, phim bộ tự sản xuất → dịch vụ xem video trực tuyến." },
+        { "number": 78, "content": "Look at the graphic. In which quarter was Northern Lights most likely released?",
+          "options": { "A": "Q1", "B": "Q2", "C": "Q3", "D": "Q4" },
+          "answer": "D",
+          "explanation": "Mức tăng lớn nhất đến trong quý phát hành phim – biểu đồ cho thấy Q4 tăng mạnh nhất (1.4 → 2.1 triệu)." },
+        { "number": 79, "content": "What does the speaker ask the marketing team to do?",
+          "options": { "A": "Begin planning a campaign", "B": "Lower the monthly price", "C": "Survey subscribers", "D": "Hire new actors" },
+          "answer": "A",
+          "explanation": "'I'd like the marketing team to start planning the promotional campaign now.'" }
+      ]
+    }
+  ]
+}

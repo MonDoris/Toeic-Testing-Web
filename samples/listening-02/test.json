@@ -1,0 +1,214 @@
+{
+  "title": "Listening Practice Test 02 – Travel & Airports",
+  "description": "Đề luyện Listening theo cấu trúc đề thi TOEIC (IIG Việt Nam), rút gọn 26 câu: Part 1 (2) · Part 2 (6) · Part 3 (9, có hội thoại 3 người, câu hỏi hàm ý và biểu đồ) · Part 4 (9). Chủ đề: du lịch, sân bay, khách sạn.",
+  "skill": "Listening",
+  "durationMinutes": 15,
+  "publish": true,
+  "groups": [
+    {
+      "part": 1, "audio": "audio/q01.mp3", "image": "images/q01.png",
+      "scene": { "bg": "station", "items": [
+        "#rect 500 90 230 56 #1e3a8a 8", "#text 522 98 30 #ffffff PLATFORM 3", "🕐 150 180 70",
+        "#shadow 420 412 150", "🚶🏻‍♂️ 400 414 190", "🧳 482 414 84", "🗑️ 700 414 80"
+      ] },
+      "transcript": "(A) A man is buying a ticket from a machine.\n(B) A man is walking with a suitcase.\n(C) A man is boarding a train.\n(D) A man is sitting on a bench.",
+      "questions": [
+        { "number": 1,
+          "options": { "A": "A man is buying a ticket from a machine.", "B": "A man is walking with a suitcase.", "C": "A man is boarding a train.", "D": "A man is sitting on a bench." },
+          "answer": "B",
+          "explanation": "Người đàn ông đang đi bộ trên sân ga, kéo theo vali → (B). Không có máy bán vé, tàu hay ghế băng → loại (A), (C), (D)." }
+      ]
+    },
+    {
+      "part": 1, "audio": "audio/q02.mp3", "image": "images/q02.png",
+      "scene": { "bg": "lobby", "items": [
+        "#rect 60 50 680 240 #ffffff 6", "#rect 70 60 660 220 #bfe0f7 4", "#rect 395 60 10 220 #ffffff",
+        "✈️ 570 230 130",
+        "#shadow 290 472 460",
+        "💺 120 472 110", "💺 230 472 110", "💺 340 472 110", "💺 450 472 110",
+        "🧳 600 472 90", "🪴 720 472 110"
+      ] },
+      "transcript": "(A) Some passengers are boarding a plane.\n(B) A suitcase is being carried up some stairs.\n(C) Some seats are unoccupied.\n(D) Some windows are being washed.",
+      "questions": [
+        { "number": 2,
+          "options": { "A": "Some passengers are boarding a plane.", "B": "A suitcase is being carried up some stairs.", "C": "Some seats are unoccupied.", "D": "Some windows are being washed." },
+          "answer": "C",
+          "explanation": "Hàng ghế chờ không có ai ngồi → 'unoccupied' (trống). Ảnh không có người nên loại (A), và các câu bị động tiếp diễn (B), (D) cần có người đang thực hiện hành động." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q07.mp3",
+      "transcript": "Where can I pick up my boarding pass?\n(A) At the check-in counter.\n(B) Around ten o'clock.\n(C) Yes, I passed it.",
+      "questions": [
+        { "number": 7,
+          "options": { "A": "At the check-in counter.", "B": "Around ten o'clock.", "C": "Yes, I passed it." },
+          "answer": "A",
+          "explanation": "Where → nơi chốn: quầy làm thủ tục. (B) trả lời When; (C) Wh- question không trả lời Yes/No, 'passed' là bẫy âm với 'pass'." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q08.mp3",
+      "transcript": "How long is the flight to Singapore?\n(A) Gate twelve.\n(B) A window seat, please.\n(C) Just under six hours.",
+      "questions": [
+        { "number": 8,
+          "options": { "A": "Gate twelve.", "B": "A window seat, please.", "C": "Just under six hours." },
+          "answer": "C",
+          "explanation": "How long → khoảng thời gian: 'Just under six hours' (chưa tới 6 tiếng). (A), (B) liên quan chủ đề máy bay nhưng không trả lời câu hỏi." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q09.mp3",
+      "transcript": "Did you book the hotel, or should I do it?\n(A) Near the airport.\n(B) I reserved it yesterday.\n(C) A travel guidebook.",
+      "questions": [
+        { "number": 9,
+          "options": { "A": "Near the airport.", "B": "I reserved it yesterday.", "C": "A travel guidebook." },
+          "answer": "B",
+          "explanation": "Câu hỏi lựa chọn (A hay B) → 'Tôi đã đặt hôm qua rồi' chọn vế thứ nhất, 'reserve' = 'book'. (C) bẫy từ 'book' (quyển sách)." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q10.mp3",
+      "transcript": "Why don't we take a taxi to the conference center?\n(A) Because it was raining.\n(B) The center of the city.\n(C) Sure, it's too far to walk.",
+      "questions": [
+        { "number": 10,
+          "options": { "A": "Because it was raining.", "B": "The center of the city.", "C": "Sure, it's too far to walk." },
+          "answer": "C",
+          "explanation": "'Why don't we…?' là lời gợi ý → đồng ý kèm lý do. (A) bẫy 'Because' vì tưởng câu hỏi Why hỏi lý do; (B) lặp từ 'center'." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q11.mp3",
+      "transcript": "Isn't our flight delayed?\n(A) Only by twenty minutes.\n(B) A flight attendant.\n(C) It was a long play.",
+      "questions": [
+        { "number": 11,
+          "options": { "A": "Only by twenty minutes.", "B": "A flight attendant.", "C": "It was a long play." },
+          "answer": "A",
+          "explanation": "Câu hỏi phủ định xác nhận chuyến bay bị hoãn → 'Chỉ trễ 20 phút'. (B) lặp 'flight'; (C) bẫy âm 'delayed' – 'play'." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q12.mp3",
+      "transcript": "The travel agency sent us the itinerary.\n(A) He's a travel agent.\n(B) Could you forward it to me?\n(C) By express mail.",
+      "questions": [
+        { "number": 12,
+          "options": { "A": "He's a travel agent.", "B": "Could you forward it to me?", "C": "By express mail." },
+          "answer": "B",
+          "explanation": "Câu trần thuật báo đã nhận lịch trình → phản hồi tự nhiên: 'Chuyển tiếp cho tôi được không?'. (A) lặp 'travel'/'agent'; (C) trả lời How (cách gửi)." }
+      ]
+    },
+    {
+      "part": 3, "audio": "audio/q32-34.mp3",
+      "transcript": "W: Excuse me. I just arrived on the flight from Tokyo, but my suitcase didn't come out on the baggage carousel.\nM: I'm sorry to hear that. May I see your baggage claim ticket?\nW: Here it is. I have an important meeting tomorrow morning, and my presentation materials are in that bag.\nM: Let me check our system. It looks like your suitcase was put on a later flight. It should arrive here at nine o'clock tonight.\nW: Oh, good. But I won't be able to come back to the airport tonight.\nM: That's no problem. We'll deliver it directly to your hotel. Just fill out this form with the hotel's address and your phone number.",
+      "questions": [
+        { "number": 32, "content": "Where is the conversation most likely taking place?",
+          "options": { "A": "At a hotel", "B": "At an airport", "C": "At a conference center", "D": "At a travel agency" },
+          "answer": "B",
+          "explanation": "Các cụm 'baggage carousel', 'baggage claim ticket', 'come back to the airport' → sân bay." },
+        { "number": 33, "content": "Why is the woman concerned?",
+          "options": { "A": "She missed her connecting flight.", "B": "She lost her passport.", "C": "She needs some items for a meeting.", "D": "Her hotel reservation was canceled." },
+          "answer": "C",
+          "explanation": "'I have an important meeting tomorrow morning, and my presentation materials are in that bag.'" },
+        { "number": 34, "content": "What does the man ask the woman to do?",
+          "options": { "A": "Wait at the counter", "B": "Show her passport", "C": "Call her hotel", "D": "Complete a form" },
+          "answer": "D",
+          "explanation": "'Just fill out this form…' – 'fill out' = 'complete'." }
+      ]
+    },
+    {
+      "part": 3, "audio": "audio/q35-37.mp3", "intro": "conversation with three speakers",
+      "transcript": "W: Kevin, Raj, have you finalized the plans for the sales team's trip to Madrid?\nM1: Almost. The flights are booked, but we're still choosing a hotel.\nM2: I found two options near the convention center. The Plaza Hotel is cheaper, but it doesn't offer a shuttle service.\nW: The convention center is only a ten-minute walk from there.\nM1: Oh, that's true. Then there's no reason to pay more for the other hotel.\nM2: OK, I'll reserve ten rooms at the Plaza this afternoon.\nW: Thanks. And please send the itinerary to everyone by Friday.",
+      "questions": [
+        { "number": 35, "content": "What are the speakers planning?",
+          "options": { "A": "A business trip", "B": "A product launch", "C": "A hotel renovation", "D": "A company picnic" },
+          "answer": "A",
+          "explanation": "'…the plans for the sales team's trip to Madrid' → chuyến công tác." },
+        { "number": 36, "content": "What does the woman imply when she says, “The convention center is only a ten-minute walk from there”?",
+          "options": { "A": "The hotel is too far away.", "B": "A shuttle service is not necessary.", "C": "She prefers to take a taxi.", "D": "The convention center is being renovated." },
+          "answer": "B",
+          "explanation": "Câu hỏi hàm ý: khách sạn Plaza không có xe đưa đón nhưng chỉ cách 10 phút đi bộ → không cần xe đưa đón. Người đàn ông đáp 'no reason to pay more'." },
+        { "number": 37, "content": "What will one of the men do this afternoon?",
+          "options": { "A": "Book some flights", "B": "Visit a convention center", "C": "Make hotel reservations", "D": "Send an itinerary" },
+          "answer": "C",
+          "explanation": "'I'll reserve ten rooms at the Plaza this afternoon.' (A) vé máy bay đã đặt xong; (D) hạn là thứ Sáu." }
+      ]
+    },
+    {
+      "part": 3, "audio": "audio/q38-40.mp3", "image": "images/q38-40.png", "intro": "conversation and flight information",
+      "graphic": { "type": "table", "title": "Departures",
+        "head": ["Flight", "Destination", "Gate", "Status"],
+        "rows": [["AF 318", "Paris", "12", "On time"], ["BA 204", "London", "15", "On time"], ["LH 552", "Frankfurt", "21", "Delayed"], ["KL 776", "Amsterdam", "27", "Boarding"]] },
+      "transcript": "M: Hi, Alice. I'm at the airport, but there's a problem. My flight to Frankfurt has been delayed by two hours.\nW: Oh, no. Will you still make it to the meeting with our suppliers at four?\nM: I don't think so. Could you call them and ask if we can meet tomorrow morning instead?\nW: Sure. I'll let you know what they say. Do you want me to change your hotel reservation, too?\nM: No, that's fine. I'll take care of that after I land.",
+      "questions": [
+        { "number": 38, "content": "Look at the graphic. Which gate will the man's flight depart from?",
+          "options": { "A": "Gate 12", "B": "Gate 15", "C": "Gate 21", "D": "Gate 27" },
+          "answer": "C",
+          "explanation": "Người đàn ông bay đi Frankfurt; bảng cho thấy chuyến LH 552 đi Frankfurt khởi hành ở Gate 21." },
+        { "number": 39, "content": "What does the man ask the woman to do?",
+          "options": { "A": "Reschedule a meeting", "B": "Book a new flight", "C": "Cancel a hotel reservation", "D": "Pick him up at the airport" },
+          "answer": "A",
+          "explanation": "'Could you call them and ask if we can meet tomorrow morning instead?' → dời lịch họp." },
+        { "number": 40, "content": "What does the man say he will do later?",
+          "options": { "A": "Prepare a presentation", "B": "Take a taxi", "C": "Call a supplier", "D": "Take care of a reservation" },
+          "answer": "D",
+          "explanation": "Khi được hỏi có cần đổi đặt phòng khách sạn không, anh nói 'I'll take care of that after I land'." }
+      ]
+    },
+    {
+      "part": 4, "audio": "audio/q71-73.mp3", "intro": "announcement", "voice": "W",
+      "transcript": "Attention, passengers on Coastal Airlines Flight 318 to Vancouver. Due to heavy fog, all departures this morning have been delayed. We now expect to begin boarding at eleven forty-five. To thank you for your patience, we are offering each passenger a meal voucher that can be used at any restaurant in Terminal C. Please show your boarding pass at the service desk near Gate 9 to receive your voucher. We will make another announcement as soon as we have more information.",
+      "questions": [
+        { "number": 71, "content": "What has caused the delay?",
+          "options": { "A": "A mechanical problem", "B": "A crew shortage", "C": "Heavy traffic", "D": "Bad weather" },
+          "answer": "D",
+          "explanation": "'Due to heavy fog' – sương mù dày → thời tiết xấu." },
+        { "number": 72, "content": "What are passengers being offered?",
+          "options": { "A": "A seat upgrade", "B": "A free drink on board", "C": "A voucher for a meal", "D": "A hotel room" },
+          "answer": "C",
+          "explanation": "'We are offering each passenger a meal voucher.'" },
+        { "number": 73, "content": "What should passengers do to receive the item?",
+          "options": { "A": "Present a boarding pass", "B": "Download a mobile app", "C": "Go to Gate 3", "D": "Complete a survey" },
+          "answer": "A",
+          "explanation": "'Please show your boarding pass at the service desk near Gate 9' – 'show' = 'present'. (C) sai số cổng." }
+      ]
+    },
+    {
+      "part": 4, "audio": "audio/q74-76.mp3", "intro": "talk", "voice": "M",
+      "transcript": "Welcome aboard the Harbor City bus tour. My name is Marcus, and I'll be your guide today. Our tour will take about three hours, and we'll make four stops, including the famous Lighthouse Museum and the old fish market. At each stop, you'll have thirty minutes to look around. Now, the bus will leave each stop exactly on time. The last group that was late had to take a taxi back to the hotel. Also, bottled water is available at the front of the bus, so please help yourselves.",
+      "questions": [
+        { "number": 74, "content": "Who most likely is the speaker?",
+          "options": { "A": "A museum curator", "B": "A hotel clerk", "C": "A taxi driver", "D": "A tour guide" },
+          "answer": "D",
+          "explanation": "'My name is Marcus, and I'll be your guide today.'" },
+        { "number": 75, "content": "Why does the speaker say, “The last group that was late had to take a taxi back to the hotel”?",
+          "options": { "A": "To recommend a taxi company", "B": "To explain a schedule change", "C": "To encourage listeners to be punctual", "D": "To apologize for an earlier problem" },
+          "answer": "C",
+          "explanation": "Câu hỏi hàm ý: ngay trước đó anh nói xe rời mỗi điểm dừng đúng giờ → nhắc khách phải đúng giờ, nếu trễ sẽ phải tự đi taxi về." },
+        { "number": 76, "content": "According to the speaker, what is available at the front of the bus?",
+          "options": { "A": "Free drinks", "B": "City maps", "C": "Souvenirs", "D": "Umbrellas" },
+          "answer": "A",
+          "explanation": "'Bottled water is available at the front of the bus, so please help yourselves' → đồ uống miễn phí." }
+      ]
+    },
+    {
+      "part": 4, "audio": "audio/q77-79.mp3", "image": "images/q77-79.png", "intro": "telephone message and weather forecast", "voice": "W",
+      "graphic": { "type": "table", "title": "Weekend Forecast – Lake Hanson",
+        "head": ["Day", "Weather", "High"],
+        "rows": [["Friday", "☀️ Sunny", "24°C"], ["Saturday", "🌧️ Rain", "18°C"], ["Sunday", "☁️ Cloudy", "20°C"], ["Monday", "☀️ Sunny", "23°C"]] },
+      "transcript": "Hi, this is Paula from the Lake Hanson Outdoor Center with a message for everyone who signed up for our kayaking trip. The trip was scheduled for Saturday, but as you may know, heavy rain is expected that day, so we've moved it to Sunday. We'll meet at the boathouse at eight a.m. It will be cooler than usual on the lake, so please bring a jacket. If Sunday doesn't work for you, you can get a full refund by calling our office before Thursday at five p.m.",
+      "questions": [
+        { "number": 77, "content": "What activity is the speaker discussing?",
+          "options": { "A": "A fishing contest", "B": "A hiking tour", "C": "A boat race", "D": "A kayaking trip" },
+          "answer": "D",
+          "explanation": "'…everyone who signed up for our kayaking trip.'" },
+        { "number": 78, "content": "Look at the graphic. What temperature is expected on the day of the activity?",
+          "options": { "A": "24°C", "B": "18°C", "C": "20°C", "D": "23°C" },
+          "answer": "C",
+          "explanation": "Chuyến đi được dời sang Chủ nhật (Sunday); bảng dự báo Chủ nhật có nhiệt độ cao nhất 20°C." },
+        { "number": 79, "content": "How can listeners receive a refund?",
+          "options": { "A": "By visiting a website", "B": "By phoning an office", "C": "By sending a text message", "D": "By going to the boathouse" },
+          "answer": "B",
+          "explanation": "'You can get a full refund by calling our office before Thursday' – 'calling' = 'phoning'." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "title": "Listening Practice Test 12 – Real Estate & Housing",
+  "description": "Đề luyện Listening theo cấu trúc đề thi TOEIC (IIG Việt Nam), rút gọn 26 câu: Part 1 (2) · Part 2 (6) · Part 3 (9, có hội thoại 3 người, câu hỏi hàm ý và biểu đồ) · Part 4 (9, có sơ đồ). Chủ đề: thuê nhà, văn phòng cho thuê, quản lý toà nhà.",
+  "skill": "Listening",
+  "durationMinutes": 15,
+  "publish": true,
+  "groups": [
+    {
+      "part": 1, "audio": "audio/q01.mp3", "image": "images/q01.png",
+      "scene": { "bg": "park", "items": [
+        "#rect 480 390 200 150 #9ca3af",
+        "#shadow 300 400 300", "🏠 300 406 280",
+        "#shadow 720 400 160", "🌳 720 404 160",
+        "📫 110 440 80",
+        "#shadow 580 470 160", "🚗 580 474 140"
+      ] },
+      "transcript": "(A) A house is being painted.\n(B) Someone is mowing a lawn.\n(C) Some trees are being planted in a yard.\n(D) A vehicle is parked in a driveway.",
+      "questions": [
+        { "number": 1,
+          "options": { "A": "A house is being painted.", "B": "Someone is mowing a lawn.", "C": "Some trees are being planted in a yard.", "D": "A vehicle is parked in a driveway." },
+          "answer": "D",
+          "explanation": "Chiếc xe đỗ trên lối vào nhà (driveway) → (D). Không có người nên các hành động (A), (B), (C) đều sai." }
+      ]
+    },
+    {
+      "part": 1, "audio": "audio/q02.mp3", "image": "images/q02.png",
+      "scene": { "bg": "lobby", "items": [
+        "🖼️ 400 250 150",
+        "#ellipse 170 450 460 70 #c2410c",
+        "#shadow 400 480 300", "🛋️ 400 482 270",
+        "#shadow 130 480 120", "🪴 130 484 130",
+        "#rect 610 400 90 10 #8a5a3b 3", "#rect 620 410 8 70 #6f4630", "#rect 682 410 8 70 #6f4630", "📚 655 402 54"
+      ] },
+      "transcript": "(A) A rug is being rolled up.\n(B) A picture has been hung above a sofa.\n(C) Some cushions are being arranged on a sofa.\n(D) Some books are stacked on the floor.",
+      "questions": [
+        { "number": 2,
+          "options": { "A": "A rug is being rolled up.", "B": "A picture has been hung above a sofa.", "C": "Some cushions are being arranged on a sofa.", "D": "Some books are stacked on the floor." },
+          "answer": "B",
+          "explanation": "Bức tranh được treo phía trên ghế sofa → (B). Không có người nên (A), (C) sai; sách đặt trên bàn nhỏ chứ không trên sàn (D)." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q07.mp3",
+      "transcript": "How many bedrooms does the apartment have?\n(A) It's on the fifth floor.\n(B) Next to the bathroom.\n(C) Two, plus a small study.",
+      "questions": [
+        { "number": 7,
+          "options": { "A": "It's on the fifth floor.", "B": "Next to the bathroom.", "C": "Two, plus a small study." },
+          "answer": "C",
+          "explanation": "How many → số lượng phòng ngủ: hai, thêm một phòng làm việc nhỏ. (A), (B) trả lời Where." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q08.mp3",
+      "transcript": "When can I move into the new office?\n(A) He moved to Chicago.\n(B) As soon as the paperwork is signed.\n(C) A moving company.",
+      "questions": [
+        { "number": 8,
+          "options": { "A": "He moved to Chicago.", "B": "As soon as the paperwork is signed.", "C": "A moving company." },
+          "answer": "B",
+          "explanation": "When → 'ngay khi giấy tờ được ký'. (A) lặp 'move', sai chủ ngữ; (C) lặp 'moving'." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q09.mp3",
+      "transcript": "Is the rent due on the first of the month?\n(A) Yes, every month.\n(B) I rented a car.\n(C) The first floor.",
+      "questions": [
+        { "number": 9,
+          "options": { "A": "Yes, every month.", "B": "I rented a car.", "C": "The first floor." },
+          "answer": "A",
+          "explanation": "Câu hỏi Yes/No về hạn trả tiền thuê → 'Đúng, hằng tháng'. (B) bẫy 'rent' – 'rented'; (C) lặp 'first'." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q10.mp3",
+      "transcript": "Who should I contact about the broken heater?\n(A) It's too hot in here.\n(B) The building manager.\n(C) I'll heat it up for you.",
+      "questions": [
+        { "number": 10,
+          "options": { "A": "It's too hot in here.", "B": "The building manager.", "C": "I'll heat it up for you." },
+          "answer": "B",
+          "explanation": "Who → người cần liên hệ: quản lý toà nhà. (A) liên tưởng 'heater' – 'hot'; (C) bẫy 'heater' – 'heat'." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q11.mp3",
+      "transcript": "Would you prefer to live downtown or in the suburbs?\n(A) Yes, I would.\n(B) I prefer the green one.\n(C) Somewhere quiet, so the suburbs.",
+      "questions": [
+        { "number": 11,
+          "options": { "A": "Yes, I would.", "B": "I prefer the green one.", "C": "Somewhere quiet, so the suburbs." },
+          "answer": "C",
+          "explanation": "Câu hỏi lựa chọn → chọn ngoại ô vì muốn yên tĩnh. (A) Yes không hợp; (B) lặp 'prefer' nhưng nói về màu sắc." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q12.mp3",
+      "transcript": "The landlord is raising the rent next year.\n(A) Really? By how much?\n(B) He raised his hand.\n(C) It rained all year.",
+      "questions": [
+        { "number": 12,
+          "options": { "A": "Really? By how much?", "B": "He raised his hand.", "C": "It rained all year." },
+          "answer": "A",
+          "explanation": "Câu trần thuật → phản hồi bằng câu hỏi 'Thật à? Tăng bao nhiêu?'. (B) lặp 'raise' (giơ tay); (C) bẫy âm 'raising' – 'rained'." }
+      ]
+    },
+    {
+      "part": 3, "audio": "audio/q32-34.mp3",
+      "transcript": "W: Hello, I'm calling about the two-bedroom apartment on Maple Street that I saw on your Web site. Is it still available?\nM: Yes, it is. It was just renovated, and it has a brand-new kitchen.\nW: Great. Does the rent include utilities?\nM: Water and heating are included, but electricity is separate. Would you like to see it?\nW: Yes. Could I come by on Saturday morning?\nM: Sure. How about ten o'clock? I'll meet you in the lobby. And please bring proof of income, in case you decide to apply.",
+      "questions": [
+        { "number": 32, "content": "How did the woman learn about the apartment?",
+          "options": { "A": "From a newspaper", "B": "From an online listing", "C": "From a friend", "D": "From a sign on the building" },
+          "answer": "B",
+          "explanation": "'…the apartment… that I saw on your Web site' → tin đăng trực tuyến." },
+        { "number": 33, "content": "What does the man say about the apartment?",
+          "options": { "A": "It was recently remodeled.", "B": "It has a private garden.", "C": "It comes with furniture.", "D": "It is next to a station." },
+          "answer": "A",
+          "explanation": "'It was just renovated, and it has a brand-new kitchen' – renovated = remodeled." },
+        { "number": 34, "content": "What does the man ask the woman to bring?",
+          "options": { "A": "A security deposit", "B": "A reference letter", "C": "A photo ID", "D": "Documents showing her income" },
+          "answer": "D",
+          "explanation": "'Please bring proof of income' → giấy tờ chứng minh thu nhập." }
+      ]
+    },
+    {
+      "part": 3, "audio": "audio/q35-37.mp3", "intro": "conversation with three speakers",
+      "transcript": "M1: Nadia, Chris, I just showed the office space on Harbor Road to Pinecrest Software. They liked it, but they think the rent is too high.\nW: How much lower are they hoping for?\nM1: About ten percent.\nM2: That property has been empty for eight months.\nW: Good point. The owner might accept a lower offer. I'll call her this afternoon.\nM1: Thanks. Pinecrest wants to move in by March, so we should act quickly.\nM2: I can prepare a draft lease agreement tonight, just in case.",
+      "questions": [
+        { "number": 35, "content": "What type of property are the speakers discussing?",
+          "options": { "A": "A house", "B": "A warehouse", "C": "An office space", "D": "A retail store" },
+          "answer": "C",
+          "explanation": "'I just showed the office space on Harbor Road to Pinecrest Software.'" },
+        { "number": 36, "content": "What does one of the men imply when he says, “That property has been empty for eight months”?",
+          "options": { "A": "The building needs to be renovated.", "B": "The owner may agree to reduce the rent.", "C": "The client should see other properties.", "D": "The listing should be removed." },
+          "answer": "B",
+          "explanation": "Câu hỏi hàm ý: văn phòng bỏ trống 8 tháng → chủ nhà có thể chấp nhận giảm giá. Người phụ nữ hiểu ý: 'The owner might accept a lower offer'." },
+        { "number": 37, "content": "What does one of the men offer to do?",
+          "options": { "A": "Prepare a document", "B": "Call the property owner", "C": "Show the property again", "D": "Contact another client" },
+          "answer": "A",
+          "explanation": "'I can prepare a draft lease agreement tonight' → soạn bản nháp hợp đồng thuê. (B) là việc của người phụ nữ." }
+      ]
+    },
+    {
+      "part": 3, "audio": "audio/q38-40.mp3", "image": "images/q38-40.png", "intro": "conversation and list",
+      "graphic": { "type": "table", "title": "Available Apartments",
+        "head": ["Address", "Bedrooms", "Rent", "Parking"],
+        "rows": [["12 Oak St.", "1", "$950", "No"], ["45 Pine Ave.", "2", "$1,300", "Yes"], ["78 Cedar Rd.", "2", "$1,150", "No"], ["90 Birch Ln.", "3", "$1,600", "Yes"]] },
+      "transcript": "M: I'm looking for a two-bedroom apartment. My budget is up to fourteen hundred dollars a month.\nW: We have a couple of options. Do you have a car?\nM: Yes, so I'd need a parking space. Street parking is really hard to find in this area.\nW: Then this one would be perfect for you. It's also close to the subway station.\nM: Sounds good. Can I see it today?\nW: Sure. I'll just call the current tenant to make sure it's convenient.",
+      "questions": [
+        { "number": 38, "content": "What does the man say about street parking?",
+          "options": { "A": "It is expensive.", "B": "It is free on weekends.", "C": "It is difficult to find.", "D": "It is not allowed." },
+          "answer": "C",
+          "explanation": "'Street parking is really hard to find in this area.'" },
+        { "number": 39, "content": "Look at the graphic. Which apartment will the man most likely see?",
+          "options": { "A": "12 Oak St.", "B": "45 Pine Ave.", "C": "78 Cedar Rd.", "D": "90 Birch Ln." },
+          "answer": "B",
+          "explanation": "Cần 2 phòng ngủ, giá tối đa $1,400 và có chỗ đỗ xe → chỉ 45 Pine Ave. ($1,300, có parking) thoả mãn. 78 Cedar Rd. không có chỗ đỗ xe." },
+        { "number": 40, "content": "What will the woman do next?",
+          "options": { "A": "Drive the man to a station", "B": "Prepare a lease", "C": "Check a map", "D": "Call the current resident" },
+          "answer": "D",
+          "explanation": "'I'll just call the current tenant' – tenant = người đang thuê (resident)." }
+      ]
+    },
+    {
+      "part": 4, "audio": "audio/q71-73.mp3", "intro": "advertisement", "voice": "W",
+      "transcript": "Looking for a new home in the city? Riverside Towers, our brand-new apartment complex, is now accepting applications. Each unit features large windows with river views, and residents have free access to a rooftop pool and fitness center. Riverside Towers is just a five-minute walk from Central Station. If you sign a lease before the end of this month, you'll receive your first month's rent free. Visit our leasing office, open daily from nine to six, to take a tour.",
+      "questions": [
+        { "number": 71, "content": "What is being advertised?",
+          "options": { "A": "An apartment complex", "B": "A hotel", "C": "A fitness center", "D": "A train station" },
+          "answer": "A",
+          "explanation": "'Riverside Towers, our brand-new apartment complex, is now accepting applications.'" },
+        { "number": 72, "content": "What is mentioned about the location?",
+          "options": { "A": "It is next to a park.", "B": "It is near a shopping mall.", "C": "It is close to a train station.", "D": "It is in a quiet suburb." },
+          "answer": "C",
+          "explanation": "'Just a five-minute walk from Central Station.'" },
+        { "number": 73, "content": "How can listeners receive a month of free rent?",
+          "options": { "A": "By referring a friend", "B": "By signing a contract before a deadline", "C": "By paying a year in advance", "D": "By applying online" },
+          "answer": "B",
+          "explanation": "'If you sign a lease before the end of this month, you'll receive your first month's rent free.'" }
+      ]
+    },
+    {
+      "part": 4, "audio": "audio/q74-76.mp3", "intro": "telephone message", "voice": "M",
+      "transcript": "Hello, Ms. Carter. This is Daniel Wu, the manager at Elmwood Apartments. I'm calling because plumbers will be replacing the water pipes in your building next Tuesday. The water will be turned off from nine a.m. to three p.m. I know you work from home. The community room on the first floor will be open all day with Wi-Fi and coffee, and the water there won't be affected. If you have any questions, you can reach me at the front office.",
+      "questions": [
+        { "number": 74, "content": "What will happen next Tuesday?",
+          "options": { "A": "The building will be inspected.", "B": "The rent will increase.", "C": "New tenants will move in.", "D": "Some plumbing work will be done." },
+          "answer": "D",
+          "explanation": "'Plumbers will be replacing the water pipes in your building next Tuesday.'" },
+        { "number": 75, "content": "Why does the speaker say, “I know you work from home”?",
+          "options": { "A": "He understands the listener will be affected by the work.", "B": "He would like to visit the listener.", "C": "He wants her to move to another apartment.", "D": "He is asking about her job." },
+          "answer": "A",
+          "explanation": "Câu hỏi hàm ý: cô làm việc tại nhà nên việc cắt nước cả ngày ảnh hưởng tới cô → anh gợi ý dùng phòng sinh hoạt chung." },
+        { "number": 76, "content": "What is available in the community room?",
+          "options": { "A": "Free lunch", "B": "Printing services", "C": "Wi-Fi and beverages", "D": "Laundry machines" },
+          "answer": "C",
+          "explanation": "'The community room… will be open all day with Wi-Fi and coffee.'" }
+      ]
+    },
+    {
+      "part": 4, "audio": "audio/q77-79.mp3", "image": "images/q77-79.png", "intro": "talk and floor plan", "voice": "W",
+      "graphic": { "type": "map", "title": "Suite 500 Floor Plan",
+        "cells": [["Kitchen", "Office A", "Office B"], ["", "", ""], ["Reception", "Conference Room", "Office C"]] },
+      "transcript": "Thank you for coming to see Suite 500. As you can see from this floor plan, there are three private offices and a conference room. The suite was painted last month, and new carpet was installed throughout. I'd especially like you to see the office next to the kitchen. It has the best view of the harbor. The owner is also willing to include all the furniture at no extra cost. Please take your time, and let me know if you'd like to discuss the lease terms.",
+      "questions": [
+        { "number": 77, "content": "What was recently done to the suite?",
+          "options": { "A": "Some walls were removed.", "B": "New carpet was installed.", "C": "A kitchen was added.", "D": "The windows were replaced." },
+          "answer": "B",
+          "explanation": "'The suite was painted last month, and new carpet was installed throughout.'" },
+        { "number": 78, "content": "Look at the graphic. Which office does the speaker especially recommend?",
+          "options": { "A": "Office A", "B": "Office B", "C": "Office C", "D": "Reception" },
+          "answer": "A",
+          "explanation": "'The office next to the kitchen' – trên sơ đồ, văn phòng cạnh Kitchen là Office A." },
+        { "number": 79, "content": "What does the speaker say the owner is willing to do?",
+          "options": { "A": "Lower the rent", "B": "Shorten the lease", "C": "Pay for parking", "D": "Provide furniture for free" },
+          "answer": "D",
+          "explanation": "'The owner is also willing to include all the furniture at no extra cost.'" }
+      ]
+    }
+  ]
+}

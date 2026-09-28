@@ -1,0 +1,217 @@
+{
+  "title": "Listening Practice Test 03 – Dining & Restaurants",
+  "description": "Đề luyện Listening theo cấu trúc đề thi TOEIC (IIG Việt Nam), rút gọn 26 câu: Part 1 (2) · Part 2 (6) · Part 3 (9, có câu hỏi hàm ý và biểu đồ) · Part 4 (9, có sơ đồ). Chủ đề: nhà hàng, ẩm thực, dịch vụ tiệc.",
+  "skill": "Listening",
+  "durationMinutes": 15,
+  "publish": true,
+  "groups": [
+    {
+      "part": 1, "audio": "audio/q01.mp3", "image": "images/q01.png",
+      "scene": { "bg": "kitchen", "items": [
+        "#rect 520 150 220 10 #8a6a4f", "🫙 560 150 50", "🍶 630 150 50", "🥫 690 150 44",
+        "🧑🏻‍🍳 330 342 200",
+        "#rect 60 330 680 26 #d9cbb5 4", "#rect 70 356 660 184 #8a6a4f",
+        "🍳 480 340 84", "🥘 590 340 80", "🧂 670 338 44", "🥕 170 338 56"
+      ] },
+      "transcript": "(A) A cook is washing some pans.\n(B) Some customers are seated at a counter.\n(C) A server is carrying a tray.\n(D) A cook is preparing a meal.",
+      "questions": [
+        { "number": 1,
+          "options": { "A": "A cook is washing some pans.", "B": "Some customers are seated at a counter.", "C": "A server is carrying a tray.", "D": "A cook is preparing a meal." },
+          "answer": "D",
+          "explanation": "Đầu bếp đứng sau quầy với chảo, nồi đang nấu → (D). Không rửa chảo (A), không có khách (B), không có người phục vụ bưng khay (C)." }
+      ]
+    },
+    {
+      "part": 1, "audio": "audio/q02.mp3", "image": "images/q02.png",
+      "scene": { "bg": "patio", "items": [
+        "#shadow 200 470 240", "#shadow 560 470 240",
+        "#rect 196 290 8 180 #6b7280", "#dome 100 236 200 64 #ef4444", "#rect 100 298 200 8 #b91c1c 4",
+        "#rect 556 290 8 180 #6b7280", "#dome 460 236 200 64 #10b981", "#rect 460 298 200 8 #047857 4",
+        "#rect 145 395 110 12 #f8fafc 6", "#rect 193 407 14 62 #9ca3af",
+        "#rect 505 395 110 12 #f8fafc 6", "#rect 553 407 14 62 #9ca3af",
+        "🪑 110 472 92 flip", "🪑 290 472 92", "🪑 470 472 92 flip", "🪑 650 472 92",
+        "☕ 180 397 36", "🥤 580 397 38"
+      ] },
+      "transcript": "(A) Diners are eating on a patio.\n(B) Umbrellas have been set up over some tables.\n(C) Chairs are stacked beside a door.\n(D) A server is folding an umbrella.",
+      "questions": [
+        { "number": 2,
+          "options": { "A": "Diners are eating on a patio.", "B": "Umbrellas have been set up over some tables.", "C": "Chairs are stacked beside a door.", "D": "A server is folding an umbrella." },
+          "answer": "B",
+          "explanation": "Ô che nắng đã được dựng phía trên các bàn → (B) (bị động hoàn thành mô tả trạng thái). Ảnh không có người → loại (A), (D); ghế đặt quanh bàn chứ không chồng lên nhau → loại (C)." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q07.mp3",
+      "transcript": "Would you prefer a table inside or on the terrace?\n(A) It's on the menu.\n(B) Yes, I'd prefer that.\n(C) Inside, please. It's a bit windy.",
+      "questions": [
+        { "number": 7,
+          "options": { "A": "It's on the menu.", "B": "Yes, I'd prefer that.", "C": "Inside, please. It's a bit windy." },
+          "answer": "C",
+          "explanation": "Câu hỏi lựa chọn (inside hay terrace) → chọn một vế kèm lý do. (B) câu hỏi lựa chọn không trả lời Yes/No; (A) không liên quan." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q08.mp3",
+      "transcript": "Who recommended this restaurant?\n(A) My colleague in accounting.\n(B) The seafood pasta.\n(C) At seven thirty.",
+      "questions": [
+        { "number": 8,
+          "options": { "A": "My colleague in accounting.", "B": "The seafood pasta.", "C": "At seven thirty." },
+          "answer": "A",
+          "explanation": "Who → người: đồng nghiệp phòng kế toán. (B) là món ăn (trả lời What), (C) là thời gian (When)." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q09.mp3",
+      "transcript": "How much should we leave for a tip?\n(A) I'll leave at six.\n(B) Fifteen percent is usual here.\n(C) It was very helpful.",
+      "questions": [
+        { "number": 9,
+          "options": { "A": "I'll leave at six.", "B": "Fifteen percent is usual here.", "C": "It was very helpful." },
+          "answer": "B",
+          "explanation": "How much → số tiền/mức: 15% là mức thường lệ. (A) lặp từ 'leave' với nghĩa khác (rời đi); (C) bẫy nghĩa 'tip' = lời khuyên." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q10.mp3",
+      "transcript": "Didn't you order the vegetable soup?\n(A) In alphabetical order.\n(B) Yes, but I changed my mind.\n(C) It's very hot today.",
+      "questions": [
+        { "number": 10,
+          "options": { "A": "In alphabetical order.", "B": "Yes, but I changed my mind.", "C": "It's very hot today." },
+          "answer": "B",
+          "explanation": "Câu hỏi phủ định kiểm tra thông tin → 'Có, nhưng tôi đổi ý rồi'. (A) bẫy từ 'order' (thứ tự); (C) liên tưởng 'soup' – 'hot'." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q11.mp3",
+      "transcript": "Let's have the team lunch at the new Thai place.\n(A) She's on her lunch break.\n(B) No, I haven't placed it.\n(C) Good idea. I've heard great things about it.",
+      "questions": [
+        { "number": 11,
+          "options": { "A": "She's on her lunch break.", "B": "No, I haven't placed it.", "C": "Good idea. I've heard great things about it." },
+          "answer": "C",
+          "explanation": "'Let's…' là lời đề nghị → đồng ý. (A) lặp 'lunch'; (B) bẫy âm 'place' (nhà hàng) – 'placed' (đặt)." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q12.mp3",
+      "transcript": "When will the new menu be ready?\n(A) The chef is still testing a few dishes.\n(B) Yes, it's ready to eat.\n(C) Two menus, please.",
+      "questions": [
+        { "number": 12,
+          "options": { "A": "The chef is still testing a few dishes.", "B": "Yes, it's ready to eat.", "C": "Two menus, please." },
+          "answer": "A",
+          "explanation": "Câu trả lời gián tiếp: đầu bếp vẫn đang thử món → chưa biết khi nào xong. (C) lặp 'menu'; (B) Wh- question không trả lời Yes, lặp 'ready'." }
+      ]
+    },
+    {
+      "part": 3, "audio": "audio/q32-34.mp3",
+      "transcript": "M: Good afternoon, Bella Vista Restaurant. How may I help you?\nW: Hi, I'd like to reserve a table for twelve people this Saturday at seven. It's for my manager's retirement party.\nM: Let me check. I'm sorry, the main dining room is fully booked at seven. But our private room upstairs is available, and it can seat up to fifteen guests.\nW: That sounds even better. Is there an extra charge for the private room?\nM: There's no charge if you order from our set menu. I can e-mail you the menu options right now.\nW: Great, please do. I'll choose one and call you back tomorrow.",
+      "questions": [
+        { "number": 32, "content": "Why is the woman calling?",
+          "options": { "A": "To book a table", "B": "To order food for delivery", "C": "To apply for a job", "D": "To complain about a meal" },
+          "answer": "A",
+          "explanation": "'I'd like to reserve a table for twelve people…' – reserve = book." },
+        { "number": 33, "content": "What event is the woman planning?",
+          "options": { "A": "A birthday dinner", "B": "A retirement party", "C": "A promotion celebration", "D": "A product launch" },
+          "answer": "B",
+          "explanation": "'It's for my manager's retirement party.'" },
+        { "number": 34, "content": "What does the man offer to do?",
+          "options": { "A": "Reduce the price", "B": "Provide decorations", "C": "Change a reservation time", "D": "E-mail some information" },
+          "answer": "D",
+          "explanation": "'I can e-mail you the menu options right now.'" }
+      ]
+    },
+    {
+      "part": 3, "audio": "audio/q35-37.mp3",
+      "transcript": "W: Marco, the fish delivery just arrived, but half of the salmon we ordered is missing.\nM: Really? We have that big corporate lunch tomorrow, and salmon is the main dish.\nW: I called the supplier, and they said the rest won't come until Friday.\nM: Friday? The lunch is tomorrow at noon.\nW: I know. Should we change the menu?\nM: Let's see if Pacific Seafood can deliver today. I'll call them now. If they can't, we'll serve chicken instead and let the client know.",
+      "questions": [
+        { "number": 35, "content": "What problem does the woman report?",
+          "options": { "A": "A price has increased.", "B": "An order is incomplete.", "C": "Some equipment is broken.", "D": "A client has canceled." },
+          "answer": "B",
+          "explanation": "'Half of the salmon we ordered is missing' → đơn hàng giao thiếu (incomplete)." },
+        { "number": 36, "content": "What does the man imply when he says, “The lunch is tomorrow at noon”?",
+          "options": { "A": "He has not been informed about an event.", "B": "The kitchen staff should start early.", "C": "A delivery will arrive too late.", "D": "He wants to change the time of an event." },
+          "answer": "C",
+          "explanation": "Câu hỏi hàm ý: phần cá còn lại tới thứ Sáu mới giao, trong khi bữa trưa là ngày mai → giao như vậy là quá muộn." },
+        { "number": 37, "content": "What will the man most likely do next?",
+          "options": { "A": "Cook a different dish", "B": "Call a client", "C": "Contact another supplier", "D": "Visit a market" },
+          "answer": "C",
+          "explanation": "'Let's see if Pacific Seafood can deliver today. I'll call them now.' → liên hệ một nhà cung cấp khác. (A), (B) chỉ xảy ra nếu họ không giao được." }
+      ]
+    },
+    {
+      "part": 3, "audio": "audio/q38-40.mp3", "image": "images/q38-40.png", "intro": "conversation and menu",
+      "graphic": { "type": "table", "title": "Today's Lunch Specials",
+        "head": ["Dish", "Price"],
+        "rows": [["Grilled Chicken Salad", "$12"], ["Beef Noodle Soup", "$14"], ["Vegetable Curry", "$11"], ["Seafood Pasta", "$16"]] },
+      "transcript": "W: Excuse me, I'd like to order one of today's specials, but I don't eat meat.\nM: Then I'd suggest either the vegetable curry or the seafood pasta.\nW: Hmm, I had curry yesterday, so I'll try the pasta.\nM: Good choice. Just so you know, the pasta takes about twenty minutes to prepare. Is that OK?\nW: That's fine, but I need to be back at my office by one fifteen. Could I pay now so I don't have to wait for the bill later?\nM: Of course. I'll bring the card machine right away.",
+      "questions": [
+        { "number": 38, "content": "Why does the woman decide not to order the curry?",
+          "options": { "A": "It is too spicy.", "B": "She ate it recently.", "C": "It is sold out.", "D": "It takes too long to prepare." },
+          "answer": "B",
+          "explanation": "'I had curry yesterday, so I'll try the pasta.' (D) là thông tin về món pasta, không phải món cà ri." },
+        { "number": 39, "content": "Look at the graphic. How much will the woman pay for her meal?",
+          "options": { "A": "$12", "B": "$14", "C": "$11", "D": "$16" },
+          "answer": "D",
+          "explanation": "Cô ấy chọn Seafood Pasta; theo thực đơn, món này giá $16." },
+        { "number": 40, "content": "What does the woman want to do?",
+          "options": { "A": "Pay in advance", "B": "Order a dessert", "C": "Take her food to go", "D": "Change her table" },
+          "answer": "A",
+          "explanation": "'Could I pay now so I don't have to wait for the bill later?' → trả tiền trước." }
+      ]
+    },
+    {
+      "part": 4, "audio": "audio/q71-73.mp3", "intro": "advertisement", "voice": "M",
+      "transcript": "Are you looking for a place to hold your next business lunch? Come to Garden Terrace, located on the top floor of the Riverside Hotel. Our chef, who trained in Paris, prepares seasonal dishes using vegetables grown in our own rooftop garden. From Monday to Friday, we offer a two-course business lunch for just nineteen dollars. And this month only, groups of eight or more will receive a free dessert for every guest. Reservations can be made on our Web site.",
+      "questions": [
+        { "number": 71, "content": "What is being advertised?",
+          "options": { "A": "A cooking class", "B": "A restaurant", "C": "A hotel room", "D": "A garden center" },
+          "answer": "B",
+          "explanation": "Quảng cáo nhà hàng Garden Terrace cho bữa trưa công việc. (C) chỉ là vị trí (nằm trên tầng thượng khách sạn)." },
+        { "number": 72, "content": "What is mentioned about the vegetables?",
+          "options": { "A": "They are imported from France.", "B": "They are sold at a local market.", "C": "They are grown at the hotel.", "D": "They are delivered daily." },
+          "answer": "C",
+          "explanation": "'…vegetables grown in our own rooftop garden' → trồng ngay tại khách sạn. (A) bẫy: đầu bếp học ở Paris, không phải rau nhập từ Pháp." },
+        { "number": 73, "content": "What will groups of eight or more receive this month?",
+          "options": { "A": "A discount on drinks", "B": "A private room", "C": "A gift card", "D": "A free dessert" },
+          "answer": "D",
+          "explanation": "'Groups of eight or more will receive a free dessert for every guest.'" }
+      ]
+    },
+    {
+      "part": 4, "audio": "audio/q74-76.mp3", "intro": "telephone message", "voice": "W",
+      "transcript": "Hello, Mr. Fischer. This is Anna from Taste Catering, returning your call about the company dinner on May tenth. You mentioned you'd like to add twenty more guests. We can certainly do that, but we'll need to bring two more servers. You also asked whether we could provide a vegan dessert. Our pastry chef makes a chocolate avocado cake. Most people don't believe it's vegan! I'll send you an updated quote this afternoon. Please sign it and return it by Wednesday so we can confirm the extra staff.",
+      "questions": [
+        { "number": 74, "content": "What is the purpose of the message?",
+          "options": { "A": "To respond to a request for changes", "B": "To cancel an event", "C": "To ask for a late payment", "D": "To advertise a new service" },
+          "answer": "A",
+          "explanation": "Người nói gọi lại để trả lời các yêu cầu của khách: thêm 20 khách và món tráng miệng thuần chay." },
+        { "number": 75, "content": "Why does the speaker say, “Most people don't believe it's vegan”?",
+          "options": { "A": "To correct an earlier mistake", "B": "To express doubt about an ingredient", "C": "To suggest a different menu", "D": "To recommend a dessert" },
+          "answer": "D",
+          "explanation": "Câu hỏi hàm ý: bánh ngon tới mức người ta không tin là thuần chay → cô đang giới thiệu/khuyên dùng món này." },
+        { "number": 76, "content": "What does the speaker ask the listener to do by Wednesday?",
+          "options": { "A": "Return a signed document", "B": "Choose a main course", "C": "Pay a deposit", "D": "Confirm the number of guests" },
+          "answer": "A",
+          "explanation": "'Please sign it and return it by Wednesday' – 'it' là bản báo giá (quote)." }
+      ]
+    },
+    {
+      "part": 4, "audio": "audio/q77-79.mp3", "image": "images/q77-79.png", "intro": "talk and floor plan", "voice": "M",
+      "graphic": { "type": "map", "title": "Restaurant Floor Plan",
+        "cells": [["Window Section", "", "Kitchen"], ["Garden Room", "", "Private Room"], ["Entrance", "", "Bar"]] },
+      "transcript": "Good afternoon, everyone. Before we open, here's a quick update. Tonight we have a party of twenty from Hanley Architects. They're celebrating the firm's tenth anniversary, and they'll be seated in the room between the window section and the entrance. Because it's a big group, Sofia and Liam will serve only that room this evening. Also, the owner has asked me to remind you that our new wine list starts tonight. Please take a few minutes to review it before the doors open at five.",
+      "questions": [
+        { "number": 77, "content": "What is the group celebrating?",
+          "options": { "A": "A retirement", "B": "A contract signing", "C": "A grand opening", "D": "A company anniversary" },
+          "answer": "D",
+          "explanation": "'They're celebrating the firm's tenth anniversary' – firm = company." },
+        { "number": 78, "content": "Look at the graphic. Where will the group be seated?",
+          "options": { "A": "Window Section", "B": "Garden Room", "C": "Private Room", "D": "Bar" },
+          "answer": "B",
+          "explanation": "Phòng nằm giữa Window Section và Entrance trên sơ đồ là Garden Room." },
+        { "number": 79, "content": "What are the listeners asked to do before five o'clock?",
+          "options": { "A": "Set up some tables", "B": "Greet some guests", "C": "Review a new list", "D": "Clean the kitchen" },
+          "answer": "C",
+          "explanation": "'Please take a few minutes to review it (the new wine list) before the doors open at five.'" }
+      ]
+    }
+  ]
+}

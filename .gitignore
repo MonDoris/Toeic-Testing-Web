@@ -1,0 +1,11 @@
+bin/
+obj/
+.vs/
+*.user
+node_modules/
+client/dist/
+src/ToeicPractice.Api/wwwroot/
+src/ToeicPractice.Api/App_Data/
+*.db
+*.db-shm
+*.db-wal

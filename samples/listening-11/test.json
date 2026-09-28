@@ -1,0 +1,215 @@
+{
+  "title": "Listening Practice Test 11 – Finance & Banking",
+  "description": "Đề luyện Listening theo cấu trúc đề thi TOEIC (IIG Việt Nam), rút gọn 26 câu: Part 1 (2) · Part 2 (6) · Part 3 (9, có hội thoại 3 người, câu hỏi hàm ý và biểu đồ) · Part 4 (9). Chủ đề: ngân hàng, kế toán, chi phí, doanh thu.",
+  "skill": "Listening",
+  "durationMinutes": 15,
+  "publish": true,
+  "groups": [
+    {
+      "part": 1, "audio": "audio/q01.mp3", "image": "images/q01.png",
+      "scene": { "bg": "lobby", "items": [
+        "#rect 520 70 200 52 #065f46 6", "#text 546 80 28 #ffffff TELLERS",
+        "👩🏻‍💼 620 306 150",
+        "#rect 380 300 420 24 #6d4c35 4", "#rect 390 324 410 180 #8a6a4f",
+        "#shadow 120 505 120", "🧍🏿‍♂️ 120 507 180", "#shadow 220 505 120", "🧍🏻‍♀️ 220 507 180", "#shadow 320 505 120", "🧍🏽‍♂️ 320 507 180"
+      ] },
+      "transcript": "(A) A woman is counting some bills.\n(B) Some customers are seated in a waiting area.\n(C) Some people are standing in a line.\n(D) A man is opening a door.",
+      "questions": [
+        { "number": 1,
+          "options": { "A": "A woman is counting some bills.", "B": "Some customers are seated in a waiting area.", "C": "Some people are standing in a line.", "D": "A man is opening a door." },
+          "answer": "C",
+          "explanation": "Ba người đứng nối đuôi nhau trước quầy giao dịch → (C) 'standing in a line'. Nhân viên không đếm tiền (A); không ai ngồi (B); không có cửa (D)." }
+      ]
+    },
+    {
+      "part": 1, "audio": "audio/q02.mp3", "image": "images/q02.png",
+      "scene": { "bg": "park", "items": [
+        "#rect 0 390 800 150 #6b7280", "#rect 130 400 6 120 #f9fafb", "#rect 300 400 6 120 #f9fafb", "#rect 490 400 6 120 #f9fafb", "#rect 660 400 6 120 #f9fafb",
+        "#shadow 400 380 360", "🏦 400 386 300",
+        "🌳 80 386 150", "🌳 720 386 150",
+        "#shadow 215 480 150", "🚗 215 482 120", "#shadow 580 480 150", "🚙 580 482 120 flip"
+      ] },
+      "transcript": "(A) Some vehicles are parked in front of a building.\n(B) A building is under construction.\n(C) Some trees are being cut down.\n(D) People are walking into a bank.",
+      "questions": [
+        { "number": 2,
+          "options": { "A": "Some vehicles are parked in front of a building.", "B": "A building is under construction.", "C": "Some trees are being cut down.", "D": "People are walking into a bank." },
+          "answer": "A",
+          "explanation": "Hai chiếc xe đỗ ở bãi phía trước toà nhà ngân hàng → (A) (vehicles = xe cộ). Toà nhà đã hoàn thiện (B); không ai chặt cây (C); không có người (D)." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q07.mp3",
+      "transcript": "Where can I exchange currency?\n(A) In exchange for a discount.\n(B) At the bank on the first floor.\n(C) The current rate.",
+      "questions": [
+        { "number": 7,
+          "options": { "A": "In exchange for a discount.", "B": "At the bank on the first floor.", "C": "The current rate." },
+          "answer": "B",
+          "explanation": "Where → nơi đổi tiền: ngân hàng ở tầng một. (A) lặp 'exchange'; (C) bẫy âm 'currency' – 'current'." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q08.mp3",
+      "transcript": "How much is the monthly fee for this account?\n(A) There's no fee if you keep a minimum balance.\n(B) Once a month.\n(C) I'm feeling much better, thanks.",
+      "questions": [
+        { "number": 8,
+          "options": { "A": "There's no fee if you keep a minimum balance.", "B": "Once a month.", "C": "I'm feeling much better, thanks." },
+          "answer": "A",
+          "explanation": "How much → phí: miễn phí nếu duy trì số dư tối thiểu. (B) bẫy 'monthly' – 'once a month' (trả lời How often); (C) bẫy âm 'fee' – 'feeling'." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q09.mp3",
+      "transcript": "Who approved this expense report?\n(A) The report was very long.\n(B) Yes, it's been approved.\n(C) Ms. Tan in finance did.",
+      "questions": [
+        { "number": 9,
+          "options": { "A": "The report was very long.", "B": "Yes, it's been approved.", "C": "Ms. Tan in finance did." },
+          "answer": "C",
+          "explanation": "Who → người phê duyệt: cô Tan phòng tài chính. (A) lặp 'report'; (B) Yes không trả lời câu hỏi Who." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q10.mp3",
+      "transcript": "Could you explain these charges on my bill?\n(A) Of course. Let me take a look.\n(B) I need to charge my phone.\n(C) A ten-dollar bill.",
+      "questions": [
+        { "number": 10,
+          "options": { "A": "Of course. Let me take a look.", "B": "I need to charge my phone.", "C": "A ten-dollar bill." },
+          "answer": "A",
+          "explanation": "Lời đề nghị giải thích → 'Tất nhiên, để tôi xem'. (B) 'charge' với nghĩa sạc pin; (C) 'bill' với nghĩa tờ tiền." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q11.mp3",
+      "transcript": "Why hasn't the payment gone through yet?\n(A) Through the main entrance.\n(B) I paid for lunch.\n(C) The bank is closed for the holiday.",
+      "questions": [
+        { "number": 11,
+          "options": { "A": "Through the main entrance.", "B": "I paid for lunch.", "C": "The bank is closed for the holiday." },
+          "answer": "C",
+          "explanation": "Why → lý do khoản thanh toán chưa được xử lý: ngân hàng nghỉ lễ. (A) lặp 'through'; (B) bẫy 'payment' – 'paid'." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q12.mp3",
+      "transcript": "Do you want to open a savings account or a checking account?\n(A) It opens at nine.\n(B) Just a checking account for now.\n(C) Yes, I checked it.",
+      "questions": [
+        { "number": 12,
+          "options": { "A": "It opens at nine.", "B": "Just a checking account for now.", "C": "Yes, I checked it." },
+          "answer": "B",
+          "explanation": "Câu hỏi lựa chọn → chọn tài khoản thanh toán (checking account). (A) lặp 'open'; (C) bẫy 'checking' – 'checked'." }
+      ]
+    },
+    {
+      "part": 3, "audio": "audio/q32-34.mp3",
+      "transcript": "M: Good morning. I'd like to open a business account for my new bakery.\nW: Congratulations. Do you have your business registration certificate with you?\nM: Yes, I brought it, along with my passport.\nW: Perfect. Our business accounts have no monthly fee for the first year. You'll also get a free card reader, so your customers can pay by card.\nM: That's great. How long does it take to set up?\nW: The account will be open today, and your debit card will arrive by mail within five business days.",
+      "questions": [
+        { "number": 32, "content": "What type of business does the man own?",
+          "options": { "A": "A clothing store", "B": "A restaurant", "C": "A bakery", "D": "A flower shop" },
+          "answer": "C",
+          "explanation": "'I'd like to open a business account for my new bakery.'" },
+        { "number": 33, "content": "What does the woman say the man will receive for free?",
+          "options": { "A": "A checkbook", "B": "A payment device", "C": "A tax consultation", "D": "An insurance policy" },
+          "answer": "B",
+          "explanation": "'You'll also get a free card reader' – máy đọc thẻ = thiết bị thanh toán." },
+        { "number": 34, "content": "When will the man most likely receive his debit card?",
+          "options": { "A": "Today", "B": "Tomorrow", "C": "Next month", "D": "Within a week" },
+          "answer": "D",
+          "explanation": "'Your debit card will arrive by mail within five business days' → trong vòng một tuần. (A) là thời điểm tài khoản được mở." }
+      ]
+    },
+    {
+      "part": 3, "audio": "audio/q35-37.mp3", "intro": "conversation with three speakers",
+      "transcript": "W: Kenji, Paul, I've looked at the travel expenses for the third quarter. They're thirty percent higher than planned.\nM1: That's mostly because of the trade show in Dubai. Flights were much more expensive than we expected.\nM2: And we had to send five people instead of three.\nW: I see. Well, the fourth quarter includes the conference in London.\nM1: We could send just two people this time, and book the flights now, while they're cheaper.\nW: Good idea. Paul, can you check the prices today?\nM2: Sure. I'll look into it right after this meeting.",
+      "questions": [
+        { "number": 35, "content": "What problem does the woman mention?",
+          "options": { "A": "A trade show was canceled.", "B": "Some flights were delayed.", "C": "A report was submitted late.", "D": "Expenses were higher than expected." },
+          "answer": "D",
+          "explanation": "'Travel expenses… are thirty percent higher than planned.'" },
+        { "number": 36, "content": "What does the woman imply when she says, “the fourth quarter includes the conference in London”?",
+          "options": { "A": "She wants to attend the conference.", "B": "Upcoming travel costs must be managed carefully.", "C": "The conference has been canceled.", "D": "The budget has been increased." },
+          "answer": "B",
+          "explanation": "Câu hỏi hàm ý: quý 3 đã vượt chi, quý 4 lại có chuyến đi London → cần kiểm soát chi phí; các đồng nghiệp liền đề xuất cử ít người và đặt vé sớm." },
+        { "number": 37, "content": "What will Paul most likely do after the meeting?",
+          "options": { "A": "Register for a conference", "B": "Revise a report", "C": "Research airfares", "D": "Call a travel agent" },
+          "answer": "C",
+          "explanation": "'Paul, can you check the prices today?' – 'I'll look into it right after this meeting' → tìm hiểu giá vé máy bay (airfares)." }
+      ]
+    },
+    {
+      "part": 3, "audio": "audio/q38-40.mp3", "image": "images/q38-40.png", "intro": "conversation and table",
+      "graphic": { "type": "table", "title": "Savings Account Options",
+        "head": ["Account", "Interest Rate", "Minimum Deposit"],
+        "rows": [["Basic Saver", "1.5%", "$100"], ["Plus Saver", "2.2%", "$1,000"], ["Premier Saver", "3.0%", "$10,000"], ["Youth Saver*", "2.5%", "$50"]],
+        "note": "* For customers under 18" },
+      "transcript": "W: Hi, I'd like to open a savings account. I can deposit about five thousand dollars.\nM: We have several options. With that amount, you'd get the best rate with this account here.\nW: What about the one with the highest rate?\nM: That one requires a minimum deposit of ten thousand dollars. And the youth account is only for customers under eighteen.\nW: OK, I'll take the one you suggested. Can I manage it online?\nM: Yes. You can download our mobile app and set it up today.",
+      "questions": [
+        { "number": 38, "content": "How much money does the woman plan to deposit?",
+          "options": { "A": "$1,000", "B": "$2,500", "C": "$5,000", "D": "$10,000" },
+          "answer": "C",
+          "explanation": "'I can deposit about five thousand dollars.' (D) là mức tối thiểu của tài khoản Premier." },
+        { "number": 39, "content": "Look at the graphic. What interest rate will the woman most likely receive?",
+          "options": { "A": "1.5%", "B": "2.2%", "C": "3.0%", "D": "2.5%" },
+          "answer": "B",
+          "explanation": "Với $5,000: không đủ cho Premier ($10,000), không thuộc diện Youth (dưới 18 tuổi) → lãi suất tốt nhất là Plus Saver 2.2%." },
+        { "number": 40, "content": "What does the man suggest the woman do?",
+          "options": { "A": "Visit another branch", "B": "Speak with a manager", "C": "Bring an ID card", "D": "Use a mobile application" },
+          "answer": "D",
+          "explanation": "'You can download our mobile app and set it up today.'" }
+      ]
+    },
+    {
+      "part": 4, "audio": "audio/q71-73.mp3", "intro": "advertisement", "voice": "M",
+      "transcript": "Tax season is almost here. Are you ready? At Clearview Tax Services, our certified accountants will prepare your tax return quickly and accurately. First-time customers receive twenty percent off our standard fee. And if you bring a friend, you'll both get a free financial planning session. We're open until nine p.m. on weekdays and all day on Saturdays. Book an appointment today by calling five five five, two one eight zero.",
+      "questions": [
+        { "number": 71, "content": "What service is being advertised?",
+          "options": { "A": "Insurance sales", "B": "Tax preparation", "C": "Loan applications", "D": "Investment advice" },
+          "answer": "B",
+          "explanation": "'Our certified accountants will prepare your tax return' → dịch vụ khai thuế." },
+        { "number": 72, "content": "What do first-time customers receive?",
+          "options": { "A": "A free consultation", "B": "A gift card", "C": "A calculator", "D": "A reduced fee" },
+          "answer": "D",
+          "explanation": "'First-time customers receive twenty percent off our standard fee' → được giảm phí." },
+        { "number": 73, "content": "How can listeners receive a free financial planning session?",
+          "options": { "A": "By bringing a friend", "B": "By visiting on a Saturday", "C": "By booking online", "D": "By paying in advance" },
+          "answer": "A",
+          "explanation": "'If you bring a friend, you'll both get a free financial planning session.'" }
+      ]
+    },
+    {
+      "part": 4, "audio": "audio/q74-76.mp3", "intro": "excerpt from a meeting", "voice": "W",
+      "transcript": "Before we finish, I want to remind everyone about the new expense reporting rules. Starting next month, all receipts must be uploaded to the online system within seven days of purchase. Paper receipts will no longer be accepted. I know some of you are used to handing me an envelope full of receipts at the end of the month. If you have trouble using the system, Diego from IT will hold a short demonstration on Thursday at three.",
+      "questions": [
+        { "number": 74, "content": "What is the talk mainly about?",
+          "options": { "A": "A budget reduction", "B": "An office relocation", "C": "A change in expense procedures", "D": "A new travel agency" },
+          "answer": "C",
+          "explanation": "Quy định mới về báo cáo chi phí: tải hoá đơn lên hệ thống trong 7 ngày, không nhận hoá đơn giấy." },
+        { "number": 75, "content": "Why does the speaker say, “I know some of you are used to handing me an envelope full of receipts at the end of the month”?",
+          "options": { "A": "To point out that a common practice must change", "B": "To thank employees for their work", "C": "To complain about lost receipts", "D": "To request more documents" },
+          "answer": "A",
+          "explanation": "Câu hỏi hàm ý: ngay sau khi nói không nhận hoá đơn giấy nữa, cô nhắc thói quen nộp cả phong bì hoá đơn cuối tháng → thói quen đó phải thay đổi." },
+        { "number": 76, "content": "What will happen on Thursday?",
+          "options": { "A": "Expense reports are due.", "B": "A training demonstration will be held.", "C": "The system will be upgraded.", "D": "Auditors will visit the office." },
+          "answer": "B",
+          "explanation": "'Diego from IT will hold a short demonstration on Thursday at three.'" }
+      ]
+    },
+    {
+      "part": 4, "audio": "audio/q77-79.mp3", "image": "images/q77-79.png", "intro": "speech and chart", "voice": "M",
+      "graphic": { "type": "bars", "title": "Quarterly Revenue", "unit": "M",
+        "data": [["Q1", 4.2], ["Q2", 5.1], ["Q3", 3.8], ["Q4", 6.0]], "note": "In millions of dollars" },
+      "transcript": "Thank you all for coming. As you can see, it was a strong year overall. Revenue fell in only one quarter, when our main factory was closed for two months for equipment upgrades. Those upgrades have already paid off. In the final quarter, we produced more than ever before. Next year, we plan to open our first stores in Vietnam and Thailand. To support that growth, we'll be hiring about fifty new employees.",
+      "questions": [
+        { "number": 77, "content": "Look at the graphic. In which quarter was the factory closed?",
+          "options": { "A": "Q1", "B": "Q2", "C": "Q3", "D": "Q4" },
+          "answer": "C",
+          "explanation": "Doanh thu chỉ giảm ở quý nhà máy đóng cửa – theo biểu đồ, Q3 (3.8) thấp hơn quý trước." },
+        { "number": 78, "content": "According to the speaker, what will the company do next year?",
+          "options": { "A": "Build a new factory", "B": "Merge with a competitor", "C": "Reduce its workforce", "D": "Expand into new markets" },
+          "answer": "D",
+          "explanation": "'We plan to open our first stores in Vietnam and Thailand' → mở rộng sang thị trường mới." },
+        { "number": 79, "content": "How many new employees will the company hire?",
+          "options": { "A": "About fifty", "B": "About twenty", "C": "About fifteen", "D": "About one hundred" },
+          "answer": "A",
+          "explanation": "'We'll be hiring about fifty new employees.' Lưu ý phân biệt fifty (50) và fifteen (15)." }
+      ]
+    }
+  ]
+}

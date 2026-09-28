@@ -1,0 +1,214 @@
+{
+  "title": "Listening Practice Test 18 – Customer Service",
+  "description": "Đề luyện Listening theo cấu trúc đề thi TOEIC (IIG Việt Nam), rút gọn 26 câu: Part 1 (2) · Part 2 (6) · Part 3 (9, có hội thoại 3 người, câu hỏi hàm ý và biểu đồ) · Part 4 (9). Chủ đề: dịch vụ khách hàng, khiếu nại, đổi trả, tổng đài.",
+  "skill": "Listening",
+  "durationMinutes": 15,
+  "publish": true,
+  "groups": [
+    {
+      "part": 1, "audio": "audio/q01.mp3", "image": "images/q01.png",
+      "scene": { "bg": "lobby", "items": [
+        "#rect 420 70 280 52 #7c3aed 6", "#text 450 80 28 #ffffff HELP DESK",
+        "👩🏾‍💼 560 306 150",
+        "#rect 300 300 460 24 #6d4c35 4", "#rect 310 324 450 180 #8a6a4f",
+        "💻 450 306 60", "☎️ 670 306 52",
+        "#shadow 180 505 130", "🧍🏻‍♂️ 180 507 200"
+      ] },
+      "transcript": "(A) A woman is talking on the telephone.\n(B) A man is handing a package to a clerk.\n(C) Some shelves are being stocked.\n(D) A man is standing near a service counter.",
+      "questions": [
+        { "number": 1,
+          "options": { "A": "A woman is talking on the telephone.", "B": "A man is handing a package to a clerk.", "C": "Some shelves are being stocked.", "D": "A man is standing near a service counter." },
+          "answer": "D",
+          "explanation": "Người đàn ông đứng gần quầy hỗ trợ → (D). Điện thoại đặt trên quầy, nhân viên không nghe máy (A); không có gói hàng (B) hay kệ hàng (C)." }
+      ]
+    },
+    {
+      "part": 1, "audio": "audio/q02.mp3", "image": "images/q02.png",
+      "scene": { "bg": "office", "items": [
+        "🪑 400 372 160",
+        "#shadow 400 505 540", "#rect 140 340 520 22 #8a5a3b 4", "#rect 158 362 16 142 #6f4630", "#rect 626 362 16 142 #6f4630",
+        "☎️ 240 346 90", "📋 355 346 60", "📒 440 346 58", "🖊️ 500 346 40", "☕ 580 346 56"
+      ] },
+      "transcript": "(A) Some documents are being filed.\n(B) A telephone has been placed on a desk.\n(C) A chair is being pushed toward a desk.\n(D) A cup is being filled with coffee.",
+      "questions": [
+        { "number": 2,
+          "options": { "A": "Some documents are being filed.", "B": "A telephone has been placed on a desk.", "C": "A chair is being pushed toward a desk.", "D": "A cup is being filled with coffee." },
+          "answer": "B",
+          "explanation": "Chiếc điện thoại được đặt trên bàn → (B). Các câu bị động tiếp diễn (A), (C), (D) đều cần có người đang làm nhưng ảnh không có ai." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q07.mp3",
+      "transcript": "Can I return this item without a receipt?\n(A) Only for store credit.\n(B) He returned yesterday.\n(C) A receipt printer.",
+      "questions": [
+        { "number": 7,
+          "options": { "A": "Only for store credit.", "B": "He returned yesterday.", "C": "A receipt printer." },
+          "answer": "A",
+          "explanation": "Hỏi có trả hàng không cần hoá đơn được không → 'Chỉ được đổi sang tín dụng mua hàng'. (B) 'return' với nghĩa trở về; (C) lặp 'receipt'." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q08.mp3",
+      "transcript": "How long will it take to process my refund?\n(A) About twenty dollars.\n(B) A long line.\n(C) Five to seven business days.",
+      "questions": [
+        { "number": 8,
+          "options": { "A": "About twenty dollars.", "B": "A long line.", "C": "Five to seven business days." },
+          "answer": "C",
+          "explanation": "How long → khoảng thời gian: 5–7 ngày làm việc. (A) trả lời How much; (B) lặp 'long'." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q09.mp3",
+      "transcript": "Who handles customer complaints?\n(A) He complained about the noise.\n(B) Only on weekdays.\n(C) Ms. Ortiz in the service department.",
+      "questions": [
+        { "number": 9,
+          "options": { "A": "He complained about the noise.", "B": "Only on weekdays.", "C": "Ms. Ortiz in the service department." },
+          "answer": "C",
+          "explanation": "Who → người phụ trách. (A) bẫy 'complaints' – 'complained'; (B) trả lời When." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q10.mp3",
+      "transcript": "Would you like to leave a message?\n(A) I left at noon.\n(B) Yes, please ask him to call me back.\n(C) I sent a text message.",
+      "questions": [
+        { "number": 10,
+          "options": { "A": "I left at noon.", "B": "Yes, please ask him to call me back.", "C": "I sent a text message." },
+          "answer": "B",
+          "explanation": "Lời mời để lại lời nhắn → 'Vâng, nhờ anh ấy gọi lại'. (A) bẫy 'leave' – 'left'; (C) lặp 'message'." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q11.mp3",
+      "transcript": "Why was my order canceled?\n(A) The item is no longer in stock.\n(B) I ordered the pasta.\n(C) Yes, it was.",
+      "questions": [
+        { "number": 11,
+          "options": { "A": "The item is no longer in stock.", "B": "I ordered the pasta.", "C": "Yes, it was." },
+          "answer": "A",
+          "explanation": "Why → lý do: hết hàng. (B) lặp 'order'; (C) Yes không trả lời câu hỏi Why." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q12.mp3",
+      "transcript": "I'd like to speak to a manager.\n(A) He manages the store in Bristol.\n(B) Certainly. Please wait a moment.\n(C) I spoke to her last week.",
+      "questions": [
+        { "number": 12,
+          "options": { "A": "He manages the store in Bristol.", "B": "Certainly. Please wait a moment.", "C": "I spoke to her last week." },
+          "answer": "B",
+          "explanation": "Yêu cầu gặp quản lý → 'Vâng, xin chờ một chút'. (A) bẫy 'manager' – 'manages'; (C) bẫy 'speak' – 'spoke'." }
+      ]
+    },
+    {
+      "part": 3, "audio": "audio/q32-34.mp3",
+      "transcript": "W: Hello. I ordered a lamp from your Web site last week, and it arrived today. Unfortunately, the glass shade is cracked.\nM: I'm very sorry about that. Could you give me your order number?\nW: Sure. It's seven seven two five.\nM: Thank you. I can send you a replacement right away. It should arrive within three days.\nW: And what should I do with the broken one?\nM: You don't need to send it back. Just throw it away. I'll also add a ten-dollar credit to your account for the inconvenience.",
+      "questions": [
+        { "number": 32, "content": "Why is the woman calling?",
+          "options": { "A": "She wants to cancel an order.", "B": "She received a damaged item.", "C": "Her order is late.", "D": "She was charged incorrectly." },
+          "answer": "B",
+          "explanation": "'The glass shade is cracked' → hàng nhận được bị hỏng." },
+        { "number": 33, "content": "What does the man say he will send?",
+          "options": { "A": "A return label", "B": "A catalog", "C": "A new item", "D": "A refund check" },
+          "answer": "C",
+          "explanation": "'I can send you a replacement right away' – replacement = món hàng mới thay thế." },
+        { "number": 34, "content": "What does the man tell the woman to do with the broken item?",
+          "options": { "A": "Throw it away", "B": "Send it back", "C": "Take it to a store", "D": "Keep it for an inspection" },
+          "answer": "A",
+          "explanation": "'You don't need to send it back. Just throw it away.'" }
+      ]
+    },
+    {
+      "part": 3, "audio": "audio/q35-37.mp3", "intro": "conversation with three speakers",
+      "transcript": "W: Hi, Tony and Sam. I've been looking at our call center reports. Customers are waiting an average of twelve minutes before speaking to someone.\nM1: That's because two team members are on leave this month.\nM2: And call volume has doubled since the new product launched.\nW: I see. Our goal is three minutes, though.\nM1: What if we added a chat option on the Web site? Many questions are simple and could be answered by chat.\nW: That's a great idea. Sam, could you get a price estimate from our software provider?\nM2: Sure. I'll call them this afternoon.",
+      "questions": [
+        { "number": 35, "content": "What problem are the speakers discussing?",
+          "options": { "A": "A product defect", "B": "A software error", "C": "A lack of office space", "D": "Long waits for callers" },
+          "answer": "D",
+          "explanation": "'Customers are waiting an average of twelve minutes before speaking to someone.'" },
+        { "number": 36, "content": "What does the woman imply when she says, “Our goal is three minutes, though”?",
+          "options": { "A": "The current wait time is unacceptable.", "B": "The goal should be changed.", "C": "The reports contain an error.", "D": "Staff members need more breaks." },
+          "answer": "A",
+          "explanation": "Câu hỏi hàm ý: dù có lý do (thiếu người, lượng gọi tăng), mục tiêu là 3 phút mà thực tế 12 phút → không thể chấp nhận, cần giải pháp." },
+        { "number": 37, "content": "What will Sam do this afternoon?",
+          "options": { "A": "Hire more staff", "B": "Call a vendor", "C": "Write a report", "D": "Launch a product" },
+          "answer": "B",
+          "explanation": "'Sam, could you get a price estimate from our software provider?' – 'I'll call them this afternoon' (provider = vendor)." }
+      ]
+    },
+    {
+      "part": 3, "audio": "audio/q38-40.mp3", "image": "images/q38-40.png", "intro": "conversation and invoice",
+      "graphic": { "type": "table", "title": "Invoice – Order 4418",
+        "head": ["Item", "Quantity", "Amount"],
+        "rows": [["Desk chair", "4", "$480"], ["Filing cabinet", "2", "$300"], ["Desk lamp", "6", "$180"], ["Bookshelf", "1", "$150"]] },
+      "transcript": "M: Hi, I'm calling about an invoice I received from your company. I think there's a mistake.\nW: I'm sorry to hear that. What seems to be the problem?\nM: We ordered five desk lamps, not six. So we were charged for one extra.\nW: Let me check. You're right. I'll correct the invoice and send you a new one today.\nM: Thanks. Also, can we pay by bank transfer?\nW: Yes. The account details are printed at the bottom of the invoice.",
+      "questions": [
+        { "number": 38, "content": "Look at the graphic. Which amount is incorrect?",
+          "options": { "A": "$480", "B": "$300", "C": "$180", "D": "$150" },
+          "answer": "C",
+          "explanation": "Khách đặt 5 đèn bàn nhưng hoá đơn ghi 6 → dòng Desk lamp, số tiền $180 bị sai." },
+        { "number": 39, "content": "What will the woman do today?",
+          "options": { "A": "Send a revised invoice", "B": "Deliver a lamp", "C": "Issue a refund", "D": "Call a manager" },
+          "answer": "A",
+          "explanation": "'I'll correct the invoice and send you a new one today.'" },
+        { "number": 40, "content": "Where can the man find payment information?",
+          "options": { "A": "On a Web site", "B": "In a separate e-mail", "C": "On the back of a catalog", "D": "On the invoice itself" },
+          "answer": "D",
+          "explanation": "'The account details are printed at the bottom of the invoice.'" }
+      ]
+    },
+    {
+      "part": 4, "audio": "audio/q71-73.mp3", "intro": "recorded message", "voice": "W",
+      "transcript": "Thank you for calling Horizon Mobile customer service. Please listen carefully, as our menu options have changed. To check your account balance or pay your bill, press one. To report a lost or stolen phone, press two. For technical support, press three. You can also get help twenty-four hours a day through the chat feature in our mobile app. Please note that our stores will be closed on Monday for the national holiday.",
+      "questions": [
+        { "number": 71, "content": "What type of business is Horizon Mobile?",
+          "options": { "A": "A bank", "B": "A car rental company", "C": "A mobile phone service provider", "D": "An electronics store" },
+          "answer": "C",
+          "explanation": "Thanh toán hoá đơn, báo mất điện thoại, hỗ trợ kỹ thuật → nhà cung cấp dịch vụ di động." },
+        { "number": 72, "content": "What should callers do to report a lost phone?",
+          "options": { "A": "Press one", "B": "Press two", "C": "Press three", "D": "Visit a store" },
+          "answer": "B",
+          "explanation": "'To report a lost or stolen phone, press two.'" },
+        { "number": 73, "content": "What does the speaker say about the stores?",
+          "options": { "A": "They will open later on weekends.", "B": "They are hiring staff.", "C": "They offer repair services.", "D": "They will be closed for a holiday." },
+          "answer": "D",
+          "explanation": "'Our stores will be closed on Monday for the national holiday.'" }
+      ]
+    },
+    {
+      "part": 4, "audio": "audio/q74-76.mp3", "intro": "talk", "voice": "M",
+      "transcript": "Good morning, and welcome to your customer service training. Today, we'll focus on handling difficult phone calls. The most important thing is to listen carefully and let customers finish speaking before you respond. Many new employees want to solve the problem immediately. I did the same thing when I started. But customers want to feel heard first. After this session, you'll practice with some recorded calls. At the end of the week, you'll receive a certificate of completion.",
+      "questions": [
+        { "number": 74, "content": "What is the topic of the training?",
+          "options": { "A": "Using new software", "B": "Selling products", "C": "Writing e-mails", "D": "Dealing with challenging calls" },
+          "answer": "D",
+          "explanation": "'Today, we'll focus on handling difficult phone calls.'" },
+        { "number": 75, "content": "Why does the speaker say, “I did the same thing when I started”?",
+          "options": { "A": "To show that he understands a common mistake", "B": "To explain how he was promoted", "C": "To describe his first customer", "D": "To recommend a training course" },
+          "answer": "A",
+          "explanation": "Câu hỏi hàm ý: anh thừa nhận bản thân cũng từng vội giải quyết vấn đề như nhân viên mới → thể hiện sự thông cảm với lỗi phổ biến." },
+        { "number": 76, "content": "What will listeners do after the session?",
+          "options": { "A": "Receive certificates", "B": "Take a written test", "C": "Practice with some recordings", "D": "Meet with customers" },
+          "answer": "C",
+          "explanation": "'After this session, you'll practice with some recorded calls.' (A) là cuối tuần." }
+      ]
+    },
+    {
+      "part": 4, "audio": "audio/q77-79.mp3", "image": "images/q77-79.png", "intro": "excerpt from a meeting and chart", "voice": "W",
+      "graphic": { "type": "bars", "title": "Customer Satisfaction – First Quarter", "unit": "%",
+        "data": [["Northgate", 82], ["Riverside", 91], ["Hillview", 68], ["Eastport", 87]] },
+      "transcript": "Here are the results of our customer satisfaction survey for the first quarter. Overall, the scores are good. However, one branch scored much lower than the others. Many customers there complained that it took too long to get help. That's because the branch lost three employees in January. We've already hired replacements, and they'll start next week. I'd also like the manager of our top-rated branch to share some tips at our next meeting.",
+      "questions": [
+        { "number": 77, "content": "Look at the graphic. Which branch lost employees in January?",
+          "options": { "A": "Northgate", "B": "Riverside", "C": "Hillview", "D": "Eastport" },
+          "answer": "C",
+          "explanation": "Chi nhánh điểm thấp hơn hẳn là chi nhánh mất 3 nhân viên – theo biểu đồ là Hillview (68%)." },
+        { "number": 78, "content": "What did customers complain about?",
+          "options": { "A": "High prices", "B": "Slow service", "C": "Poor product quality", "D": "Dirty facilities" },
+          "answer": "B",
+          "explanation": "'It took too long to get help' → phục vụ chậm." },
+        { "number": 79, "content": "What is the manager of the top-rated branch asked to do?",
+          "options": { "A": "Share advice at a meeting", "B": "Train new employees", "C": "Visit another branch", "D": "Conduct a survey" },
+          "answer": "A",
+          "explanation": "'I'd also like the manager of our top-rated branch to share some tips at our next meeting.'" }
+      ]
+    }
+  ]
+}

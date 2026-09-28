@@ -1,0 +1,218 @@
+{
+  "title": "Listening Practice Test 04 – Shopping & Retail",
+  "description": "Đề luyện Listening theo cấu trúc đề thi TOEIC (IIG Việt Nam), rút gọn 26 câu: Part 1 (2) · Part 2 (6) · Part 3 (9, có hội thoại 3 người, câu hỏi hàm ý và biểu đồ) · Part 4 (9). Chủ đề: mua sắm, cửa hàng, đổi trả hàng.",
+  "skill": "Listening",
+  "durationMinutes": 15,
+  "publish": true,
+  "groups": [
+    {
+      "part": 1, "audio": "audio/q01.mp3", "image": "images/q01.png",
+      "scene": { "bg": "store", "items": [
+        "#rect 40 70 720 300 #e7dccb 6",
+        "#rect 40 160 720 10 #a0785a", "#rect 40 255 720 10 #a0785a", "#rect 40 350 720 10 #a0785a",
+        "🧃 80 160 56", "🧃 140 160 56", "🥫 200 160 52", "🥫 255 160 52", "🧴 320 160 56", "🧴 380 160 56", "🍯 450 160 52", "🍯 510 160 52", "🧃 580 160 56", "🥫 650 160 52", "🥫 710 160 52",
+        "🍞 90 255 60", "🍞 160 255 60", "🥖 240 255 64", "🧀 320 255 56", "🥛 390 255 60", "🥛 450 255 60", "🧈 520 255 52", "🥚 590 255 52", "🧀 660 255 56", "🍞 720 255 56",
+        "🧻 90 350 56", "🧻 150 350 56", "🧼 220 350 52", "🧽 290 350 52", "🧴 360 350 56",
+        "#shadow 460 505 300", "🛒 380 505 140", "🚶🏽‍♀️ 540 505 200"
+      ] },
+      "transcript": "(A) A woman is pushing a shopping cart.\n(B) A woman is stocking some shelves.\n(C) Some items are being scanned at a register.\n(D) The shelves are empty.",
+      "questions": [
+        { "number": 1,
+          "options": { "A": "A woman is pushing a shopping cart.", "B": "A woman is stocking some shelves.", "C": "Some items are being scanned at a register.", "D": "The shelves are empty." },
+          "answer": "A",
+          "explanation": "Người phụ nữ đang đẩy xe mua hàng trong lối đi → (A). Cô ấy không xếp hàng lên kệ (B – 'stock' = chất hàng lên kệ); không có quầy tính tiền (C); kệ đầy hàng (D)." }
+      ]
+    },
+    {
+      "part": 1, "audio": "audio/q02.mp3", "image": "images/q02.png",
+      "scene": { "bg": "store", "items": [
+        "#shadow 400 505 620",
+        "#rect 100 330 600 20 #8a5a3b 4", "#rect 120 350 560 150 #a0785a 4",
+        "🧺 200 336 110", "🧺 330 336 110", "🧺 460 336 110", "🧺 590 336 110",
+        "🍎 180 296 42", "🍎 220 296 42", "🍊 310 296 42", "🍊 350 296 42", "🍋 440 296 42", "🍋 480 296 42", "🍇 570 296 42", "🍇 610 296 42",
+        "#rect 170 390 60 30 #ffffff 4", "#rect 300 390 60 30 #ffffff 4", "#rect 430 390 60 30 #ffffff 4", "#rect 560 390 60 30 #ffffff 4",
+        "#text 178 393 18 #b91c1c $2.50", "#text 308 393 18 #b91c1c $3.00", "#text 438 393 18 #b91c1c $1.80", "#text 568 393 18 #b91c1c $4.20"
+      ] },
+      "transcript": "(A) A vendor is weighing some fruit.\n(B) Customers are filling their baskets.\n(C) Fruit has been arranged in baskets.\n(D) Some boxes are being unloaded from a truck.",
+      "questions": [
+        { "number": 2,
+          "options": { "A": "A vendor is weighing some fruit.", "B": "Customers are filling their baskets.", "C": "Fruit has been arranged in baskets.", "D": "Some boxes are being unloaded from a truck." },
+          "answer": "C",
+          "explanation": "Trái cây đã được xếp sẵn trong các giỏ trên quầy → (C). Không có người bán/khách hàng → loại (A), (B); không có xe tải → loại (D)." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q07.mp3",
+      "transcript": "Do you have this jacket in a larger size?\n(A) It's larger than I thought.\n(B) Let me check in the back.\n(C) A leather jacket.",
+      "questions": [
+        { "number": 7,
+          "options": { "A": "It's larger than I thought.", "B": "Let me check in the back.", "C": "A leather jacket." },
+          "answer": "B",
+          "explanation": "Khách hỏi còn cỡ lớn hơn không → nhân viên trả lời gián tiếp 'để tôi kiểm tra trong kho'. (A) lặp 'larger'; (C) lặp 'jacket'." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q08.mp3",
+      "transcript": "Where's the customer service desk?\n(A) Yes, it's a great service.\n(B) I'd like to return this.\n(C) On the second floor, by the elevators.",
+      "questions": [
+        { "number": 8,
+          "options": { "A": "Yes, it's a great service.", "B": "I'd like to return this.", "C": "On the second floor, by the elevators." },
+          "answer": "C",
+          "explanation": "Where → vị trí: tầng hai, cạnh thang máy. (A) trả lời Yes cho câu Wh-, lặp 'service'; (B) liên tưởng tới quầy dịch vụ khách hàng." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q09.mp3",
+      "transcript": "Why is the store closing early today?\n(A) The staff are doing inventory.\n(B) At six o'clock.\n(C) Close to the station.",
+      "questions": [
+        { "number": 9,
+          "options": { "A": "The staff are doing inventory.", "B": "At six o'clock.", "C": "Close to the station." },
+          "answer": "A",
+          "explanation": "Why → lý do: nhân viên kiểm kê hàng. (C) bẫy đồng âm 'close' (gần); (B) trả lời When." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q10.mp3",
+      "transcript": "Should I pay with cash or by credit card?\n(A) A thirty-dollar refund.\n(B) Yes, I paid it.\n(C) Either is fine.",
+      "questions": [
+        { "number": 10,
+          "options": { "A": "A thirty-dollar refund.", "B": "Yes, I paid it.", "C": "Either is fine." },
+          "answer": "C",
+          "explanation": "Câu hỏi lựa chọn → 'Either is fine' (cách nào cũng được) là đáp án rất hay gặp. (B) Yes/No không hợp với câu hỏi lựa chọn." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q11.mp3",
+      "transcript": "This printer is on sale this week, isn't it?\n(A) Only until Saturday.\n(B) The sales department.\n(C) Please print it on both sides.",
+      "questions": [
+        { "number": 11,
+          "options": { "A": "Only until Saturday.", "B": "The sales department.", "C": "Please print it on both sides." },
+          "answer": "A",
+          "explanation": "Câu hỏi đuôi xác nhận đang giảm giá → 'Chỉ đến thứ Bảy thôi' (ngầm xác nhận có). (B) bẫy 'sale' – 'sales'; (C) bẫy 'printer' – 'print'." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q12.mp3",
+      "transcript": "How often do you get new shipments of shoes?\n(A) A pair of running shoes.\n(B) About twice a month.\n(C) By ship.",
+      "questions": [
+        { "number": 12,
+          "options": { "A": "A pair of running shoes.", "B": "About twice a month.", "C": "By ship." },
+          "answer": "B",
+          "explanation": "How often → tần suất: khoảng hai lần mỗi tháng. (A) lặp 'shoes'; (C) bẫy âm 'shipments' – 'ship'." }
+      ]
+    },
+    {
+      "part": 3, "audio": "audio/q32-34.mp3",
+      "transcript": "W: Hi, I bought this coffee maker here last week, but it stopped working yesterday.\nM: I'm sorry about that. Do you have your receipt?\nW: Yes, here it is. I'd like to exchange it for a new one.\nM: Unfortunately, we're out of that model right now. We're expecting more next Tuesday. Or you could choose a different model, and I'd take ten percent off.\nW: I'll wait for the same model. I really like the design.\nM: OK. I'll put one aside for you and give you a call when the shipment arrives.",
+      "questions": [
+        { "number": 32, "content": "What problem does the woman mention?",
+          "options": { "A": "She was charged twice.", "B": "A delivery was late.", "C": "She lost her receipt.", "D": "A product stopped working." },
+          "answer": "D",
+          "explanation": "'I bought this coffee maker… but it stopped working yesterday.' (C) sai vì cô ấy có hoá đơn." },
+        { "number": 33, "content": "What does the man offer?",
+          "options": { "A": "Free delivery", "B": "A discount on another model", "C": "A store credit", "D": "An extended warranty" },
+          "answer": "B",
+          "explanation": "'You could choose a different model, and I'd take ten percent off' → giảm giá cho mẫu khác." },
+        { "number": 34, "content": "What will the man do when a shipment arrives?",
+          "options": { "A": "Deliver an item to her home", "B": "Send her a coupon", "C": "Call the woman", "D": "Repair the old item" },
+          "answer": "C",
+          "explanation": "'I'll… give you a call when the shipment arrives.'" }
+      ]
+    },
+    {
+      "part": 3, "audio": "audio/q35-37.mp3", "intro": "conversation with three speakers",
+      "transcript": "W: Thanks for staying late, Ben and Carlos. Our spring sale starts tomorrow, and we need to change all the price tags tonight.\nM1: No problem. How many items are on sale?\nW: About three hundred. The list is on the counter.\nM2: Three hundred? We only have two scanning guns.\nW: Good point. I'll bring another one from the storage room. Carlos, can you print the new signs for the windows?\nM2: Sure. I'll do that first.\nM1: And I'll start with the electronics section.",
+      "questions": [
+        { "number": 35, "content": "What is the store preparing for?",
+          "options": { "A": "A grand opening", "B": "A seasonal sale", "C": "An inventory check", "D": "A product demonstration" },
+          "answer": "B",
+          "explanation": "'Our spring sale starts tomorrow' – spring sale = đợt giảm giá theo mùa." },
+        { "number": 36, "content": "What does one of the men imply when he says, “We only have two scanning guns”?",
+          "options": { "A": "Some devices are broken.", "B": "The sale should be postponed.", "C": "They need more equipment.", "D": "He would like to leave early." },
+          "answer": "C",
+          "explanation": "Câu hỏi hàm ý: 300 món hàng mà chỉ có 2 máy quét → cần thêm thiết bị. Người phụ nữ đáp 'Good point. I'll bring another one'." },
+        { "number": 37, "content": "What will the woman do next?",
+          "options": { "A": "Print some signs", "B": "Update a price list", "C": "Call a supplier", "D": "Get an item from storage" },
+          "answer": "D",
+          "explanation": "'I'll bring another one from the storage room.' (A) là việc của Carlos." }
+      ]
+    },
+    {
+      "part": 3, "audio": "audio/q38-40.mp3", "image": "images/q38-40.png", "intro": "conversation and store directory",
+      "graphic": { "type": "table", "title": "Store Directory",
+        "head": ["Floor", "Department"],
+        "rows": [["1", "Cosmetics & Jewelry"], ["2", "Women's Clothing"], ["3", "Men's Clothing"], ["4", "Home & Kitchen"]] },
+      "transcript": "M: Excuse me, I'm looking for a gift for my sister. She just moved into a new apartment.\nW: How nice. Were you thinking of something for her kitchen? We have some beautiful dishes on sale.\nM: That sounds perfect. Which floor is that on?\nW: It's on the top floor. Take the elevator right behind you.\nM: Thanks. Oh, and do you offer gift wrapping?\nW: Yes, it's free. Just bring your item to any register, and the cashier will wrap it for you.",
+      "questions": [
+        { "number": 38, "content": "Why is the man shopping?",
+          "options": { "A": "He is looking for a present.", "B": "He is decorating his office.", "C": "He wants to return an item.", "D": "He is picking up an order." },
+          "answer": "A",
+          "explanation": "'I'm looking for a gift for my sister' – gift = present." },
+        { "number": 39, "content": "Look at the graphic. Which floor will the man most likely go to?",
+          "options": { "A": "Floor 1", "B": "Floor 2", "C": "Floor 3", "D": "Floor 4" },
+          "answer": "D",
+          "explanation": "Đồ dùng nhà bếp (dishes) ở 'the top floor' – bảng chỉ dẫn cho thấy Home & Kitchen ở tầng 4." },
+        { "number": 40, "content": "What does the woman say about gift wrapping?",
+          "options": { "A": "It must be requested online.", "B": "It is only for members.", "C": "It is free of charge.", "D": "It takes one day." },
+          "answer": "C",
+          "explanation": "'Yes, it's free.' → miễn phí (free of charge)." }
+      ]
+    },
+    {
+      "part": 4, "audio": "audio/q71-73.mp3", "intro": "announcement", "voice": "W",
+      "transcript": "Good evening, shoppers, and thank you for choosing Maxwell's Department Store. Just a reminder that the store will close in thirty minutes, at nine p.m. Please bring your final purchases to the registers on the first floor. Also, starting tomorrow, our annual winter clearance sale begins, with up to sixty percent off selected coats, boots, and scarves. Members of our rewards program can enter the store one hour early, at nine a.m., to enjoy the best selection.",
+      "questions": [
+        { "number": 71, "content": "What time does the store close tonight?",
+          "options": { "A": "At 8:00 p.m.", "B": "At 8:30 p.m.", "C": "At 9:00 p.m.", "D": "At 10:00 p.m." },
+          "answer": "C",
+          "explanation": "'The store will close in thirty minutes, at nine p.m.'" },
+        { "number": 72, "content": "What will begin tomorrow?",
+          "options": { "A": "A fashion show", "B": "A store renovation", "C": "A holiday event", "D": "A clearance sale" },
+          "answer": "D",
+          "explanation": "'Starting tomorrow, our annual winter clearance sale begins.'" },
+        { "number": 73, "content": "What benefit do rewards program members receive?",
+          "options": { "A": "Free parking", "B": "Early entry", "C": "An extra discount", "D": "Gift wrapping" },
+          "answer": "B",
+          "explanation": "'Members… can enter the store one hour early' → được vào sớm." }
+      ]
+    },
+    {
+      "part": 4, "audio": "audio/q74-76.mp3", "intro": "advertisement", "voice": "M",
+      "transcript": "Is your old laptop slowing you down? Then visit TechZone this weekend. We're offering up to four hundred dollars in credit when you trade in your old computer for a new one. And our staff will transfer all your files to your new device for free. Trade-in offers like this don't come around often. This one ends on Sunday. TechZone has three locations in the city, and our Market Street store is open until ten p.m.",
+      "questions": [
+        { "number": 74, "content": "What is being advertised?",
+          "options": { "A": "A computer repair class", "B": "A trade-in promotion", "C": "A new software program", "D": "A moving service" },
+          "answer": "B",
+          "explanation": "Cửa hàng tặng tới $400 khi khách đổi máy tính cũ lấy máy mới → chương trình thu cũ đổi mới." },
+        { "number": 75, "content": "What does the store offer to do for free?",
+          "options": { "A": "Install new software", "B": "Deliver a device", "C": "Extend a warranty", "D": "Move data to a new device" },
+          "answer": "D",
+          "explanation": "'Our staff will transfer all your files to your new device for free' – transfer files = move data." },
+        { "number": 76, "content": "What does the speaker imply when he says, “Trade-in offers like this don't come around often”?",
+          "options": { "A": "Listeners should take advantage of the offer soon.", "B": "The store will close soon.", "C": "The offer is only for new customers.", "D": "Old devices are hard to sell." },
+          "answer": "A",
+          "explanation": "Câu hỏi hàm ý: ưu đãi hiếm có và kết thúc Chủ nhật → khuyến khích người nghe tranh thủ ngay." }
+      ]
+    },
+    {
+      "part": 4, "audio": "audio/q77-79.mp3", "image": "images/q77-79.png", "intro": "excerpt from a meeting and chart", "voice": "W",
+      "graphic": { "type": "bars", "title": "Last Month's Sales by Department", "unit": "k",
+        "data": [["Clothing", 48], ["Shoes", 30], ["Toys", 22], ["Electronics", 55]], "note": "In thousands of dollars" },
+      "transcript": "Thanks for coming, everyone. I've put last month's sales figures on the screen. As expected, electronics had the strongest month, mainly because of the release of the new tablet. However, I'm concerned about the department with the lowest sales. It's near the back of the store, so customers have trouble finding it. Next week, we'll move it closer to the entrance. I'll need two volunteers to help with the move on Monday evening. Please let me know by Friday.",
+      "questions": [
+        { "number": 77, "content": "According to the speaker, what caused strong sales in electronics?",
+          "options": { "A": "A holiday season", "B": "The release of a new product", "C": "A price reduction", "D": "A television commercial" },
+          "answer": "B",
+          "explanation": "'…mainly because of the release of the new tablet.'" },
+        { "number": 78, "content": "Look at the graphic. Which department will be moved?",
+          "options": { "A": "Clothing", "B": "Shoes", "C": "Toys", "D": "Electronics" },
+          "answer": "C",
+          "explanation": "Bộ phận có doanh số thấp nhất sẽ được dời lên gần lối vào; theo biểu đồ, thấp nhất là Toys (22)." },
+        { "number": 79, "content": "What does the speaker ask for?",
+          "options": { "A": "Volunteers to help with a task", "B": "Ideas for a window display", "C": "Updated sales reports", "D": "Customer feedback" },
+          "answer": "A",
+          "explanation": "'I'll need two volunteers to help with the move on Monday evening.'" }
+      ]
+    }
+  ]
+}

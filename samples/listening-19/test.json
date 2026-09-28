@@ -1,0 +1,215 @@
+{
+  "title": "Listening Practice Test 19 – Corporate Events & Training",
+  "description": "Đề luyện Listening theo cấu trúc đề thi TOEIC (IIG Việt Nam), rút gọn 26 câu: Part 1 (2) · Part 2 (6) · Part 3 (9, có hội thoại 3 người, câu hỏi hàm ý và biểu đồ) · Part 4 (9, có sơ đồ). Chủ đề: tiệc công ty, đào tạo nội bộ, hoạt động gắn kết.",
+  "skill": "Listening",
+  "durationMinutes": 15,
+  "publish": true,
+  "groups": [
+    {
+      "part": 1, "audio": "audio/q01.mp3", "image": "images/q01.png",
+      "scene": { "bg": "lobby", "items": [
+        "#rect 220 60 360 60 #b45309 6", "#text 262 72 34 #ffffff ANNUAL GALA",
+        "🪑 150 404 90", "🪑 290 404 90", "🪑 510 404 90", "🪑 650 404 90",
+        "#shadow 220 500 280", "#rect 100 405 240 92 #f3f4f6", "#ellipse 90 380 260 56 #ffffff",
+        "#shadow 580 500 280", "#rect 460 405 240 92 #f3f4f6", "#ellipse 450 380 260 56 #ffffff",
+        "🍽️ 150 414 44", "🍷 190 410 40", "💐 220 406 62", "🍷 250 410 40", "🍽️ 290 414 44",
+        "🍽️ 510 414 44", "🍷 550 410 40", "💐 580 406 62", "🍷 610 410 40", "🍽️ 650 414 44"
+      ] },
+      "transcript": "(A) Guests are being served dinner.\n(B) Some chairs are being stacked.\n(C) Some tables have been set for a meal.\n(D) A banner is being hung on a wall.",
+      "questions": [
+        { "number": 1,
+          "options": { "A": "Guests are being served dinner.", "B": "Some chairs are being stacked.", "C": "Some tables have been set for a meal.", "D": "A banner is being hung on a wall." },
+          "answer": "C",
+          "explanation": "Bàn tiệc đã được bày sẵn đĩa, ly và hoa → (C) 'set for a meal'. Không có người nên các câu bị động tiếp diễn (A), (B), (D) đều sai." }
+      ]
+    },
+    {
+      "part": 1, "audio": "audio/q02.mp3", "image": "images/q02.png",
+      "scene": { "bg": "street", "items": [
+        "#shadow 660 340 130", "🌳 660 344 130",
+        "#shadow 300 372 120", "🚶🏻‍♀️ 300 374 150", "#shadow 440 372 120", "🚶🏾‍♂️ 440 374 150",
+        "#shadow 200 470 150", "🚕 200 472 130"
+      ] },
+      "transcript": "(A) Some people are walking along a sidewalk.\n(B) Some people are waiting for a bus.\n(C) A taxi is being washed.\n(D) Some pedestrians are crossing the street.",
+      "questions": [
+        { "number": 2,
+          "options": { "A": "Some people are walking along a sidewalk.", "B": "Some people are waiting for a bus.", "C": "A taxi is being washed.", "D": "Some pedestrians are crossing the street." },
+          "answer": "A",
+          "explanation": "Hai người đang đi bộ trên vỉa hè → (A). Không có trạm xe buýt (B); không ai rửa xe (C); họ không băng qua đường (D)." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q07.mp3",
+      "transcript": "Where is the company picnic being held this year?\n(A) Next Saturday.\n(B) At Lakeside Park.\n(C) It was a great picnic.",
+      "questions": [
+        { "number": 7,
+          "options": { "A": "Next Saturday.", "B": "At Lakeside Park.", "C": "It was a great picnic." },
+          "answer": "B",
+          "explanation": "Where → địa điểm: công viên Lakeside. (A) trả lời When; (C) lặp 'picnic' và sai thì." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q08.mp3",
+      "transcript": "Have you registered for the leadership workshop?\n(A) The cash register is broken.\n(B) It's a leadership position.\n(C) Yes, I signed up yesterday.",
+      "questions": [
+        { "number": 8,
+          "options": { "A": "The cash register is broken.", "B": "It's a leadership position.", "C": "Yes, I signed up yesterday." },
+          "answer": "C",
+          "explanation": "Câu hỏi Yes/No → 'Rồi, tôi đăng ký hôm qua' (sign up = register). (A) bẫy 'registered' – 'register' (máy tính tiền); (B) lặp 'leadership'." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q09.mp3",
+      "transcript": "Who's giving the welcome speech at the banquet?\n(A) The CEO, Ms. Harlow.\n(B) At the Grand Hotel.\n(C) A three-course dinner.",
+      "questions": [
+        { "number": 9,
+          "options": { "A": "The CEO, Ms. Harlow.", "B": "At the Grand Hotel.", "C": "A three-course dinner." },
+          "answer": "A",
+          "explanation": "Who → người phát biểu. (B) trả lời Where; (C) liên tưởng 'banquet' – 'dinner'." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q10.mp3",
+      "transcript": "Could you order the name badges for the seminar?\n(A) Sure. How many do we need?\n(B) In alphabetical order.\n(C) The seminar was useful.",
+      "questions": [
+        { "number": 10,
+          "options": { "A": "Sure. How many do we need?", "B": "In alphabetical order.", "C": "The seminar was useful." },
+          "answer": "A",
+          "explanation": "Lời nhờ đặt thẻ tên → đồng ý và hỏi số lượng. (B) 'order' với nghĩa thứ tự; (C) lặp 'seminar'." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q11.mp3",
+      "transcript": "Why was the training session postponed?\n(A) It's posted on the board.\n(B) For two hours.\n(C) The trainer's flight was canceled.",
+      "questions": [
+        { "number": 11,
+          "options": { "A": "It's posted on the board.", "B": "For two hours.", "C": "The trainer's flight was canceled." },
+          "answer": "C",
+          "explanation": "Why → lý do: chuyến bay của giảng viên bị huỷ. (A) bẫy âm 'postponed' – 'posted'; (B) trả lời How long." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q12.mp3",
+      "transcript": "Should we have the party at the office or at a restaurant?\n(A) Yes, it was a nice party.\n(B) A restaurant would be more relaxing.\n(C) I'll be at the office.",
+      "questions": [
+        { "number": 12,
+          "options": { "A": "Yes, it was a nice party.", "B": "A restaurant would be more relaxing.", "C": "I'll be at the office." },
+          "answer": "B",
+          "explanation": "Câu hỏi lựa chọn → chọn nhà hàng kèm lý do. (A) Yes không hợp, lặp 'party'; (C) lặp 'office'." }
+      ]
+    },
+    {
+      "part": 3, "audio": "audio/q32-34.mp3",
+      "transcript": "M: Hi, Lisa. I'm organizing the company's end-of-year party. Could you help me choose a caterer?\nW: Sure. Last year we used Bella Catering, and everyone loved the food.\nM: I called them this morning, but they're already booked on December twentieth.\nW: That's too bad. Have you tried Green Table? They're a bit more expensive, but they specialize in vegetarian dishes, and a lot of our staff don't eat meat.\nM: That's a good point. I'll call them this afternoon and ask for a menu.",
+      "questions": [
+        { "number": 32, "content": "What is the man organizing?",
+          "options": { "A": "A product launch", "B": "An end-of-year party", "C": "A training course", "D": "A retirement dinner" },
+          "answer": "B",
+          "explanation": "'I'm organizing the company's end-of-year party.'" },
+        { "number": 33, "content": "What problem does the man mention?",
+          "options": { "A": "A venue is too small.", "B": "A caterer is not available.", "C": "The budget has been reduced.", "D": "The date has changed." },
+          "answer": "B",
+          "explanation": "'They're already booked on December twentieth' → công ty cung cấp tiệc Bella không nhận được." },
+        { "number": 34, "content": "Why does the woman recommend Green Table?",
+          "options": { "A": "It is less expensive.", "B": "It is close to the office.", "C": "It won an award.", "D": "It specializes in meat-free food." },
+          "answer": "D",
+          "explanation": "'They specialize in vegetarian dishes, and a lot of our staff don't eat meat.' (A) sai: họ đắt hơn một chút." }
+      ]
+    },
+    {
+      "part": 3, "audio": "audio/q35-37.mp3", "intro": "conversation with three speakers",
+      "transcript": "W: Thanks for meeting with me, Victor and Ben. We need to plan the training for the twenty new sales representatives who start next month.\nM1: Last year we did two full days of classroom training.\nM2: Honestly, most people forgot everything by the end of the second day.\nW: Yes, I heard that complaint, too.\nM1: What if we split it into shorter sessions over two weeks? And the new staff could shadow experienced salespeople.\nW: I like that. Ben, can you ask a few of our top sales reps if they'd be willing to be mentors?\nM2: Sure. I'll send out an e-mail today.",
+      "questions": [
+        { "number": 35, "content": "What are the speakers planning?",
+          "options": { "A": "A sales conference", "B": "A job fair", "C": "A training program for new staff", "D": "A customer survey" },
+          "answer": "C",
+          "explanation": "'We need to plan the training for the twenty new sales representatives.'" },
+        { "number": 36, "content": "What does one of the men imply when he says, “most people forgot everything by the end of the second day”?",
+          "options": { "A": "The previous training format was not effective.", "B": "The trainees were not interested.", "C": "The training should be longer.", "D": "The materials were difficult to find." },
+          "answer": "A",
+          "explanation": "Câu hỏi hàm ý: học dồn hai ngày khiến học viên quên hết → cách đào tạo cũ không hiệu quả; vì vậy nhóm đề xuất chia nhỏ buổi học." },
+        { "number": 37, "content": "What will Ben do today?",
+          "options": { "A": "Book a training room", "B": "E-mail some colleagues", "C": "Hire new salespeople", "D": "Revise a budget" },
+          "answer": "B",
+          "explanation": "'Ben, can you ask a few of our top sales reps…?' – 'I'll send out an e-mail today.'" }
+      ]
+    },
+    {
+      "part": 3, "audio": "audio/q38-40.mp3", "image": "images/q38-40.png", "intro": "conversation and schedule",
+      "graphic": { "type": "table", "title": "Team-Building Day – Saturday",
+        "head": ["Time", "Activity", "Location"],
+        "rows": [["10:00", "Scavenger Hunt", "City Park"], ["12:00", "Barbecue Lunch", "Pavilion"], ["2:00", "Cooking Class", "Chef's Studio"], ["4:00", "Awards", "Hotel Lobby"]] },
+      "transcript": "W: Hi, Tom. Are you coming to the team-building day on Saturday?\nM: Yes, but I have a dentist appointment in the morning, so I won't get there until one thirty.\nW: Oh, that's too bad. You'll miss the scavenger hunt and lunch.\nM: I know. But I'm really looking forward to the next activity. I've always wanted to learn how to make fresh pasta.\nW: Me too. By the way, don't forget to wear comfortable shoes. We'll be doing a lot of walking.\nM: Thanks for the reminder.",
+      "questions": [
+        { "number": 38, "content": "Why will the man arrive late?",
+          "options": { "A": "He has to work.", "B": "His car is being repaired.", "C": "He is picking up a relative.", "D": "He has a dental appointment." },
+          "answer": "D",
+          "explanation": "'I have a dentist appointment in the morning.'" },
+        { "number": 39, "content": "Look at the graphic. Where will the man go first?",
+          "options": { "A": "City Park", "B": "Pavilion", "C": "Chef's Studio", "D": "Hotel Lobby" },
+          "answer": "C",
+          "explanation": "Anh tới lúc 1:30, hoạt động kế tiếp là lớp nấu ăn lúc 2:00 (anh muốn học làm mì pasta) → Chef's Studio." },
+        { "number": 40, "content": "What does the woman remind the man to do?",
+          "options": { "A": "Wear comfortable shoes", "B": "Bring a camera", "C": "Arrive before lunch", "D": "Register online" },
+          "answer": "A",
+          "explanation": "'Don't forget to wear comfortable shoes.'" }
+      ]
+    },
+    {
+      "part": 4, "audio": "audio/q71-73.mp3", "intro": "introduction", "voice": "W",
+      "transcript": "Good evening, and welcome to the Westfield Business Association's annual awards dinner. Before we present tonight's awards, I'm pleased to introduce our guest speaker, Dr. Samuel Osei. Dr. Osei is the founder of GreenPath, a company that has helped more than two hundred local businesses reduce their energy costs. His new book, Small Changes, Big Savings, was published last month. Copies will be available for purchase after dinner, and Dr. Osei has kindly agreed to sign them. Please join me in welcoming Dr. Osei.",
+      "questions": [
+        { "number": 71, "content": "What event is taking place?",
+          "options": { "A": "A book fair", "B": "An awards ceremony", "C": "A job fair", "D": "A product launch" },
+          "answer": "B",
+          "explanation": "'Welcome to the… annual awards dinner.'" },
+        { "number": 72, "content": "What has Dr. Osei's company done?",
+          "options": { "A": "Built new offices", "B": "Trained managers", "C": "Published magazines", "D": "Helped businesses cut energy expenses" },
+          "answer": "D",
+          "explanation": "'…has helped more than two hundred local businesses reduce their energy costs.'" },
+        { "number": 73, "content": "What will happen after dinner?",
+          "options": { "A": "Books will be signed.", "B": "Awards will be presented.", "C": "A video will be shown.", "D": "Photos will be taken." },
+          "answer": "A",
+          "explanation": "'Copies will be available for purchase after dinner, and Dr. Osei has kindly agreed to sign them.' (B) diễn ra trước bài phát biểu." }
+      ]
+    },
+    {
+      "part": 4, "audio": "audio/q74-76.mp3", "intro": "talk", "voice": "M",
+      "transcript": "Welcome to today's workshop on our new project management software. Before we begin, please log in to the laptop in front of you, using the password on the card beside it. We'll start with the basics: creating a project and assigning tasks. Now, I know some of you have been using the old system for ten years. Don't worry. Most people get used to the new one within a week. We'll take a fifteen-minute break at ten thirty, and coffee will be available in the hallway.",
+      "questions": [
+        { "number": 74, "content": "What is the topic of the workshop?",
+          "options": { "A": "Writing proposals", "B": "Time management", "C": "A software program", "D": "Hiring practices" },
+          "answer": "C",
+          "explanation": "'…today's workshop on our new project management software.'" },
+        { "number": 75, "content": "Where can listeners find a password?",
+          "options": { "A": "In an e-mail", "B": "On a screen", "C": "From a manager", "D": "On a card beside the laptop" },
+          "answer": "D",
+          "explanation": "'…using the password on the card beside it.'" },
+        { "number": 76, "content": "Why does the speaker say, “I know some of you have been using the old system for ten years”?",
+          "options": { "A": "To praise employees' loyalty", "B": "To recognize that adjusting may be difficult", "C": "To ask for help teaching the class", "D": "To explain why the workshop is long" },
+          "answer": "B",
+          "explanation": "Câu hỏi hàm ý: người dùng hệ thống cũ lâu năm có thể thấy khó thay đổi; anh trấn an ngay sau đó 'Don't worry…'." }
+      ]
+    },
+    {
+      "part": 4, "audio": "audio/q77-79.mp3", "image": "images/q77-79.png", "intro": "announcement and map", "voice": "W",
+      "graphic": { "type": "map", "title": "Hillcrest Hotel – Event Level",
+        "cells": [["Ballroom A", "", "Ballroom B"], ["Registration", "", "Lounge"], ["Main Entrance", "", "Garden Terrace"]] },
+      "transcript": "Good morning, and welcome to the Regional Managers' Retreat. Please note a change to today's schedule. The morning workshop will now be held in the room directly across from the registration area, because the projector in Ballroom A isn't working. Lunch will be served on the garden terrace at noon, weather permitting. Also, if you haven't picked up your welcome package yet, please see the staff at the registration desk.",
+      "questions": [
+        { "number": 77, "content": "Why has the location of the workshop changed?",
+          "options": { "A": "A projector is not working.", "B": "A room is too small.", "C": "A room was booked twice.", "D": "A room is being cleaned." },
+          "answer": "A",
+          "explanation": "'…because the projector in Ballroom A isn't working.'" },
+        { "number": 78, "content": "Look at the graphic. Where will the morning workshop be held?",
+          "options": { "A": "Ballroom A", "B": "Ballroom B", "C": "Lounge", "D": "Garden Terrace" },
+          "answer": "C",
+          "explanation": "'The room directly across from the registration area' – trên sơ đồ, đối diện Registration qua hành lang là Lounge." },
+        { "number": 79, "content": "What should listeners do at the registration desk?",
+          "options": { "A": "Pay a fee", "B": "Sign up for lunch", "C": "Return their badges", "D": "Collect a welcome package" },
+          "answer": "D",
+          "explanation": "'If you haven't picked up your welcome package yet, please see the staff at the registration desk.'" }
+      ]
+    }
+  ]
+}

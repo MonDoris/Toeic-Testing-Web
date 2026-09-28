@@ -1,0 +1,214 @@
+{
+  "title": "Listening Practice Test 09 – Meetings & Conferences",
+  "description": "Đề luyện Listening theo cấu trúc đề thi TOEIC (IIG Việt Nam), rút gọn 26 câu: Part 1 (2) · Part 2 (6) · Part 3 (9, có hội thoại 3 người, câu hỏi hàm ý và biểu đồ) · Part 4 (9, có sơ đồ). Chủ đề: cuộc họp, hội nghị, sự kiện doanh nghiệp.",
+  "skill": "Listening",
+  "durationMinutes": 15,
+  "publish": true,
+  "groups": [
+    {
+      "part": 1, "audio": "audio/q01.mp3", "image": "images/q01.png",
+      "scene": { "bg": "lobby", "items": [
+        "#rect 250 40 300 170 #1f2937 6", "#rect 258 48 284 154 #e0f2fe 3", "#text 308 104 32 #1e3a8a WELCOME",
+        "#rect 150 250 500 34 #7c5a3a 4", "#rect 580 196 56 56 #5a3e2b 4",
+        "🪑 160 384 70", "🪑 240 384 70", "🪑 320 384 70", "🪑 400 384 70", "🪑 480 384 70", "🪑 560 384 70", "🪑 640 384 70",
+        "🪑 130 484 92", "🪑 238 484 92", "🪑 346 484 92", "🪑 454 484 92", "🪑 562 484 92", "🪑 670 484 92"
+      ] },
+      "transcript": "(A) Chairs have been set up in rows.\n(B) A speaker is addressing an audience.\n(C) Some people are taking their seats.\n(D) A screen is being installed.",
+      "questions": [
+        { "number": 1,
+          "options": { "A": "Chairs have been set up in rows.", "B": "A speaker is addressing an audience.", "C": "Some people are taking their seats.", "D": "A screen is being installed." },
+          "answer": "A",
+          "explanation": "Ghế đã được xếp thành hàng hướng về sân khấu → (A). Hội trường trống nên (B), (C) sai; màn hình đã treo sẵn chứ không 'đang được lắp' (D)." }
+      ]
+    },
+    {
+      "part": 1, "audio": "audio/q02.mp3", "image": "images/q02.png",
+      "scene": { "bg": "lobby", "items": [
+        "#rect 220 80 360 72 #ffffff 6", "#text 252 96 36 #1e40af REGISTRATION",
+        "#shadow 400 505 600", "#rect 120 330 560 20 #1e40af 4", "#rect 130 350 540 150 #2563eb 4",
+        "#rect 190 290 56 40 #ffffff 4", "#rect 190 290 56 12 #ef4444 4", "#text 198 306 12 #111827 HELLO", "#rect 256 290 56 40 #ffffff 4", "#rect 256 290 56 12 #ef4444 4", "#text 264 306 12 #111827 HELLO", "#rect 322 290 56 40 #ffffff 4", "#rect 322 290 56 12 #ef4444 4", "#text 330 306 12 #111827 HELLO", "#rect 388 290 56 40 #ffffff 4", "#rect 388 290 56 12 #ef4444 4", "#text 396 306 12 #111827 HELLO",
+        "📋 470 336 46", "🖊️ 515 336 36", "💐 590 338 96"
+      ] },
+      "transcript": "(A) A woman is handing out badges.\n(B) Some flowers are being arranged in a vase.\n(C) Name tags have been laid out on a table.\n(D) Attendees are lining up at a table.",
+      "questions": [
+        { "number": 2,
+          "options": { "A": "A woman is handing out badges.", "B": "Some flowers are being arranged in a vase.", "C": "Name tags have been laid out on a table.", "D": "Attendees are lining up at a table." },
+          "answer": "C",
+          "explanation": "Thẻ tên được bày sẵn trên bàn đăng ký → (C). Không có người → loại (A), (D); hoa đã cắm xong chứ không 'đang được cắm' (B)." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q07.mp3",
+      "transcript": "What time does the keynote speech begin?\n(A) Dr. Ellis is the speaker.\n(B) In the main auditorium.\n(C) Right after the opening remarks.",
+      "questions": [
+        { "number": 7,
+          "options": { "A": "Dr. Ellis is the speaker.", "B": "In the main auditorium.", "C": "Right after the opening remarks." },
+          "answer": "C",
+          "explanation": "What time → thời điểm: ngay sau phần phát biểu khai mạc. (A) trả lời Who; (B) trả lời Where." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q08.mp3",
+      "transcript": "Could you reserve the large conference room for Tuesday?\n(A) I'm afraid it's already booked.\n(B) It's larger than this one.\n(C) The conference was a success.",
+      "questions": [
+        { "number": 8,
+          "options": { "A": "I'm afraid it's already booked.", "B": "It's larger than this one.", "C": "The conference was a success." },
+          "answer": "A",
+          "explanation": "Lời nhờ đặt phòng → từ chối lịch sự vì phòng đã có người đặt. (B) bẫy 'large' – 'larger'; (C) lặp 'conference'." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q09.mp3",
+      "transcript": "Who's taking notes at today's meeting?\n(A) A notebook and a pen.\n(B) Linda offered to do it.\n(C) It was taken yesterday.",
+      "questions": [
+        { "number": 9,
+          "options": { "A": "A notebook and a pen.", "B": "Linda offered to do it.", "C": "It was taken yesterday." },
+          "answer": "B",
+          "explanation": "Who → người: Linda. (A) liên tưởng 'notes' – 'notebook'; (C) lặp 'taken' và sai thì." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q10.mp3",
+      "transcript": "Didn't the board meeting end at four?\n(A) The boarding gate is number four.\n(B) No, it ran late.\n(C) A meeting agenda.",
+      "questions": [
+        { "number": 10,
+          "options": { "A": "The boarding gate is number four.", "B": "No, it ran late.", "C": "A meeting agenda." },
+          "answer": "B",
+          "explanation": "Câu hỏi phủ định xác nhận giờ kết thúc → 'Không, cuộc họp kéo dài quá giờ' (run late). (A) bẫy âm 'board' – 'boarding' và lặp 'four'." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q11.mp3",
+      "transcript": "Should we hold the workshop online or in person?\n(A) Yes, we should.\n(B) A person from marketing.\n(C) Online would be easier for the overseas staff.",
+      "questions": [
+        { "number": 11,
+          "options": { "A": "Yes, we should.", "B": "A person from marketing.", "C": "Online would be easier for the overseas staff." },
+          "answer": "C",
+          "explanation": "Câu hỏi lựa chọn → chọn 'online' kèm lý do. (A) Yes/No không hợp; (B) lặp 'person'." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q12.mp3",
+      "transcript": "I can't find the projector remote.\n(A) It's in the top drawer.\n(B) The project is on schedule.\n(C) It's in a remote location.",
+      "questions": [
+        { "number": 12,
+          "options": { "A": "It's in the top drawer.", "B": "The project is on schedule.", "C": "It's in a remote location." },
+          "answer": "A",
+          "explanation": "Câu than phiền không tìm thấy điều khiển → chỉ chỗ để. (B) bẫy 'projector' – 'project'; (C) 'remote' với nghĩa 'xa xôi'." }
+      ]
+    },
+    {
+      "part": 3, "audio": "audio/q32-34.mp3",
+      "transcript": "M: Hi, I'm calling from Lakeside Consulting. We're planning our annual conference in October, and I'd like some information about your convention center.\nW: Certainly. How many people are you expecting?\nM: About three hundred. We'll need one large hall for the main presentations and four smaller rooms for workshops.\nW: We can accommodate that. Our Grand Hall seats five hundred. Would you also need catering?\nM: Yes, lunch and coffee breaks for two days.\nW: No problem. I'll e-mail you a cost estimate today, and you're welcome to come and tour the facility any weekday.",
+      "questions": [
+        { "number": 32, "content": "What event is the man planning?",
+          "options": { "A": "A wedding reception", "B": "A trade show", "C": "A concert", "D": "An annual conference" },
+          "answer": "D",
+          "explanation": "'We're planning our annual conference in October.'" },
+        { "number": 33, "content": "How many people does the man expect to attend?",
+          "options": { "A": "About 100", "B": "About 300", "C": "About 400", "D": "About 500" },
+          "answer": "B",
+          "explanation": "'About three hundred.' (D) 500 là sức chứa của Grand Hall – bẫy con số." },
+        { "number": 34, "content": "What will the woman send the man?",
+          "options": { "A": "A floor plan", "B": "A sample menu", "C": "A contract", "D": "A cost estimate" },
+          "answer": "D",
+          "explanation": "'I'll e-mail you a cost estimate today.'" }
+      ]
+    },
+    {
+      "part": 3, "audio": "audio/q35-37.mp3", "intro": "conversation with three speakers",
+      "transcript": "W: I just got an e-mail from Dr. Hassan. She can't give the closing speech at the conference on Friday. She has a family emergency.\nM1: That's too bad. Her talk was the one most people signed up for.\nM2: What about asking Professor Lin? She spoke at our event last year.\nW: She lives in Singapore, though.\nM2: She could give her talk by video. We have the equipment for that.\nM1: That's a good idea. I'll contact her this afternoon. Amy, could you update the program on our Web site once she confirms?",
+      "questions": [
+        { "number": 35, "content": "What problem are the speakers discussing?",
+          "options": { "A": "A room is too small.", "B": "A presenter is unable to attend.", "C": "Registration numbers are low.", "D": "Some equipment is broken." },
+          "answer": "B",
+          "explanation": "'She can't give the closing speech at the conference' → diễn giả không thể tham dự." },
+        { "number": 36, "content": "What does the woman imply when she says, “She lives in Singapore, though”?",
+          "options": { "A": "She has already contacted Professor Lin.", "B": "The conference should be held in Asia.", "C": "Traveling to the event could be difficult for Professor Lin.", "D": "Professor Lin's talk would be very popular." },
+          "answer": "C",
+          "explanation": "Câu hỏi hàm ý: hội nghị vào thứ Sáu này mà giáo sư Lin ở Singapore → khó di chuyển tới kịp. Vì vậy người kia đề xuất nói chuyện qua video." },
+        { "number": 37, "content": "What is the woman asked to do?",
+          "options": { "A": "Revise information on a Web site", "B": "Contact a speaker", "C": "Test some equipment", "D": "Book a flight" },
+          "answer": "A",
+          "explanation": "'Amy, could you update the program on our Web site once she confirms?' (B) là việc người đàn ông tự làm." }
+      ]
+    },
+    {
+      "part": 3, "audio": "audio/q38-40.mp3", "image": "images/q38-40.png", "intro": "conversation and program",
+      "graphic": { "type": "table", "title": "Marketing Summit – Day 1",
+        "head": ["Time", "Session", "Room"],
+        "rows": [["9:00", "Opening Remarks", "Hall A"], ["10:00", "Social Media Trends", "Room 3"], ["11:00", "Branding on a Budget", "Room 5"], ["1:00", "Customer Data Analysis", "Room 3"], ["2:30", "Closing Panel", "Hall B"]] },
+      "transcript": "W: Hi, Sam. Which sessions are you planning to attend at the summit tomorrow?\nM: Well, my train doesn't arrive until ten thirty, so I'll miss the first two sessions. I'll go to the one that starts right after I get there.\nW: That one should be good. I heard the speaker wrote a best-selling book.\nM: Great. Oh, are they giving away anything this year?\nW: Yes. Anyone who fills out the feedback questionnaire gets a free tote bag.\nM: Nice. I'll do that during lunch.",
+      "questions": [
+        { "number": 38, "content": "Why will the man miss some sessions?",
+          "options": { "A": "He has another meeting.", "B": "His train arrives in the late morning.", "C": "He is giving a presentation.", "D": "He forgot to register." },
+          "answer": "B",
+          "explanation": "'My train doesn't arrive until ten thirty, so I'll miss the first two sessions.'" },
+        { "number": 39, "content": "Look at the graphic. Which room will the man most likely go to first?",
+          "options": { "A": "Hall A", "B": "Room 3", "C": "Room 5", "D": "Hall B" },
+          "answer": "C",
+          "explanation": "Tàu tới lúc 10:30, anh sẽ dự phiên bắt đầu ngay sau đó – phiên 11:00 'Branding on a Budget' ở Room 5." },
+        { "number": 40, "content": "How can attendees receive a free bag?",
+          "options": { "A": "By registering early", "B": "By attending every session", "C": "By visiting a sponsor's booth", "D": "By filling out a questionnaire" },
+          "answer": "D",
+          "explanation": "'Anyone who fills out the feedback questionnaire gets a free tote bag.'" }
+      ]
+    },
+    {
+      "part": 4, "audio": "audio/q71-73.mp3", "intro": "announcement", "voice": "W",
+      "transcript": "Good morning, and welcome to the third annual Green Energy Conference. Before we begin, I have a few announcements. Lunch will be served in the exhibition hall at twelve thirty. There, you can also visit booths from more than forty companies showing their latest solar and wind technologies. Please note that this afternoon's panel discussion has been moved from Room 204 to the main auditorium, because more people registered than we expected. Finally, Wi-Fi passwords are printed on the back of your name badges.",
+      "questions": [
+        { "number": 71, "content": "What is the topic of the conference?",
+          "options": { "A": "Architecture", "B": "Finance", "C": "Healthcare", "D": "Renewable energy" },
+          "answer": "D",
+          "explanation": "'Green Energy Conference', 'solar and wind technologies' → năng lượng tái tạo." },
+        { "number": 72, "content": "Why has the panel discussion been moved?",
+          "options": { "A": "A room is being repaired.", "B": "A speaker requested it.", "C": "More people registered than expected.", "D": "Some equipment is not working." },
+          "answer": "C",
+          "explanation": "'…because more people registered than we expected.'" },
+        { "number": 73, "content": "Where can listeners find a password?",
+          "options": { "A": "In the program", "B": "On the back of their badges", "C": "At the registration desk", "D": "On a screen" },
+          "answer": "B",
+          "explanation": "'Wi-Fi passwords are printed on the back of your name badges.'" }
+      ]
+    },
+    {
+      "part": 4, "audio": "audio/q74-76.mp3", "intro": "telephone message", "voice": "M",
+      "transcript": "Hi, Karen, it's Leo. I'm calling about Thursday's budget meeting with the regional managers. I just checked the room booking system, and the only room available on Thursday is the small one on the third floor. It holds six people. There are eleven of us. So I'm thinking we should move the meeting to Friday morning, when the large conference room is free. Could you check with the regional managers to see if Friday works for them? I'll send out a new invitation once everyone confirms.",
+      "questions": [
+        { "number": 74, "content": "What is the speaker mainly calling about?",
+          "options": { "A": "A budget report", "B": "A hiring decision", "C": "A business trip", "D": "A meeting location" },
+          "answer": "D",
+          "explanation": "Anh gọi về phòng họp cho cuộc họp thứ Năm và đề xuất đổi sang phòng lớn vào thứ Sáu → địa điểm họp. (A) chỉ là chủ đề cuộc họp." },
+        { "number": 75, "content": "Why does the speaker say, “There are eleven of us”?",
+          "options": { "A": "To indicate that a room is too small", "B": "To correct a list of attendees", "C": "To request more chairs", "D": "To complain about a budget" },
+          "answer": "A",
+          "explanation": "Câu hỏi hàm ý: phòng chỉ chứa 6 người mà có 11 người họp → phòng quá nhỏ." },
+        { "number": 76, "content": "What does the speaker ask the listener to do?",
+          "options": { "A": "Reserve a larger room", "B": "Check some colleagues' availability", "C": "Send out invitations", "D": "Print meeting materials" },
+          "answer": "B",
+          "explanation": "'Could you check with the regional managers to see if Friday works for them?' (C) là việc anh sẽ tự làm." }
+      ]
+    },
+    {
+      "part": 4, "audio": "audio/q77-79.mp3", "image": "images/q77-79.png", "intro": "announcement and map", "voice": "W",
+      "graphic": { "type": "map", "title": "Convention Center – Level 2",
+        "cells": [["Room 201", "", "Café"], ["Room 202", "", "Room 204"], ["Room 203", "", "Elevators"]] },
+      "transcript": "Welcome to the second day of the Digital Education Forum. Here's a quick update. The workshop on online teaching tools has been moved, because the projector in the original room isn't working. It will now be held in the room directly across the hall from the café. Also, the café on this floor is offering free coffee all morning, thanks to our sponsor, ClassNet. And if you'd like a certificate of attendance, you can pick one up at the registration desk at the end of the day.",
+      "questions": [
+        { "number": 77, "content": "Why was the workshop moved?",
+          "options": { "A": "The original room is too small.", "B": "A room was booked twice.", "C": "A piece of equipment is not working.", "D": "A room is being cleaned." },
+          "answer": "C",
+          "explanation": "'…because the projector in the original room isn't working.'" },
+        { "number": 78, "content": "Look at the graphic. Where will the workshop be held?",
+          "options": { "A": "Room 201", "B": "Room 202", "C": "Room 203", "D": "Room 204" },
+          "answer": "A",
+          "explanation": "Phòng 'directly across the hall from the café' – trên sơ đồ, đối diện Café qua hành lang là Room 201." },
+        { "number": 79, "content": "How can listeners get a certificate?",
+          "options": { "A": "By downloading it online", "B": "By visiting the registration desk", "C": "By asking a sponsor", "D": "By completing a quiz" },
+          "answer": "B",
+          "explanation": "'You can pick one up at the registration desk at the end of the day.'" }
+      ]
+    }
+  ]
+}

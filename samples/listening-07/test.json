@@ -1,0 +1,217 @@
+{
+  "title": "Listening Practice Test 07 – Manufacturing & Factories",
+  "description": "Đề luyện Listening theo cấu trúc đề thi TOEIC (IIG Việt Nam), rút gọn 26 câu: Part 1 (2) · Part 2 (6) · Part 3 (9, có hội thoại 3 người, câu hỏi hàm ý và biểu đồ) · Part 4 (9, có sơ đồ). Chủ đề: nhà máy, dây chuyền sản xuất, nhà cung cấp.",
+  "skill": "Listening",
+  "durationMinutes": 15,
+  "publish": true,
+  "groups": [
+    {
+      "part": 1, "audio": "audio/q01.mp3", "image": "images/q01.png",
+      "scene": { "bg": "warehouse", "items": [
+        "#rect 60 80 12 390 #f97316", "#rect 380 80 12 390 #f97316", "#rect 420 80 12 390 #f97316", "#rect 740 80 12 390 #f97316",
+        "📦 110 202 76", "📦 180 202 76", "📦 250 202 76", "📦 320 202 76",
+        "📦 110 322 76", "📦 180 322 76", "📦 250 322 76",
+        "📦 470 202 76", "📦 540 202 76", "📦 610 202 76", "📦 680 202 76",
+        "📦 470 322 76", "📦 540 322 76", "📦 680 322 76",
+        "📦 110 460 76", "📦 180 460 76", "📦 610 460 76", "📦 680 460 76",
+        "#rect 60 200 332 10 #1d4ed8", "#rect 60 320 332 10 #1d4ed8", "#rect 60 460 332 10 #1d4ed8",
+        "#rect 420 200 332 10 #1d4ed8", "#rect 420 320 332 10 #1d4ed8", "#rect 420 460 332 10 #1d4ed8"
+      ] },
+      "transcript": "(A) A forklift is lifting some boxes.\n(B) Workers are unloading a truck.\n(C) Some shelves are being assembled.\n(D) Boxes have been stored on shelves.",
+      "questions": [
+        { "number": 1,
+          "options": { "A": "A forklift is lifting some boxes.", "B": "Workers are unloading a truck.", "C": "Some shelves are being assembled.", "D": "Boxes have been stored on shelves." },
+          "answer": "D",
+          "explanation": "Các thùng hàng đã được xếp trên kệ trong kho → (D). Không có xe nâng (A), không có công nhân hay xe tải (B), kệ đã lắp xong chứ không 'đang được lắp' (C)." }
+      ]
+    },
+    {
+      "part": 1, "audio": "audio/q02.mp3", "image": "images/q02.png",
+      "scene": { "bg": "warehouse", "items": [
+        "⚙️ 150 210 80", "⚙️ 660 180 64",
+        "👷🏻‍♂️ 400 340 190",
+        "#shadow 400 505 520", "#rect 150 330 500 22 #9ca3af 4", "#rect 165 352 18 150 #6b7280", "#rect 617 352 18 150 #6b7280",
+        "🔧 240 336 56", "🔨 300 336 56", "🪛 500 336 52", "🧰 590 336 76"
+      ] },
+      "transcript": "(A) A worker is wearing a hard hat.\n(B) A worker is climbing a ladder.\n(C) Some tools are being put away in a drawer.\n(D) A worker is painting a wall.",
+      "questions": [
+        { "number": 2,
+          "options": { "A": "A worker is wearing a hard hat.", "B": "A worker is climbing a ladder.", "C": "Some tools are being put away in a drawer.", "D": "A worker is painting a wall." },
+          "answer": "A",
+          "explanation": "Người công nhân đội mũ bảo hộ (hard hat) → (A). Lưu ý 'is wearing' mô tả trạng thái đang đội. Không có thang (B), dụng cụ nằm trên bàn chứ không đang được cất (C), không sơn tường (D)." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q07.mp3",
+      "transcript": "How many units does the factory produce each day?\n(A) In the assembly area.\n(B) About two thousand.\n(C) It's a new product.",
+      "questions": [
+        { "number": 7,
+          "options": { "A": "In the assembly area.", "B": "About two thousand.", "C": "It's a new product." },
+          "answer": "B",
+          "explanation": "How many → con số. (A) trả lời Where; (C) bẫy 'produce' – 'product'." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q08.mp3",
+      "transcript": "Who's responsible for the safety inspection?\n(A) Next Wednesday.\n(B) It was very safe.\n(C) The plant manager is.",
+      "questions": [
+        { "number": 8,
+          "options": { "A": "Next Wednesday.", "B": "It was very safe.", "C": "The plant manager is." },
+          "answer": "C",
+          "explanation": "Who → người/chức danh: quản đốc nhà máy. (A) trả lời When; (B) bẫy 'safety' – 'safe'." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q09.mp3",
+      "transcript": "Why has production slowed down this week?\n(A) We're short on raw materials.\n(B) At the production plant.\n(C) Please drive more slowly.",
+      "questions": [
+        { "number": 9,
+          "options": { "A": "We're short on raw materials.", "B": "At the production plant.", "C": "Please drive more slowly." },
+          "answer": "A",
+          "explanation": "Why → lý do: thiếu nguyên liệu thô. (C) bẫy 'slowed' – 'slowly'; (B) lặp 'production' và trả lời Where." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q10.mp3",
+      "transcript": "Should we order the parts from our usual supplier or try a new one?\n(A) Parts of the machine.\n(B) Yes, they're usually late.\n(C) Let's stay with our usual supplier.",
+      "questions": [
+        { "number": 10,
+          "options": { "A": "Parts of the machine.", "B": "Yes, they're usually late.", "C": "Let's stay with our usual supplier." },
+          "answer": "C",
+          "explanation": "Câu hỏi lựa chọn → chọn nhà cung cấp quen. (B) trả lời Yes không hợp và lặp 'usual'; (A) lặp 'parts'." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q11.mp3",
+      "transcript": "The new conveyor belt was installed yesterday.\n(A) Yes, I bought a new belt.\n(B) Great. Is it working properly?\n(C) The installation guide.",
+      "questions": [
+        { "number": 11,
+          "options": { "A": "Yes, I bought a new belt.", "B": "Great. Is it working properly?", "C": "The installation guide." },
+          "answer": "B",
+          "explanation": "Câu trần thuật báo tin → phản hồi bằng câu hỏi tiếp nối 'Nó chạy tốt chứ?'. (A) 'belt' với nghĩa thắt lưng; (C) bẫy 'installed' – 'installation'." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q12.mp3",
+      "transcript": "When is the shipment of steel arriving?\n(A) It should be here by noon.\n(B) The steel industry.\n(C) By boat.",
+      "questions": [
+        { "number": 12,
+          "options": { "A": "It should be here by noon.", "B": "The steel industry.", "C": "By boat." },
+          "answer": "A",
+          "explanation": "When → thời điểm: trước buổi trưa. (C) trả lời How (phương tiện); (B) lặp 'steel'." }
+      ]
+    },
+    {
+      "part": 3, "audio": "audio/q32-34.mp3",
+      "transcript": "M: Hi, Julia. Machine number four on the packaging line has stopped working again.\nW: Again? That's the third time this month. Have you called the maintenance team?\nM: Yes, but they're busy repairing the cooling system in Building B. They said they can't come until after lunch.\nW: We can't wait that long. We have to ship five hundred boxes to Harmon Foods by three o'clock.\nM: What if we move two workers from the labeling area to pack the boxes by hand?\nW: Good idea. I'll tell the labeling supervisor right away.",
+      "questions": [
+        { "number": 32, "content": "What problem does the man report?",
+          "options": { "A": "A machine is not working.", "B": "An order was canceled.", "C": "A worker is absent.", "D": "A delivery is late." },
+          "answer": "A",
+          "explanation": "'Machine number four on the packaging line has stopped working again.'" },
+        { "number": 33, "content": "Why is the maintenance team unavailable?",
+          "options": { "A": "They are attending training.", "B": "They are fixing another system.", "C": "They are on a lunch break.", "D": "They are waiting for parts." },
+          "answer": "B",
+          "explanation": "'They're busy repairing the cooling system in Building B.' (C) là bẫy: họ chỉ đến được sau bữa trưa." },
+        { "number": 34, "content": "What does the man suggest?",
+          "options": { "A": "Delaying a shipment", "B": "Contacting a client", "C": "Having staff pack items by hand", "D": "Renting a machine" },
+          "answer": "C",
+          "explanation": "'What if we move two workers from the labeling area to pack the boxes by hand?'" }
+      ]
+    },
+    {
+      "part": 3, "audio": "audio/q35-37.mp3", "intro": "conversation with three speakers",
+      "transcript": "W: Welcome to Delta Motors, Mr. Kim and Mr. Tanaka. I'm Laura, the plant supervisor. Before we start the tour, please put on these safety glasses.\nM1: Thank you. We're very interested in seeing your new robotic assembly line.\nW: Of course. It can produce one hundred and twenty engines a day.\nM2: That's impressive. Our current supplier makes about half that many.\nW: Well, we'd be happy to discuss a contract. After the tour, our sales director will join us for lunch.\nM1: Great. Could we also see the quality control lab?\nW: Certainly. It's right next to the assembly line.",
+      "questions": [
+        { "number": 35, "content": "Who most likely is the woman?",
+          "options": { "A": "A sales director", "B": "A potential client", "C": "A safety inspector", "D": "A plant supervisor" },
+          "answer": "D",
+          "explanation": "'I'm Laura, the plant supervisor.' (A) là người sẽ ăn trưa cùng họ sau chuyến tham quan." },
+        { "number": 36, "content": "What are the visitors asked to do?",
+          "options": { "A": "Sign a visitor form", "B": "Wear safety glasses", "C": "Wait in the lobby", "D": "Turn off their phones" },
+          "answer": "B",
+          "explanation": "'Before we start the tour, please put on these safety glasses.'" },
+        { "number": 37, "content": "Why does one of the men say, “Our current supplier makes about half that many”?",
+          "options": { "A": "To complain about quality", "B": "To ask for a lower price", "C": "To show that he is impressed", "D": "To explain a delay" },
+          "answer": "C",
+          "explanation": "Câu hỏi hàm ý: sau câu 'That's impressive', anh so sánh nhà cung cấp hiện tại chỉ làm được một nửa → nhấn mạnh sự ấn tượng với năng suất của nhà máy." }
+      ]
+    },
+    {
+      "part": 3, "audio": "audio/q38-40.mp3", "image": "images/q38-40.png", "intro": "conversation and chart",
+      "graphic": { "type": "bars", "title": "Average Daily Output – This Week",
+        "data": [["Line A", 850], ["Line B", 920], ["Line C", 610], ["Line D", 880]], "note": "Target: 800 units per day" },
+      "transcript": "M: Sandra, I've got this week's production numbers here. Most lines met the target of eight hundred units per day.\nW: Most, but not all. Which line fell short?\nM: This one. The supervisor said a new team member was still learning how to operate the equipment.\nW: That makes sense. Let's pair that worker with someone more experienced for the next two weeks.\nM: Good idea. I'll arrange that today. Also, the factory director wants a summary of these numbers by Friday.\nW: I'll write it tomorrow morning.",
+      "questions": [
+        { "number": 38, "content": "Look at the graphic. Which line did not meet the target?",
+          "options": { "A": "Line A", "B": "Line B", "C": "Line C", "D": "Line D" },
+          "answer": "C",
+          "explanation": "Mục tiêu 800 sản phẩm/ngày; chỉ Line C (610) thấp hơn mục tiêu." },
+        { "number": 39, "content": "What reason is given for the low output?",
+          "options": { "A": "A worker lacked experience.", "B": "A machine broke down.", "C": "Materials arrived late.", "D": "A shift was canceled." },
+          "answer": "A",
+          "explanation": "'A new team member was still learning how to operate the equipment' → thiếu kinh nghiệm." },
+        { "number": 40, "content": "What will the woman do tomorrow?",
+          "options": { "A": "Train a new employee", "B": "Prepare a report", "C": "Meet with the director", "D": "Inspect some equipment" },
+          "answer": "B",
+          "explanation": "Giám đốc cần bản tóm tắt số liệu; cô nói 'I'll write it tomorrow morning' → soạn báo cáo." }
+      ]
+    },
+    {
+      "part": 4, "audio": "audio/q71-73.mp3", "intro": "announcement", "voice": "M",
+      "transcript": "Attention, all production staff. This is Victor Hale from the operations office. The city's power company has scheduled maintenance work in our area this Saturday. As a result, there will be no electricity in the factory from six a.m. to two p.m. The Saturday morning shift is canceled, and workers on that shift will be paid as usual. The afternoon shift will begin at three p.m. instead of two. If you have any questions, please speak to your team leader.",
+      "questions": [
+        { "number": 71, "content": "What will happen on Saturday?",
+          "options": { "A": "A safety inspection", "B": "A holiday party", "C": "An equipment delivery", "D": "A temporary loss of electricity" },
+          "answer": "D",
+          "explanation": "'There will be no electricity in the factory from six a.m. to two p.m.' → mất điện tạm thời." },
+        { "number": 72, "content": "What does the speaker say about workers on the morning shift?",
+          "options": { "A": "They must work on Sunday.", "B": "They should arrive early.", "C": "They will still receive their pay.", "D": "They will attend a training session." },
+          "answer": "C",
+          "explanation": "'Workers on that shift will be paid as usual.'" },
+        { "number": 73, "content": "What time will the afternoon shift start?",
+          "options": { "A": "At 2:00 p.m.", "B": "At 3:00 p.m.", "C": "At 6:00 a.m.", "D": "At 6:00 p.m." },
+          "answer": "B",
+          "explanation": "'The afternoon shift will begin at three p.m. instead of two.' (A) là giờ bình thường – bẫy." }
+      ]
+    },
+    {
+      "part": 4, "audio": "audio/q74-76.mp3", "intro": "telephone message", "voice": "W",
+      "transcript": "Hi, Mr. Duarte. This is Nina Patel from Coastline Plastics. I'm calling about your order of ten thousand bottle caps. We can have them ready by May twentieth, as you requested. However, the price of raw materials has gone up recently, so the cost per unit will be two cents higher than our original quote. I know that's not ideal. But if you increase your order to fifteen thousand units, we can keep the original price. Please call me back by Thursday so we can start production on time.",
+      "questions": [
+        { "number": 74, "content": "What is the purpose of the call?",
+          "options": { "A": "To cancel an order", "B": "To confirm an address", "C": "To request a payment", "D": "To inform the listener about a price change" },
+          "answer": "D",
+          "explanation": "Giá nguyên liệu tăng nên đơn giá cao hơn báo giá ban đầu 2 cent → thông báo thay đổi giá." },
+        { "number": 75, "content": "Why does the speaker say, “I know that's not ideal”?",
+          "options": { "A": "She understands the listener may be unhappy about the cost.", "B": "She thinks the delivery date is too late.", "C": "She wants to change suppliers.", "D": "The product quality has declined." },
+          "answer": "A",
+          "explanation": "Câu hỏi hàm ý: ngay sau khi báo tăng giá, cô thừa nhận điều đó không mong muốn với khách → thể hiện sự thông cảm." },
+        { "number": 76, "content": "What does the speaker offer?",
+          "options": { "A": "Free delivery", "B": "The original price for a larger order", "C": "Faster production", "D": "Some free samples" },
+          "answer": "B",
+          "explanation": "'If you increase your order to fifteen thousand units, we can keep the original price.'" }
+      ]
+    },
+    {
+      "part": 4, "audio": "audio/q77-79.mp3", "image": "images/q77-79.png", "intro": "talk and map", "voice": "W",
+      "graphic": { "type": "map", "title": "Brightline Factory Layout",
+        "cells": [["Warehouse", "", "Assembly Area"], ["Packaging", "", "Quality Lab"], ["Break Room", "", "Main Office"]] },
+      "transcript": "Welcome to the Brightline Toys factory tour. We're starting here at the main office. Our first stop will be the room directly above us, where every toy is tested for safety before it's packed. Please don't touch any of the products in that room, since tests are in progress. After that, we'll walk across the hall to the room where our finished toys are boxed. At the end of the tour, each of you will receive a gift bag with some of our newest toys.",
+      "questions": [
+        { "number": 77, "content": "What does the company make?",
+          "options": { "A": "Toys", "B": "Furniture", "C": "Clothing", "D": "Electronics" },
+          "answer": "A",
+          "explanation": "'Welcome to the Brightline Toys factory tour.'" },
+        { "number": 78, "content": "Look at the graphic. Where will the listeners go first?",
+          "options": { "A": "Warehouse", "B": "Assembly Area", "C": "Packaging", "D": "Quality Lab" },
+          "answer": "D",
+          "explanation": "Đang ở Main Office; điểm đầu tiên là 'the room directly above us' – trên sơ đồ, phía trên Main Office là Quality Lab." },
+        { "number": 79, "content": "What will the listeners receive at the end of the tour?",
+          "options": { "A": "A discount coupon", "B": "A product catalog", "C": "Some free products", "D": "A safety certificate" },
+          "answer": "C",
+          "explanation": "'Each of you will receive a gift bag with some of our newest toys' → sản phẩm miễn phí." }
+      ]
+    }
+  ]
+}

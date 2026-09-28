@@ -1,0 +1,213 @@
+{
+  "title": "Listening Practice Test 20 – Business Development",
+  "description": "Đề luyện Listening theo cấu trúc đề thi TOEIC (IIG Việt Nam), rút gọn 26 câu: Part 1 (2) · Part 2 (6) · Part 3 (9, có hội thoại 3 người, câu hỏi hàm ý và biểu đồ) · Part 4 (9). Chủ đề: hợp tác, mở rộng thị trường, mua lại công ty, tin kinh tế.",
+  "skill": "Listening",
+  "durationMinutes": 15,
+  "publish": true,
+  "groups": [
+    {
+      "part": 1, "audio": "audio/q01.mp3", "image": "images/q01.png",
+      "scene": { "bg": "dock", "items": [
+        "⛵ 230 428 180", "🛥️ 530 424 180 flip",
+        "#rect 110 400 14 70 #6b4f2a 3", "#rect 380 400 14 70 #6b4f2a 3", "#rect 680 400 14 70 #6b4f2a 3"
+      ] },
+      "transcript": "(A) Some people are fishing from a pier.\n(B) Some boats are floating near a dock.\n(C) A boat is being pulled onto a beach.\n(D) Some sails are being taken down.",
+      "questions": [
+        { "number": 1,
+          "options": { "A": "Some people are fishing from a pier.", "B": "Some boats are floating near a dock.", "C": "A boat is being pulled onto a beach.", "D": "Some sails are being taken down." },
+          "answer": "B",
+          "explanation": "Hai chiếc thuyền nổi trên mặt nước cạnh cầu tàu → (B). Không có người (A); các câu bị động tiếp diễn (C), (D) cần có người đang làm." }
+      ]
+    },
+    {
+      "part": 1, "audio": "audio/q02.mp3", "image": "images/q02.png",
+      "scene": { "bg": "park", "items": [
+        "#shadow 90 330 150", "🌳 90 334 170", "#shadow 720 330 150", "🌳 720 334 170",
+        "#rect 0 400 800 140 #e3d3b3",
+        "#shadow 400 470 280", "⛲ 400 474 230",
+        "#shadow 165 470 190", "#rect 80 430 170 14 #8a5a3b 4", "#rect 92 444 12 30 #6f4630", "#rect 226 444 12 30 #6f4630",
+        "#shadow 635 470 190", "#rect 550 430 170 14 #8a5a3b 4", "#rect 562 444 12 30 #6f4630", "#rect 696 444 12 30 #6f4630"
+      ] },
+      "transcript": "(A) Some people are sitting around a fountain.\n(B) A fountain is being cleaned.\n(C) Some trees are being planted in a park.\n(D) Some benches have been placed near a fountain.",
+      "questions": [
+        { "number": 2,
+          "options": { "A": "Some people are sitting around a fountain.", "B": "A fountain is being cleaned.", "C": "Some trees are being planted in a park.", "D": "Some benches have been placed near a fountain." },
+          "answer": "D",
+          "explanation": "Hai chiếc ghế băng được đặt hai bên đài phun nước → (D). Không có người nên (A), (B), (C) đều sai." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q07.mp3",
+      "transcript": "Who will lead the negotiations with the new supplier?\n(A) By next Tuesday.\n(B) A new supply of paper.\n(C) Mr. Dubois from purchasing.",
+      "questions": [
+        { "number": 7,
+          "options": { "A": "By next Tuesday.", "B": "A new supply of paper.", "C": "Mr. Dubois from purchasing." },
+          "answer": "C",
+          "explanation": "Who → ông Dubois phòng thu mua. (A) trả lời When; (B) bẫy 'supplier' – 'supply'." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q08.mp3",
+      "transcript": "Did the board approve the merger?\n(A) It's written on the board.\n(B) They'll vote on it next week.\n(C) Please merge the two files.",
+      "questions": [
+        { "number": 8,
+          "options": { "A": "It's written on the board.", "B": "They'll vote on it next week.", "C": "Please merge the two files." },
+          "answer": "B",
+          "explanation": "Hỏi hội đồng quản trị đã duyệt việc sáp nhập chưa → 'Tuần sau họ mới biểu quyết' (tức là chưa). (A) 'board' với nghĩa tấm bảng; (C) bẫy 'merger' – 'merge'." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q09.mp3",
+      "transcript": "What's the main goal of opening a branch in Seoul?\n(A) To reach more customers in Asia.\n(B) It opens at ten.\n(C) Near the main office.",
+      "questions": [
+        { "number": 9,
+          "options": { "A": "To reach more customers in Asia.", "B": "It opens at ten.", "C": "Near the main office." },
+          "answer": "A",
+          "explanation": "What's the goal → mục đích: tiếp cận thêm khách hàng châu Á. (B) bẫy 'opening' – 'opens'; (C) lặp 'main', trả lời Where." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q10.mp3",
+      "transcript": "Why don't we ask a consultant for advice?\n(A) We consulted the map.\n(B) Because it was advised.\n(C) Good idea, but it could be expensive.",
+      "questions": [
+        { "number": 10,
+          "options": { "A": "We consulted the map.", "B": "Because it was advised.", "C": "Good idea, but it could be expensive." },
+          "answer": "C",
+          "explanation": "Lời đề nghị → đồng ý nhưng nêu lo ngại chi phí. (A) bẫy 'consultant' – 'consulted'; (B) bẫy 'Because' và 'advice' – 'advised'." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q11.mp3",
+      "transcript": "How was the sales conference in Dubai?\n(A) Very informative.\n(B) By plane.\n(C) I sold it yesterday.",
+      "questions": [
+        { "number": 11,
+          "options": { "A": "Very informative.", "B": "By plane.", "C": "I sold it yesterday." },
+          "answer": "A",
+          "explanation": "'How was…?' hỏi cảm nhận → 'Rất bổ ích'. (B) trả lời 'How did you get there?'; (C) bẫy 'sales' – 'sold'." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q12.mp3",
+      "transcript": "Aren't we launching the new product line in May?\n(A) We had lunch in May.\n(B) Actually, it's been pushed back to June.\n(C) She's a product manager.",
+      "questions": [
+        { "number": 12,
+          "options": { "A": "We had lunch in May.", "B": "Actually, it's been pushed back to June.", "C": "She's a product manager." },
+          "answer": "B",
+          "explanation": "Câu hỏi phủ định xác nhận thông tin → 'Thật ra đã lùi sang tháng Sáu' (push back = hoãn lại). (A) bẫy âm 'launching' – 'lunch'; (C) lặp 'product'." }
+      ]
+    },
+    {
+      "part": 3, "audio": "audio/q32-34.mp3",
+      "transcript": "W: Hi, Mr. Tanaka. This is Elena Novak from Brightstar Cosmetics. Thank you for sending your proposal for a partnership.\nM: My pleasure. What did you think?\nW: We're very interested in selling your skin-care products in our stores. But we'd like to test them in five of our stores before signing a long-term contract.\nM: That sounds reasonable. How long would the trial last?\nW: About three months. If sales are good, we'd expand to all forty stores.\nM: Great. I'll send you product samples next week.",
+      "questions": [
+        { "number": 32, "content": "What is the purpose of the call?",
+          "options": { "A": "To discuss a partnership proposal", "B": "To complain about a product", "C": "To order some supplies", "D": "To schedule an interview" },
+          "answer": "A",
+          "explanation": "'Thank you for sending your proposal for a partnership… We're very interested…'" },
+        { "number": 33, "content": "What does the woman want to do first?",
+          "options": { "A": "Visit a factory", "B": "Negotiate a lower price", "C": "Run a trial in some stores", "D": "Meet a product designer" },
+          "answer": "C",
+          "explanation": "'We'd like to test them in five of our stores before signing a long-term contract.'" },
+        { "number": 34, "content": "What will the man send next week?",
+          "options": { "A": "A signed contract", "B": "A price list", "C": "An invoice", "D": "Product samples" },
+          "answer": "D",
+          "explanation": "'I'll send you product samples next week.'" }
+      ]
+    },
+    {
+      "part": 3, "audio": "audio/q35-37.mp3", "intro": "conversation with three speakers",
+      "transcript": "M1: So, the question is whether we should open our next café in Brookfield or in Maple Heights.\nW: Brookfield has lower rent. But there aren't many offices nearby.\nM2: Maple Heights has three universities within walking distance.\nM1: That's a lot of potential customers who drink coffee.\nW: True. The rent is higher, but we'd probably have more customers every day.\nM2: I'll prepare a cost comparison, so we can present both options to the owner on Friday.",
+      "questions": [
+        { "number": 35, "content": "What are the speakers discussing?",
+          "options": { "A": "How to reduce rent", "B": "Where to open a new branch", "C": "Which products to sell", "D": "When to hire staff" },
+          "answer": "B",
+          "explanation": "'…whether we should open our next café in Brookfield or in Maple Heights' → chọn địa điểm mở chi nhánh mới." },
+        { "number": 36, "content": "Why does one of the men say, “Maple Heights has three universities within walking distance”?",
+          "options": { "A": "To explain why rent is high", "B": "To recommend hiring students", "C": "To suggest a partnership with a school", "D": "To indicate a large customer base" },
+          "answer": "D",
+          "explanation": "Câu hỏi hàm ý: có ba trường đại học gần đó → nhiều khách hàng tiềm năng; người kia nói ngay 'That's a lot of potential customers'." },
+        { "number": 37, "content": "What will one of the men do before Friday?",
+          "options": { "A": "Prepare a comparison of costs", "B": "Visit Maple Heights", "C": "Sign a lease", "D": "Meet with university officials" },
+          "answer": "A",
+          "explanation": "'I'll prepare a cost comparison, so we can present both options to the owner on Friday.'" }
+      ]
+    },
+    {
+      "part": 3, "audio": "audio/q38-40.mp3", "image": "images/q38-40.png", "intro": "conversation and table",
+      "graphic": { "type": "table", "title": "Possible Office Locations",
+        "head": ["City", "Monthly Rent", "To Airport"],
+        "rows": [["Lisbon", "$8,500", "20 min"], ["Madrid", "$11,000", "15 min"], ["Prague", "$6,800", "35 min"], ["Vienna", "$9,200", "25 min"]] },
+      "transcript": "M: We need to decide where to open our European headquarters. I've narrowed it down to these four cities.\nW: Our clients will be flying in often, so the office should be within thirty minutes of the airport.\nM: Agreed. And our budget for rent is ten thousand dollars a month.\nW: Then we have two options. I'd choose the less expensive one.\nM: Me too. I'll get in touch with a real estate agent there tomorrow.",
+      "questions": [
+        { "number": 38, "content": "What are the speakers planning?",
+          "options": { "A": "A client visit", "B": "A vacation", "C": "A new headquarters in Europe", "D": "A trade show" },
+          "answer": "C",
+          "explanation": "'We need to decide where to open our European headquarters.'" },
+        { "number": 39, "content": "Look at the graphic. Which city will the speakers most likely choose?",
+          "options": { "A": "Lisbon", "B": "Madrid", "C": "Prague", "D": "Vienna" },
+          "answer": "A",
+          "explanation": "Điều kiện: cách sân bay dưới 30 phút và giá thuê tối đa $10,000 → còn Lisbon và Vienna; chọn nơi rẻ hơn → Lisbon ($8,500)." },
+        { "number": 40, "content": "What will the man do tomorrow?",
+          "options": { "A": "Book a flight", "B": "Contact a real estate agent", "C": "Visit a client", "D": "Revise a budget" },
+          "answer": "B",
+          "explanation": "'I'll get in touch with a real estate agent there tomorrow.'" }
+      ]
+    },
+    {
+      "part": 4, "audio": "audio/q71-73.mp3", "intro": "news report", "voice": "M",
+      "transcript": "In business news, Ardent Motors announced yesterday that it will build a new electric vehicle factory just outside the city of Riverton. The factory is expected to create about one thousand two hundred jobs when it opens in two years. Company officials said Riverton was chosen because of its skilled workforce and its location near a major port. Construction will begin in March. Local business owners say they expect the project to bring more customers to shops and restaurants in the area.",
+      "questions": [
+        { "number": 71, "content": "What did Ardent Motors announce?",
+          "options": { "A": "A new car model", "B": "A merger", "C": "A new production facility", "D": "A change in leadership" },
+          "answer": "C",
+          "explanation": "'…it will build a new electric vehicle factory' – factory = cơ sở sản xuất." },
+        { "number": 72, "content": "According to the report, why was Riverton chosen?",
+          "options": { "A": "It has skilled workers.", "B": "Land there is inexpensive.", "C": "Taxes there are low.", "D": "It has a large airport." },
+          "answer": "A",
+          "explanation": "'…because of its skilled workforce and its location near a major port.' (D) sai: gần cảng biển chứ không phải sân bay." },
+        { "number": 73, "content": "What do local business owners expect?",
+          "options": { "A": "Higher rents", "B": "More traffic", "C": "New competition", "D": "An increase in business" },
+          "answer": "D",
+          "explanation": "'They expect the project to bring more customers to shops and restaurants' → kinh doanh tốt hơn." }
+      ]
+    },
+    {
+      "part": 4, "audio": "audio/q74-76.mp3", "intro": "excerpt from a meeting", "voice": "W",
+      "transcript": "Good morning, everyone. I have exciting news. Last night, we signed an agreement to acquire Pixel Labs, a small software company in Seattle. Pixel Labs has developed an image-recognition tool that we'll add to our mobile app. Their team of fifteen engineers will join our research department next month. Now, I know many of you are wondering about job changes. No positions here will be affected. Our HR director will hold a question-and-answer session this Thursday afternoon.",
+      "questions": [
+        { "number": 74, "content": "What is the speaker announcing?",
+          "options": { "A": "The opening of a new office", "B": "The purchase of a company", "C": "A product recall", "D": "An executive's retirement" },
+          "answer": "B",
+          "explanation": "'We signed an agreement to acquire Pixel Labs' – acquire = mua lại (purchase)." },
+        { "number": 75, "content": "What will happen next month?",
+          "options": { "A": "An app will be released.", "B": "A research lab will close.", "C": "Some engineers will join a department.", "D": "A new director will be hired." },
+          "answer": "C",
+          "explanation": "'Their team of fifteen engineers will join our research department next month.'" },
+        { "number": 76, "content": "Why does the speaker say, “I know many of you are wondering about job changes”?",
+          "options": { "A": "To address a concern among employees", "B": "To announce some promotions", "C": "To introduce a new policy", "D": "To ask for volunteers" },
+          "answer": "A",
+          "explanation": "Câu hỏi hàm ý: bà đoán nhân viên lo lắng về việc làm sau thương vụ mua lại, nên trấn an ngay 'No positions here will be affected'." }
+      ]
+    },
+    {
+      "part": 4, "audio": "audio/q77-79.mp3", "image": "images/q77-79.png", "intro": "excerpt from a meeting and chart", "voice": "M",
+      "graphic": { "type": "bars", "title": "Sales by Region – Last Year", "unit": "M",
+        "data": [["North", 3.4], ["South", 2.1], ["East", 4.8], ["West", 2.9]], "note": "In millions of dollars" },
+      "transcript": "Let's review last year's sales by region. As expected, the East region performed best, thanks to the new distribution center there. However, the region with the lowest sales will be our focus this year. We've hired a new regional manager, Amelia Brooks, who has fifteen years of experience in the industry. She'll be visiting all our stores in that region over the next month. I'd like each of you to send her any information that might be useful.",
+      "questions": [
+        { "number": 77, "content": "Look at the graphic. Which region will Amelia Brooks be responsible for?",
+          "options": { "A": "North", "B": "South", "C": "East", "D": "West" },
+          "answer": "B",
+          "explanation": "Quản lý mới phụ trách khu vực có doanh số thấp nhất – theo biểu đồ là South ($2.1 triệu)." },
+        { "number": 78, "content": "According to the speaker, why did the East region perform well?",
+          "options": { "A": "Prices were lowered.", "B": "An advertising campaign was launched.", "C": "More staff were hired.", "D": "A new distribution facility opened." },
+          "answer": "D",
+          "explanation": "'…thanks to the new distribution center there.'" },
+        { "number": 79, "content": "What are the listeners asked to do?",
+          "options": { "A": "Visit stores in the region", "B": "Prepare sales reports", "C": "Share useful information with a new manager", "D": "Attend a training session" },
+          "answer": "C",
+          "explanation": "'I'd like each of you to send her any information that might be useful.' (A) là việc của Amelia Brooks." }
+      ]
+    }
+  ]
+}

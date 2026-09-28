@@ -1,0 +1,216 @@
+{
+  "title": "Listening Practice Test 06 – Marketing & Advertising",
+  "description": "Đề luyện Listening theo cấu trúc đề thi TOEIC (IIG Việt Nam), rút gọn 26 câu: Part 1 (2) · Part 2 (6) · Part 3 (9, có hội thoại 3 người, câu hỏi hàm ý và biểu đồ) · Part 4 (9). Chủ đề: marketing, quảng cáo, khảo sát khách hàng.",
+  "skill": "Listening",
+  "durationMinutes": 15,
+  "publish": true,
+  "groups": [
+    {
+      "part": 1, "audio": "audio/q01.mp3", "image": "images/q01.png",
+      "scene": { "bg": "meeting", "items": [
+        "#text 272 62 20 #111827 Ad Campaign Results",
+        "#rect 300 150 40 58 #93c5fd", "#rect 360 124 40 84 #60a5fa", "#rect 420 98 40 110 #3b82f6", "#rect 480 80 40 128 #10b981",
+        "👩🏽‍💼 640 336 170",
+        "#shadow 640 505 180", "#rect 570 322 140 16 #5a3e2b 4", "#rect 582 338 116 166 #6d4c35 4",
+        "🎤 608 326 44", "🪴 110 505 130"
+      ] },
+      "transcript": "(A) The audience is applauding.\n(B) A woman is erasing a board.\n(C) A woman is standing behind a podium.\n(D) Some posters are being printed.",
+      "questions": [
+        { "number": 1,
+          "options": { "A": "The audience is applauding.", "B": "A woman is erasing a board.", "C": "A woman is standing behind a podium.", "D": "Some posters are being printed." },
+          "answer": "C",
+          "explanation": "Người phụ nữ đứng sau bục phát biểu (podium) có micro → (C). Không có khán giả (A); cô không xoá bảng (B); không có gì đang được in (D)." }
+      ]
+    },
+    {
+      "part": 1, "audio": "audio/q02.mp3", "image": "images/q02.png",
+      "scene": { "bg": "street", "items": [
+        "#rect 280 236 10 64 #374151", "#rect 510 236 10 64 #374151",
+        "#rect 200 86 400 156 #111827 6", "#rect 210 96 380 136 #f59e0b 4",
+        "#text 236 112 40 #ffffff GRAND OPENING", "#text 318 172 28 #111827 Saturday, June 5",
+        "#shadow 700 332 120", "🌳 700 334 130",
+        "#shadow 200 432 170", "🚗 200 434 140", "#shadow 440 432 170", "🚙 440 434 140"
+      ] },
+      "transcript": "(A) A sign is being painted.\n(B) Some cars are parked along a street.\n(C) A billboard is being taken down.\n(D) Some people are crossing the street.",
+      "questions": [
+        { "number": 2,
+          "options": { "A": "A sign is being painted.", "B": "Some cars are parked along a street.", "C": "A billboard is being taken down.", "D": "Some people are crossing the street." },
+          "answer": "B",
+          "explanation": "Hai chiếc xe đỗ dọc lề đường → (B). (A), (C) dùng bị động tiếp diễn nhưng không có ai đang sơn/tháo biển quảng cáo; không có người qua đường (D)." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q07.mp3",
+      "transcript": "What did the customers think of our new commercial?\n(A) I think so, too.\n(B) It aired last night.\n(C) Most of them liked it.",
+      "questions": [
+        { "number": 7,
+          "options": { "A": "I think so, too.", "B": "It aired last night.", "C": "Most of them liked it." },
+          "answer": "C",
+          "explanation": "Hỏi ý kiến khách hàng về quảng cáo → 'Hầu hết đều thích'. (B) trả lời When; (A) lặp 'think' nhưng dùng cho câu đồng tình." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q08.mp3",
+      "transcript": "When will the advertising campaign be launched?\n(A) Launch it from the main menu.\n(B) At the beginning of next quarter.\n(C) In several magazines.",
+      "questions": [
+        { "number": 8,
+          "options": { "A": "Launch it from the main menu.", "B": "At the beginning of next quarter.", "C": "In several magazines." },
+          "answer": "B",
+          "explanation": "When → thời điểm: đầu quý tới. (A) lặp 'launch' với nghĩa khởi chạy phần mềm; (C) trả lời Where." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q09.mp3",
+      "transcript": "Could you send me the survey results?\n(A) Sure, I'll forward them now.\n(B) I sent it by mail.\n(C) Yes, it was a good result.",
+      "questions": [
+        { "number": 9,
+          "options": { "A": "Sure, I'll forward them now.", "B": "I sent it by mail.", "C": "Yes, it was a good result." },
+          "answer": "A",
+          "explanation": "Lời nhờ vả 'Could you…?' → đồng ý 'Sure'. (C) lặp 'result'; (B) sai thì (quá khứ) và lặp 'send'." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q10.mp3",
+      "transcript": "Which design did the client choose?\n(A) He chose to walk.\n(B) The one with the blue logo.\n(C) A graphic designer.",
+      "questions": [
+        { "number": 10,
+          "options": { "A": "He chose to walk.", "B": "The one with the blue logo.", "C": "A graphic designer." },
+          "answer": "B",
+          "explanation": "Which → chọn một trong nhiều: 'cái có logo màu xanh'. (A) lặp 'chose'; (C) bẫy 'design' – 'designer'." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q11.mp3",
+      "transcript": "Isn't the marketing budget going to increase next year?\n(A) Yes, by about ten percent.\n(B) The market is open until nine.\n(C) I bought it last year.",
+      "questions": [
+        { "number": 11,
+          "options": { "A": "Yes, by about ten percent.", "B": "The market is open until nine.", "C": "I bought it last year." },
+          "answer": "A",
+          "explanation": "Câu hỏi phủ định xác nhận thông tin → 'Có, khoảng 10%'. (B) bẫy 'marketing' – 'market'; (C) bẫy 'next year' – 'last year'." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q12.mp3",
+      "transcript": "We should hire a professional photographer for the brochure.\n(A) She took the train.\n(B) The brochure has twelve pages.\n(C) I agree. The photos will look much better.",
+      "questions": [
+        { "number": 12,
+          "options": { "A": "She took the train.", "B": "The brochure has twelve pages.", "C": "I agree. The photos will look much better." },
+          "answer": "C",
+          "explanation": "Câu đề xuất → đồng ý kèm lý do. (A) liên tưởng 'photographer' – 'took' (took a photo); (B) lặp 'brochure'." }
+      ]
+    },
+    {
+      "part": 3, "audio": "audio/q32-34.mp3",
+      "transcript": "W: Hi, Mr. Russo. This is Karen from Bright Idea Advertising. I'm calling about the radio commercial for your furniture store.\nM: Oh, hello, Karen. Is it ready?\nW: Almost. We recorded it yesterday, but we'd like you to listen to it before it goes on the air. Could you stop by our studio tomorrow?\nM: I'm afraid I'll be at a trade show in Chicago all week. Could you e-mail me the audio file instead?\nW: Sure. I'll send it this afternoon. If you'd like any changes, please let us know by Friday. The ad is scheduled to start running on Monday.",
+      "questions": [
+        { "number": 32, "content": "Who most likely is the woman?",
+          "options": { "A": "A furniture designer", "B": "An advertising professional", "C": "A radio host", "D": "A trade show organizer" },
+          "answer": "B",
+          "explanation": "'This is Karen from Bright Idea Advertising… the radio commercial for your furniture store' → người làm quảng cáo." },
+        { "number": 33, "content": "Why can't the man visit the studio?",
+          "options": { "A": "His store is too busy.", "B": "He has a doctor's appointment.", "C": "He will be at a trade show.", "D": "His car is being repaired." },
+          "answer": "C",
+          "explanation": "'I'll be at a trade show in Chicago all week.'" },
+        { "number": 34, "content": "When will the advertisement start?",
+          "options": { "A": "Tomorrow", "B": "This afternoon", "C": "On Friday", "D": "On Monday" },
+          "answer": "D",
+          "explanation": "'The ad is scheduled to start running on Monday.' Friday là hạn góp ý chỉnh sửa." }
+      ]
+    },
+    {
+      "part": 3, "audio": "audio/q35-37.mp3", "intro": "conversation with three speakers",
+      "transcript": "M1: OK, everyone, we need ideas for launching our new sports drink next month.\nW: What about giving out free samples at the city marathon? About ten thousand runners will be there.\nM2: The marathon is in September, though.\nW: Oh, right. I was thinking of last year's date.\nM1: Hmm. How about working with a few popular fitness trainers online? They could post videos of themselves using the product.\nM2: That could reach a lot of young customers. I'll make a list of trainers we could contact.",
+      "questions": [
+        { "number": 35, "content": "What are the speakers discussing?",
+          "options": { "A": "How to promote a product", "B": "How to organize a race", "C": "How to hire trainers", "D": "How to reduce costs" },
+          "answer": "A",
+          "explanation": "'We need ideas for launching our new sports drink' → cách quảng bá sản phẩm." },
+        { "number": 36, "content": "What does one of the men imply when he says, “The marathon is in September, though”?",
+          "options": { "A": "He will participate in the event.", "B": "The timing of an event is not suitable.", "C": "The event has been canceled.", "D": "The drink will not be ready." },
+          "answer": "B",
+          "explanation": "Câu hỏi hàm ý: sản phẩm ra mắt tháng sau, còn giải marathon tới tháng Chín → thời điểm không phù hợp. Người phụ nữ nhận ra mình nhầm ngày." },
+        { "number": 37, "content": "What will one of the men do?",
+          "options": { "A": "Prepare a list of trainers", "B": "Contact a race organizer", "C": "Film a video", "D": "Order more samples" },
+          "answer": "A",
+          "explanation": "'I'll make a list of trainers we could contact.'" }
+      ]
+    },
+    {
+      "part": 3, "audio": "audio/q38-40.mp3", "image": "images/q38-40.png", "intro": "conversation and chart",
+      "graphic": { "type": "bars", "title": "How Customers Heard About Us", "unit": "%",
+        "data": [["Social media", 45], ["Television", 25], ["Radio", 10], ["Newspaper", 20]] },
+      "transcript": "W: Pedro, have you seen the customer survey results?\nM: Yes. I was surprised that so few people heard about us from the radio.\nW: Me too. We spend a lot on those radio ads. I think we should stop them and move that money into social media.\nM: I agree. But before we decide, let's check with the sales director. She's the one who approved the radio contract.\nW: Good idea. She's back from vacation on Wednesday. I'll set up a meeting with her.",
+      "questions": [
+        { "number": 38, "content": "Look at the graphic. What percentage of customers learned about the company from the source the man mentions?",
+          "options": { "A": "45%", "B": "25%", "C": "10%", "D": "20%" },
+          "answer": "C",
+          "explanation": "Người đàn ông nhắc tới radio ('so few people heard about us from the radio'); biểu đồ cho thấy Radio = 10%." },
+        { "number": 39, "content": "What does the woman suggest?",
+          "options": { "A": "Conducting another survey", "B": "Increasing the budget", "C": "Hiring a new agency", "D": "Shifting funds to a different type of advertising" },
+          "answer": "D",
+          "explanation": "'We should stop them and move that money into social media' → chuyển ngân sách sang kênh quảng cáo khác." },
+        { "number": 40, "content": "What does the woman say she will do?",
+          "options": { "A": "Arrange a meeting", "B": "Take a vacation", "C": "Cancel a contract", "D": "Call a radio station" },
+          "answer": "A",
+          "explanation": "'I'll set up a meeting with her.' – set up = arrange." }
+      ]
+    },
+    {
+      "part": 4, "audio": "audio/q71-73.mp3", "intro": "advertisement", "voice": "W",
+      "transcript": "Want your small business to stand out? Join us for a free online workshop, Marketing on a Budget, this Thursday at seven p.m. Our expert, Jessica Tan, will show you how to create eye-catching posts for social media without spending a lot of money. Participants will also receive a free package of design templates worth fifty dollars. Space is limited to one hundred participants, so register today at marketing basics dot com.",
+      "questions": [
+        { "number": 71, "content": "Who is the workshop intended for?",
+          "options": { "A": "Graphic designers", "B": "University students", "C": "Journalists", "D": "Small business owners" },
+          "answer": "D",
+          "explanation": "'Want your small business to stand out?' → dành cho chủ doanh nghiệp nhỏ." },
+        { "number": 72, "content": "What will participants receive?",
+          "options": { "A": "A textbook", "B": "Design templates", "C": "A certificate", "D": "A discount coupon" },
+          "answer": "B",
+          "explanation": "'Participants will also receive a free package of design templates.'" },
+        { "number": 73, "content": "Why should listeners register soon?",
+          "options": { "A": "The price will increase soon.", "B": "Registration closes tonight.", "C": "Only a limited number of people can join.", "D": "The workshop will be held in person." },
+          "answer": "C",
+          "explanation": "'Space is limited to one hundred participants, so register today.'" }
+      ]
+    },
+    {
+      "part": 4, "audio": "audio/q74-76.mp3", "intro": "excerpt from a meeting", "voice": "M",
+      "transcript": "Let's talk about the launch of our new line of eco-friendly water bottles. We sold out of the first shipment in just three days. Our warehouse team has already ordered twice as many for next month. Now, a few customers have posted online that the lids are hard to open. Our design team is looking into it. In the meantime, the customer service team should offer a replacement lid to anyone who complains. OK, next I'd like Min-jun to present our plans for the holiday season.",
+      "questions": [
+        { "number": 74, "content": "What product is being discussed?",
+          "options": { "A": "Coffee mugs", "B": "Lunch boxes", "C": "Backpacks", "D": "Water bottles" },
+          "answer": "D",
+          "explanation": "'…our new line of eco-friendly water bottles.'" },
+        { "number": 75, "content": "What does the speaker imply when he says, “We sold out of the first shipment in just three days”?",
+          "options": { "A": "The product is in high demand.", "B": "The warehouse is too small.", "C": "A shipment was delayed.", "D": "The price should be raised." },
+          "answer": "A",
+          "explanation": "Câu hỏi hàm ý: bán hết lô hàng đầu chỉ trong 3 ngày và đã đặt gấp đôi → sản phẩm rất được ưa chuộng." },
+        { "number": 76, "content": "What should the customer service team do?",
+          "options": { "A": "Issue refunds", "B": "Provide a replacement part", "C": "Post a reply online", "D": "Contact the design team" },
+          "answer": "B",
+          "explanation": "'The customer service team should offer a replacement lid' – lid (nắp) là một bộ phận của sản phẩm." }
+      ]
+    },
+    {
+      "part": 4, "audio": "audio/q77-79.mp3", "image": "images/q77-79.png", "intro": "talk and schedule", "voice": "W",
+      "graphic": { "type": "table", "title": "Vega Billboard Campaign",
+        "head": ["Location", "Month"],
+        "rows": [["Highway 9", "May"], ["Stadium Road", "June"], ["Central Station", "July"], ["Airport", "August"]] },
+      "transcript": "Good morning. As you know, our billboard campaign for the Vega smartphone starts next month. Here's the schedule for the four locations. I'm especially excited about the billboard on Stadium Road, because the national soccer championship will be held at the stadium during that month, so thousands of people will see it. Our designers are finishing the artwork this week. I'd like everyone to review the draft designs I've uploaded to the shared folder and send me your comments by Wednesday.",
+      "questions": [
+        { "number": 77, "content": "What product is being advertised?",
+          "options": { "A": "A sports drink", "B": "A television", "C": "A mobile phone", "D": "A car" },
+          "answer": "C",
+          "explanation": "'…our billboard campaign for the Vega smartphone' – smartphone = mobile phone." },
+        { "number": 78, "content": "Look at the graphic. When will the soccer championship most likely be held?",
+          "options": { "A": "In May", "B": "In June", "C": "In July", "D": "In August" },
+          "answer": "B",
+          "explanation": "Giải vô địch diễn ra trong tháng đặt biển quảng cáo ở Stadium Road – theo lịch là tháng Sáu (June)." },
+        { "number": 79, "content": "What are the listeners asked to do by Wednesday?",
+          "options": { "A": "Visit a location", "B": "Upload some photos", "C": "Meet with designers", "D": "Comment on some drafts" },
+          "answer": "D",
+          "explanation": "'Review the draft designs… and send me your comments by Wednesday.'" }
+      ]
+    }
+  ]
+}

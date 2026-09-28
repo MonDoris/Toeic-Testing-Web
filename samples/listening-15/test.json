@@ -1,0 +1,213 @@
+{
+  "title": "Listening Practice Test 15 – Transportation & Commuting",
+  "description": "Đề luyện Listening theo cấu trúc đề thi TOEIC (IIG Việt Nam), rút gọn 26 câu: Part 1 (2) · Part 2 (6) · Part 3 (9, có câu hỏi hàm ý và biểu đồ) · Part 4 (9). Chủ đề: giao thông, đi lại, thuê xe, tàu và phà.",
+  "skill": "Listening",
+  "durationMinutes": 15,
+  "publish": true,
+  "groups": [
+    {
+      "part": 1, "audio": "audio/q01.mp3", "image": "images/q01.png",
+      "scene": { "bg": "park", "items": [
+        "#shadow 720 330 160", "🌳 720 334 170",
+        "#rect 0 330 800 8 #ffffff", "#rect 0 382 800 8 #ffffff",
+        "#rect 30 312 10 110 #ffffff", "#rect 130 312 10 110 #ffffff", "#rect 230 312 10 110 #ffffff", "#rect 330 312 10 110 #ffffff", "#rect 430 312 10 110 #ffffff", "#rect 530 312 10 110 #ffffff", "#rect 630 312 10 110 #ffffff", "#rect 730 312 10 110 #ffffff",
+        "#shadow 360 450 600", "🚲 150 452 130", "🚲 290 452 130", "🚲 430 452 130", "🚲 570 452 130"
+      ] },
+      "transcript": "(A) A man is repairing a bicycle tire.\n(B) Some cyclists are riding along a path.\n(C) Some bicycles are parked in a row.\n(D) A fence is being painted.",
+      "questions": [
+        { "number": 1,
+          "options": { "A": "A man is repairing a bicycle tire.", "B": "Some cyclists are riding along a path.", "C": "Some bicycles are parked in a row.", "D": "A fence is being painted." },
+          "answer": "C",
+          "explanation": "Bốn chiếc xe đạp được dựng thành hàng cạnh hàng rào → (C). Không có người nên (A), (B), (D) đều sai." }
+      ]
+    },
+    {
+      "part": 1, "audio": "audio/q02.mp3", "image": "images/q02.png",
+      "scene": { "bg": "station", "items": [
+        "#rect 90 80 220 50 #1e3a8a 6", "#text 108 88 28 #ffffff PLATFORM 2",
+        "🚃 190 520 190", "🚃 370 520 190", "🚃 550 520 190",
+        "#shadow 700 412 110", "🧍🏻‍♀️ 700 414 130"
+      ] },
+      "transcript": "(A) A train has stopped at a platform.\n(B) Passengers are getting off a train.\n(C) A train is going through a tunnel.\n(D) Some tracks are being repaired.",
+      "questions": [
+        { "number": 2,
+          "options": { "A": "A train has stopped at a platform.", "B": "Passengers are getting off a train.", "C": "A train is going through a tunnel.", "D": "Some tracks are being repaired." },
+          "answer": "A",
+          "explanation": "Đoàn tàu đang đỗ cạnh sân ga → (A). Chỉ có một người đứng chờ, không ai xuống tàu (B); không có đường hầm (C); không ai sửa đường ray (D)." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q07.mp3",
+      "transcript": "How do you usually get to work?\n(A) I take the subway.\n(B) At eight thirty.\n(C) It works well.",
+      "questions": [
+        { "number": 7,
+          "options": { "A": "I take the subway.", "B": "At eight thirty.", "C": "It works well." },
+          "answer": "A",
+          "explanation": "How → phương tiện: đi tàu điện ngầm. (B) trả lời When; (C) bẫy 'work' – 'works'." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q08.mp3",
+      "transcript": "When does the next bus to the airport leave?\n(A) From stop number four.\n(B) He left an hour ago.\n(C) In about twenty minutes.",
+      "questions": [
+        { "number": 8,
+          "options": { "A": "From stop number four.", "B": "He left an hour ago.", "C": "In about twenty minutes." },
+          "answer": "C",
+          "explanation": "When → 'khoảng 20 phút nữa'. (A) trả lời Where; (B) bẫy 'leave' – 'left' và sai chủ ngữ." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q09.mp3",
+      "transcript": "Is there a parking garage near the theater?\n(A) The play starts at eight.\n(B) Yes, right across the street.\n(C) I parked it in the garage.",
+      "questions": [
+        { "number": 9,
+          "options": { "A": "The play starts at eight.", "B": "Yes, right across the street.", "C": "I parked it in the garage." },
+          "answer": "B",
+          "explanation": "Câu hỏi Yes/No về bãi đỗ xe → 'Có, ngay bên kia đường'. (A) liên tưởng 'theater' – 'play'; (C) lặp 'park', 'garage'." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q10.mp3",
+      "transcript": "Why was the train delayed this morning?\n(A) It's a long train ride.\n(B) There was a signal problem.\n(C) At platform six.",
+      "questions": [
+        { "number": 10,
+          "options": { "A": "It's a long train ride.", "B": "There was a signal problem.", "C": "At platform six." },
+          "answer": "B",
+          "explanation": "Why → lý do tàu trễ: sự cố tín hiệu. (A) lặp 'train'; (C) trả lời Where." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q11.mp3",
+      "transcript": "Would you like me to give you a ride to the station?\n(A) That would be great, thanks.\n(B) I rode my bike yesterday.\n(C) The station was crowded.",
+      "questions": [
+        { "number": 11,
+          "options": { "A": "That would be great, thanks.", "B": "I rode my bike yesterday.", "C": "The station was crowded." },
+          "answer": "A",
+          "explanation": "Lời đề nghị cho đi nhờ xe → cảm ơn và nhận lời. (B) bẫy 'ride' – 'rode'; (C) lặp 'station'." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q12.mp3",
+      "transcript": "Should we drive or take the train to the conference?\n(A) Yes, we should.\n(B) It's a training conference.\n(C) The train is faster at this time of day.",
+      "questions": [
+        { "number": 12,
+          "options": { "A": "Yes, we should.", "B": "It's a training conference.", "C": "The train is faster at this time of day." },
+          "answer": "C",
+          "explanation": "Câu hỏi lựa chọn → chọn tàu vì nhanh hơn vào giờ này. (A) Yes không hợp; (B) bẫy 'train' – 'training'." }
+      ]
+    },
+    {
+      "part": 3, "audio": "audio/q32-34.mp3",
+      "transcript": "M: Hi, I reserved a compact car for three days. My name is Hiroshi Sato.\nW: Welcome, Mr. Sato. Let me find your reservation. Yes, here it is. Unfortunately, all our compact cars are rented out today because of the holiday weekend.\nM: Oh, no. I really need a car. I'm driving to a client meeting in Bristol this afternoon.\nW: Don't worry. I can give you a mid-size car at the same price. It also has a navigation system.\nM: That's even better. Thank you.\nW: You're welcome. Just remember to return it with a full tank of gas.",
+      "questions": [
+        { "number": 32, "content": "Where does the conversation most likely take place?",
+          "options": { "A": "At a gas station", "B": "At a car rental counter", "C": "At a repair shop", "D": "At a parking garage" },
+          "answer": "B",
+          "explanation": "'I reserved a compact car for three days', 'rented out' → quầy cho thuê xe." },
+        { "number": 33, "content": "Why are there no compact cars available?",
+          "options": { "A": "They are being cleaned.", "B": "A reservation was canceled.", "C": "There was a computer error.", "D": "Many customers rented cars for a holiday." },
+          "answer": "D",
+          "explanation": "'All our compact cars are rented out today because of the holiday weekend.'" },
+        { "number": 34, "content": "What does the woman remind the man to do?",
+          "options": { "A": "Pay a deposit", "B": "Check the tires", "C": "Refill the fuel before returning the car", "D": "Return the car by noon" },
+          "answer": "C",
+          "explanation": "'Remember to return it with a full tank of gas' → đổ đầy xăng trước khi trả xe." }
+      ]
+    },
+    {
+      "part": 3, "audio": "audio/q35-37.mp3",
+      "transcript": "W: Hi, Raj. I heard you're moving to Westfield. That's a long commute.\nM: Yes. It'll take me about an hour each way by bus.\nW: I live in Westfield, and I drive to work every day. You could ride with me.\nM: Really? That would be great. I could pay for half the gas.\nW: That'd be nice. I usually leave at seven fifteen, though.\nM: That's fine. I'm an early riser.\nW: OK. I'll text you my address tonight.",
+      "questions": [
+        { "number": 35, "content": "What does the woman offer to do?",
+          "options": { "A": "Help the man move", "B": "Lend him her car", "C": "Show him a bus route", "D": "Share rides to work" },
+          "answer": "D",
+          "explanation": "'I drive to work every day. You could ride with me.' → đi chung xe tới chỗ làm." },
+        { "number": 36, "content": "Why does the woman say, “I usually leave at seven fifteen, though”?",
+          "options": { "A": "To check whether the time is convenient for the man", "B": "To complain about morning traffic", "C": "To suggest leaving later", "D": "To explain why she is often late" },
+          "answer": "A",
+          "explanation": "Câu hỏi hàm ý: 'though' báo hiệu điều có thể bất tiện – 7:15 khá sớm, cô muốn xem anh có đi được không. Anh đáp 'That's fine. I'm an early riser.'" },
+        { "number": 37, "content": "What will the woman send the man tonight?",
+          "options": { "A": "A bus schedule", "B": "Her home address", "C": "A parking permit", "D": "A payment" },
+          "answer": "B",
+          "explanation": "'I'll text you my address tonight.'" }
+      ]
+    },
+    {
+      "part": 3, "audio": "audio/q38-40.mp3", "image": "images/q38-40.png", "intro": "conversation and timetable",
+      "graphic": { "type": "table", "title": "Central Station → Lakeside",
+        "head": ["Train", "Departs", "Arrives"],
+        "rows": [["Express 101", "8:05", "8:50"], ["Local 203", "8:20", "9:40"], ["Express 105", "8:45", "9:30"], ["Local 207", "9:00", "10:20"]] },
+      "transcript": "W: Excuse me. I need to get to Lakeside for a job interview at nine forty-five. Which train should I take?\nM: Well, it's eight fifteen now, so you've just missed the first express.\nW: Oh, no. What about the next one?\nM: The local train leaves in five minutes, but it makes a lot of stops. The express after it will actually get you there earlier.\nW: Great, I'll take that one. Where can I buy a ticket?\nM: You can use the machines over there, or buy one on our mobile app. Tickets are ten percent cheaper on the app.",
+      "questions": [
+        { "number": 38, "content": "Why is the woman traveling to Lakeside?",
+          "options": { "A": "To attend an interview", "B": "To meet a client", "C": "To visit a relative", "D": "To go sightseeing" },
+          "answer": "A",
+          "explanation": "'I need to get to Lakeside for a job interview at nine forty-five.'" },
+        { "number": 39, "content": "Look at the graphic. What time will the woman's train depart?",
+          "options": { "A": "8:05", "B": "8:20", "C": "8:45", "D": "9:00" },
+          "answer": "C",
+          "explanation": "Cô chọn chuyến tốc hành sau chuyến tàu thường (Local 203) – theo bảng là Express 105, khởi hành 8:45, tới nơi 9:30." },
+        { "number": 40, "content": "What does the man say about the mobile app?",
+          "options": { "A": "It shows real-time delays.", "B": "It is free to download.", "C": "It requires registration.", "D": "It offers cheaper tickets." },
+          "answer": "D",
+          "explanation": "'Tickets are ten percent cheaper on the app.'" }
+      ]
+    },
+    {
+      "part": 4, "audio": "audio/q71-73.mp3", "intro": "broadcast", "voice": "M",
+      "transcript": "This is Mike Fisher with your morning traffic update. Traffic is moving slowly on Highway 12 this morning because of road construction near the Oakdale exit. Two lanes are closed, and drivers should expect delays of up to thirty minutes. If you're heading downtown, consider taking Route 9 instead. Also, the city's new bike-sharing program starts today, with fifty rental stations across downtown. I'll be back with another update in fifteen minutes.",
+      "questions": [
+        { "number": 71, "content": "What is causing delays on Highway 12?",
+          "options": { "A": "An accident", "B": "Road work", "C": "Heavy rain", "D": "A parade" },
+          "answer": "B",
+          "explanation": "'…because of road construction near the Oakdale exit' – road construction = road work." },
+        { "number": 72, "content": "What does the speaker suggest?",
+          "options": { "A": "Leaving home later", "B": "Using a different road", "C": "Taking the train", "D": "Riding a bicycle" },
+          "answer": "B",
+          "explanation": "'Consider taking Route 9 instead' → đi đường khác." },
+        { "number": 73, "content": "What begins today?",
+          "options": { "A": "A new bus route", "B": "Higher parking fees", "C": "A bicycle rental service", "D": "A subway extension" },
+          "answer": "C",
+          "explanation": "'The city's new bike-sharing program starts today, with fifty rental stations.'" }
+      ]
+    },
+    {
+      "part": 4, "audio": "audio/q74-76.mp3", "intro": "announcement", "voice": "W",
+      "transcript": "Good afternoon, passengers, and welcome aboard the Island Express ferry to Port Ellis. Our trip today will take about ninety minutes. The sea is a little rough this afternoon, so please remain seated while the ferry is moving. Our café on the upper deck serves hot drinks and sandwiches. The café closes thirty minutes before we arrive. When we reach Port Ellis, please make sure to take all your belongings with you.",
+      "questions": [
+        { "number": 74, "content": "Where is the announcement being made?",
+          "options": { "A": "On a train", "B": "On an airplane", "C": "On a bus", "D": "On a boat" },
+          "answer": "D",
+          "explanation": "'Welcome aboard the Island Express ferry' – ferry = phà (một loại tàu thuyền)." },
+        { "number": 75, "content": "What are listeners asked to do?",
+          "options": { "A": "Stay in their seats", "B": "Show their tickets", "C": "Put on life jackets", "D": "Turn off their phones" },
+          "answer": "A",
+          "explanation": "'Please remain seated while the ferry is moving.'" },
+        { "number": 76, "content": "Why does the speaker say, “The café closes thirty minutes before we arrive”?",
+          "options": { "A": "To apologize for poor service", "B": "To recommend a restaurant at the port", "C": "To remind listeners to make purchases in time", "D": "To explain a delay" },
+          "answer": "C",
+          "explanation": "Câu hỏi hàm ý: quán đóng cửa 30 phút trước khi cập bến → nhắc hành khách muốn mua đồ ăn uống thì nên mua sớm." }
+      ]
+    },
+    {
+      "part": 4, "audio": "audio/q77-79.mp3", "image": "images/q77-79.png", "intro": "talk and chart", "voice": "W",
+      "graphic": { "type": "bars", "title": "How Employees Commute", "unit": "%",
+        "data": [["Car", 45], ["Bus", 25], ["Train", 20], ["Bicycle", 10]] },
+      "transcript": "Thanks to everyone who completed our commuting survey. Here are the results. As you can see, the majority of employees drive to work, which is why our parking lot is so crowded. Starting in May, the company will give a monthly allowance of fifty dollars to anyone who commutes by public transportation. We also want to see more people cycling to work, so we're adding covered bike racks and showers in the basement. If you have other ideas for reducing traffic, please e-mail them to me.",
+      "questions": [
+        { "number": 77, "content": "What problem does the speaker mention?",
+          "options": { "A": "Public transportation is unreliable.", "B": "The parking area is often full.", "C": "Some roads are being repaired.", "D": "Fuel costs are increasing." },
+          "answer": "B",
+          "explanation": "'…which is why our parking lot is so crowded.'" },
+        { "number": 78, "content": "Look at the graphic. What percentage of employees currently use the type of transportation that will get new facilities?",
+          "options": { "A": "45%", "B": "25%", "C": "20%", "D": "10%" },
+          "answer": "D",
+          "explanation": "Công ty lắp thêm giá để xe đạp và phòng tắm cho người đạp xe → theo biểu đồ, Bicycle chiếm 10%." },
+        { "number": 79, "content": "What are listeners invited to do?",
+          "options": { "A": "Send suggestions by e-mail", "B": "Apply for a parking permit", "C": "Join a cycling club", "D": "Complete another survey" },
+          "answer": "A",
+          "explanation": "'If you have other ideas for reducing traffic, please e-mail them to me.'" }
+      ]
+    }
+  ]
+}

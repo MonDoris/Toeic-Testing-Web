@@ -1,0 +1,196 @@
+@import "tailwindcss";
+
+/*
+  Bubble Sheet — design tokens
+  Exam-room blue ink on cool answer-sheet paper, one highlighter accent.
+*/
+@theme {
+  --color-ink: #1b2a6b;
+  --color-ink-2: #2c3e9a;
+  --color-ink-soft: #dfe4f5;
+  --color-paper: #eef1f8;
+  --color-card: #ffffff;
+  --color-graphite: #1a1d29;
+  --color-lead: #636b82;
+  --color-line: #d5dbea;
+  --color-hl: #f6d743;
+  --color-hl-soft: #fdf3c4;
+  --color-ok: #1f9d6b;
+  --color-ok-soft: #dcf3e9;
+  --color-bad: #d64545;
+  --color-bad-soft: #fbe3e3;
+
+  --font-display: "Bricolage Grotesque", "Be Vietnam Pro", system-ui, sans-serif;
+  --font-sans: "Be Vietnam Pro", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, monospace;
+
+  --shadow-sheet: 0 1px 0 rgb(27 42 107 / 0.04), 0 8px 24px -12px rgb(27 42 107 / 0.18);
+  --shadow-lift: 0 2px 0 rgb(27 42 107 / 0.05), 0 18px 40px -16px rgb(27 42 107 / 0.35);
+}
+
+@layer base {
+  html {
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+  }
+  body {
+    background-color: var(--color-paper);
+    color: var(--color-graphite);
+    font-family: var(--font-sans);
+  }
+  h1, h2, h3, h4 {
+    font-family: var(--font-display);
+    letter-spacing: -0.02em;
+  }
+  :focus-visible {
+    outline: 3px solid var(--color-hl);
+    outline-offset: 2px;
+    border-radius: 6px;
+  }
+  ::selection {
+    background: var(--color-hl);
+    color: var(--color-graphite);
+  }
+}
+
+@layer components {
+  /* Kẻ dòng mờ như giấy làm bài */
+  .ruled {
+    background-image: repeating-linear-gradient(
+      to bottom,
+      transparent 0,
+      transparent 31px,
+      rgb(27 42 107 / 0.06) 31px,
+      rgb(27 42 107 / 0.06) 32px
+    );
+  }
+  /* Dải timing marks bên mép phiếu trả lời */
+  .timing-marks {
+    background-image: repeating-linear-gradient(
+      to bottom,
+      var(--color-ink) 0,
+      var(--color-ink) 6px,
+      transparent 6px,
+      transparent 22px
+    );
+  }
+  /* Nét highlighter dưới chữ */
+  .hl {
+    background: linear-gradient(transparent 55%, var(--color-hl) 55%, var(--color-hl) 92%, transparent 92%);
+    padding: 0 0.1em;
+  }
+  .card {
+    background: var(--color-card);
+    border: 1px solid var(--color-line);
+    border-radius: 18px;
+    box-shadow: var(--shadow-sheet);
+  }
+  .btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    border-radius: 999px;
+    padding: 0.65rem 1.2rem;
+    font-weight: 600;
+    font-size: 0.925rem;
+    transition: transform 0.15s ease, background-color 0.15s ease, box-shadow 0.15s ease, color 0.15s;
+    white-space: nowrap;
+  }
+  .btn:active { transform: translateY(1px) scale(0.98); }
+  .btn:disabled { opacity: 0.5; pointer-events: none; }
+  .btn-primary { background: var(--color-ink); color: white; box-shadow: 0 6px 16px -8px rgb(27 42 107 / 0.7); }
+  .btn-primary:hover { background: var(--color-ink-2); }
+  .btn-hl { background: var(--color-hl); color: var(--color-graphite); }
+  .btn-hl:hover { background: #f0cc2a; }
+  .btn-ghost { background: transparent; color: var(--color-ink); border: 1px solid var(--color-line); }
+  .btn-ghost:hover { background: var(--color-ink-soft); border-color: transparent; }
+  .btn-danger { background: var(--color-bad-soft); color: var(--color-bad); }
+  .btn-danger:hover { background: var(--color-bad); color: white; }
+  .btn-sm { padding: 0.4rem 0.85rem; font-size: 0.825rem; }
+
+  .input {
+    width: 100%;
+    background: white;
+    border: 1.5px solid var(--color-line);
+    border-radius: 12px;
+    padding: 0.7rem 0.9rem;
+    font-size: 0.95rem;
+    transition: border-color 0.15s, box-shadow 0.15s;
+  }
+  .input:focus {
+    outline: none;
+    border-color: var(--color-ink);
+    box-shadow: 0 0 0 4px rgb(27 42 107 / 0.1);
+  }
+  .label {
+    display: block;
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: var(--color-lead);
+    margin-bottom: 0.35rem;
+  }
+  .eyebrow {
+    font-family: var(--font-mono);
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--color-lead);
+  }
+  .chip {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    border-radius: 999px;
+    padding: 0.3rem 0.75rem;
+    font-size: 0.8rem;
+    font-weight: 600;
+    border: 1px solid var(--color-line);
+    background: white;
+    color: var(--color-graphite);
+    transition: all 0.15s;
+  }
+  .chip[data-active="true"] {
+    background: var(--color-ink);
+    border-color: var(--color-ink);
+    color: white;
+  }
+}
+
+/* Nội dung bài học ngữ pháp (markdown) */
+.prose-grammar { line-height: 1.75; color: var(--color-graphite); }
+.prose-grammar h2 { font-size: 1.45rem; font-weight: 700; margin: 2.2rem 0 0.8rem; color: var(--color-ink); }
+.prose-grammar h3 { font-size: 1.15rem; font-weight: 700; margin: 1.6rem 0 0.6rem; }
+.prose-grammar p { margin: 0.7rem 0; }
+.prose-grammar ul, .prose-grammar ol { margin: 0.6rem 0 0.6rem 1.3rem; }
+.prose-grammar ul { list-style: disc; }
+.prose-grammar ol { list-style: decimal; }
+.prose-grammar li { margin: 0.3rem 0; }
+.prose-grammar strong { color: var(--color-ink); font-weight: 700; }
+.prose-grammar em { font-style: italic; }
+.prose-grammar table { width: 100%; border-collapse: collapse; margin: 1rem 0; font-size: 0.925rem; display: block; overflow-x: auto; }
+.prose-grammar th { background: var(--color-ink); color: white; text-align: left; padding: 0.6rem 0.8rem; font-weight: 600; }
+.prose-grammar th:first-child { border-top-left-radius: 10px; }
+.prose-grammar th:last-child { border-top-right-radius: 10px; }
+.prose-grammar td { padding: 0.6rem 0.8rem; border-bottom: 1px solid var(--color-line); vertical-align: top; }
+.prose-grammar tr:nth-child(even) td { background: #f7f8fc; }
+.prose-grammar blockquote {
+  margin: 1.2rem 0;
+  padding: 0.9rem 1.1rem;
+  border-left: 4px solid var(--color-hl);
+  background: var(--color-hl-soft);
+  border-radius: 0 12px 12px 0;
+}
+.prose-grammar blockquote p { margin: 0.2rem 0; }
+.prose-grammar code { font-family: var(--font-mono); font-size: 0.85em; background: var(--color-ink-soft); padding: 0.1em 0.35em; border-radius: 5px; }
+.prose-grammar input[type="checkbox"] { margin-right: 0.4rem; accent-color: var(--color-ink); }
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

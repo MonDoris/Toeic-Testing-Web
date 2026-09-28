@@ -1,0 +1,73 @@
+{
+  "title": "Writing Mini Test 01 – Picture, Email & Essay",
+  "description": "Đề rút gọn gồm đủ 3 dạng bài Writing: viết câu mô tả ảnh, trả lời email và bài luận nêu quan điểm.",
+  "skill": "Writing",
+  "durationMinutes": 45,
+  "publish": true,
+  "groups": [
+    {
+      "part": 11,
+      "image": "images/desk.png",
+      "questions": [
+        {
+          "number": 1,
+          "content": "Write ONE sentence based on the picture using the TWO words or phrases given.",
+          "keywords": ["laptop", "next to"],
+          "sampleAnswer": "A laptop is on the desk next to a cup of coffee.",
+          "explanation": "Dùng 'next to' để chỉ vị trí giữa hai đồ vật. Có thể đổi dạng từ (laptops) nếu đúng ngữ pháp."
+        }
+      ]
+    },
+    {
+      "part": 11,
+      "image": "images/bicycles.png",
+      "questions": [
+        {
+          "number": 2,
+          "content": "Write ONE sentence based on the picture using the TWO words or phrases given.",
+          "keywords": ["bicycle", "along"],
+          "sampleAnswer": "Several bicycles have been parked along the fence.",
+          "explanation": "Ảnh không có người → dùng bị động 'have been parked' hoặc 'are parked'."
+        }
+      ]
+    },
+    {
+      "part": 11,
+      "image": "images/meeting-room.png",
+      "questions": [
+        {
+          "number": 3,
+          "content": "Write ONE sentence based on the picture using the TWO words or phrases given.",
+          "keywords": ["chair", "around"],
+          "sampleAnswer": "Some chairs are arranged around a large table in the meeting room.",
+          "explanation": "Mẫu câu an toàn: S + are + V3 + giới từ + nơi chốn."
+        }
+      ]
+    },
+    {
+      "part": 12,
+      "passage": "From: Laura Chen, Greenfield Community Center\nTo: Volunteer list\nSubject: Spring clean-up event\n\nDear volunteers,\n\nWe are organizing a clean-up event in Greenfield Park on Saturday, April 12. We need people to help with picking up litter, planting flowers and serving snacks to participants. If you would like to take part, please reply to this email.\n\nThank you,\nLaura Chen",
+      "questions": [
+        {
+          "number": 6,
+          "content": "Respond to the email as if you are a volunteer. In your email, ask TWO questions and give ONE piece of information about yourself.",
+          "minWords": 100,
+          "sampleAnswer": "Dear Ms. Chen,\n\nThank you for your email about the spring clean-up event in Greenfield Park. I would be happy to take part on Saturday, April 12.\n\nI have some experience with gardening because I help take care of the plants at my apartment building, so I would like to join the flower-planting team.\n\nI have two questions about the event. First, what time should volunteers arrive at the park, and how long will the event last? Second, should we bring our own gloves and tools, or will the community center provide them?\n\nI look forward to hearing from you and helping to make our park cleaner.\n\nBest regards,\nMinh Nguyen",
+          "explanation": "Đủ 2 câu hỏi (thời gian, dụng cụ) + 1 thông tin cá nhân (kinh nghiệm làm vườn), có chào và kết thư."
+        }
+      ]
+    },
+    {
+      "part": 13,
+      "questions": [
+        {
+          "number": 8,
+          "content": "Some people prefer to work for a large company, while others prefer to work for a small company. Which do you prefer? Give reasons or examples to support your opinion.",
+          "minWords": 300,
+          "sampleAnswer": "People have different opinions about the ideal workplace. Some people are attracted to large corporations, while others feel more comfortable in small businesses. In my opinion, working for a small company is the better choice, especially for young employees, for two main reasons.\n\nFirst of all, employees at a small company usually have the chance to learn a wider range of skills. Because there are fewer staff members, each person often takes on several responsibilities. For example, when I worked at a small travel agency after graduating, I not only answered customer inquiries but also helped design advertisements and prepare financial reports. As a result, I learned much more in one year than my friends who worked in a single department at a large company. These skills made me more confident and more valuable in the job market.\n\nIn addition, small companies often have a friendly and flexible working environment. Since everyone knows each other, communication is fast and managers can listen to new ideas directly. Moreover, decisions can be made quickly without many levels of approval. For instance, at my previous workplace, I suggested using social media to promote our tours, and the owner approved my plan the very next day. This made me feel that my contribution was important, which motivated me to work harder.\n\nAdmittedly, large companies usually offer higher salaries, better benefits and more stable career paths. However, I believe that the practical experience and the sense of belonging at a small company are more important in the long run, because they help employees grow both professionally and personally.\n\nIn conclusion, although large companies have some clear advantages, I prefer to work for a small company. It gives employees the opportunity to develop a variety of skills and to work in a supportive environment where their ideas are valued.",
+          "explanation": "Bố cục 5 đoạn: mở bài nêu quan điểm – 2 lý do có ví dụ cá nhân – nhượng bộ – kết luận. Dùng nhiều từ nối (First of all, In addition, For instance, However, In conclusion)."
+        }
+      ]
+    }
+  ]
+}

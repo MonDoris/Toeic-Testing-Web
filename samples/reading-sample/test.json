@@ -1,0 +1,119 @@
+{
+  "title": "Reading Mini Test 01 – Office Life",
+  "description": "Đề rút gọn 11 câu bao phủ đủ 3 Part của phần Reading: điền từ vào câu, hoàn thành đoạn văn và đọc hiểu.",
+  "skill": "Reading",
+  "durationMinutes": 12,
+  "publish": true,
+  "groups": [
+    {
+      "part": 5,
+      "questions": [
+        {
+          "number": 101,
+          "content": "The quarterly report must be ------- to the finance department by Friday.",
+          "options": { "A": "submit", "B": "submitted", "C": "submitting", "D": "submission" },
+          "answer": "B",
+          "explanation": "Cấu trúc bị động với động từ khuyết thiếu: must be + V3 → \"submitted\"."
+        }
+      ]
+    },
+    {
+      "part": 5,
+      "questions": [
+        {
+          "number": 102,
+          "content": "Ms. Tanaka has worked at the Osaka branch ------- 2019.",
+          "options": { "A": "for", "B": "during", "C": "since", "D": "until" },
+          "answer": "C",
+          "explanation": "Thì hiện tại hoàn thành + mốc thời gian (2019) → dùng \"since\"."
+        }
+      ]
+    },
+    {
+      "part": 5,
+      "questions": [
+        {
+          "number": 103,
+          "content": "Please read the safety instructions ------- before operating the machine.",
+          "options": { "A": "careful", "B": "carefully", "C": "care", "D": "caring" },
+          "answer": "B",
+          "explanation": "Cần trạng từ bổ nghĩa cho động từ \"read\" → \"carefully\"."
+        }
+      ]
+    },
+    {
+      "part": 5,
+      "questions": [
+        {
+          "number": 104,
+          "content": "The new software is ------- with most operating systems.",
+          "options": { "A": "compatible", "B": "comparable", "C": "competitive", "D": "complete" },
+          "answer": "A",
+          "explanation": "\"compatible with\" = tương thích với. \"comparable\" đi với \"to\", không hợp nghĩa."
+        }
+      ]
+    },
+    {
+      "part": 6,
+      "passage": "To: All staff\nFrom: Facilities Management\nSubject: Parking lot repairs\n\nDear employees,\n\nThe east parking lot will be closed for repairs from Monday, June 3, to Friday, June 7. During this time, employees ---131--- in the west lot or on Harbor Street. ---132---.\n\nWe apologize for any ---133--- this may cause. The work is expected to improve drainage and lighting, ---134--- the lot safer for everyone.\n\nThank you for your understanding.",
+      "questions": [
+        {
+          "number": 131,
+          "options": { "A": "park", "B": "should park", "C": "parked", "D": "parking" },
+          "answer": "B",
+          "explanation": "Chủ ngữ \"employees\" cần một động từ chính mang nghĩa khuyên/yêu cầu → \"should park\"."
+        },
+        {
+          "number": 132,
+          "options": {
+            "A": "The west lot opens at 6:30 a.m.",
+            "B": "Our cafeteria menu has changed.",
+            "C": "Please submit your timesheets.",
+            "D": "The lot was built in 1998."
+          },
+          "answer": "A",
+          "explanation": "Câu chèn phải liên quan tới việc đỗ xe ở bãi phía tây vừa nhắc → (A)."
+        },
+        {
+          "number": 133,
+          "options": { "A": "inconvenience", "B": "inconvenient", "C": "inconveniently", "D": "inconvenienced" },
+          "answer": "A",
+          "explanation": "Sau \"any\" cần danh từ → \"inconvenience\" (sự bất tiện)."
+        },
+        {
+          "number": 134,
+          "options": { "A": "make", "B": "makes", "C": "making", "D": "made" },
+          "answer": "C",
+          "explanation": "Mệnh đề rút gọn chỉ kết quả sau dấu phẩy → V-ing \"making\"."
+        }
+      ]
+    },
+    {
+      "part": 7,
+      "passage": "Green Leaf Café – Now Open in Riverside Mall\n\nEnjoy freshly roasted coffee, homemade pastries, and light lunches. Open daily from 7 a.m. to 8 p.m.\n\nShow this advertisement before June 30 to receive 20% off any drink.\n\nFree Wi-Fi and a meeting space for groups of up to 10 people are available. Reservations for the meeting space are recommended.",
+      "questions": [
+        {
+          "number": 147,
+          "content": "What is being advertised?",
+          "options": { "A": "A bakery supply store", "B": "A new café", "C": "A shopping mall", "D": "A catering service" },
+          "answer": "B",
+          "explanation": "\"Green Leaf Café – Now Open\" → một quán cà phê mới mở."
+        },
+        {
+          "number": 148,
+          "content": "How can customers receive a discount?",
+          "options": { "A": "By ordering online", "B": "By joining a membership program", "C": "By showing the advertisement", "D": "By visiting after 7 p.m." },
+          "answer": "C",
+          "explanation": "\"Show this advertisement before June 30 to receive 20% off\"."
+        },
+        {
+          "number": 149,
+          "content": "What is suggested about the meeting space?",
+          "options": { "A": "It is free of charge on weekends.", "B": "It should be reserved in advance.", "C": "It can hold more than 20 people.", "D": "It closes at 7 p.m." },
+          "answer": "B",
+          "explanation": "\"Reservations for the meeting space are recommended\" → nên đặt trước."
+        }
+      ]
+    }
+  ]
+}

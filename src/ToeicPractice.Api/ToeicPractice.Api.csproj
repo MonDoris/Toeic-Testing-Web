@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <!-- windows10.0.19041: dùng Windows.Media.Ocr và Windows.Data.Pdf để OCR ảnh/PDF scan -->
+    <TargetFramework>net9.0-windows10.0.19041.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="9.0.8" />
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="9.0.7" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="7.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ToeicPractice.Infrastructure\ToeicPractice.Infrastructure.csproj" />
+    <ProjectReference Include="..\ToeicPractice.Application\ToeicPractice.Application.csproj" />
+  </ItemGroup>
+
+</Project>

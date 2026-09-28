@@ -1,0 +1,217 @@
+{
+  "title": "Listening Practice Test 13 – Health & Fitness",
+  "description": "Đề luyện Listening theo cấu trúc đề thi TOEIC (IIG Việt Nam), rút gọn 26 câu: Part 1 (2) · Part 2 (6) · Part 3 (9, có câu hỏi hàm ý và biểu đồ) · Part 4 (9). Chủ đề: phòng khám, nhà thuốc, sức khoẻ nhân viên, thể dục.",
+  "skill": "Listening",
+  "durationMinutes": 15,
+  "publish": true,
+  "groups": [
+    {
+      "part": 1, "audio": "audio/q01.mp3", "image": "images/q01.png",
+      "scene": { "bg": "park", "items": [
+        "#rect 0 420 800 64 #e3d3b3",
+        "#shadow 120 412 170", "🌳 120 416 180", "#shadow 690 400 150", "🌳 690 404 160",
+        "#rect 540 372 130 12 #8a5a3b 3", "#rect 552 384 10 34 #6f4630", "#rect 648 384 10 34 #6f4630",
+        "#shadow 420 470 140", "🏃🏻‍♀️ 420 472 190"
+      ] },
+      "transcript": "(A) A woman is jogging along a path.\n(B) A woman is sitting on a bench.\n(C) Some trees are being trimmed.\n(D) A woman is riding a bicycle.",
+      "questions": [
+        { "number": 1,
+          "options": { "A": "A woman is jogging along a path.", "B": "A woman is sitting on a bench.", "C": "Some trees are being trimmed.", "D": "A woman is riding a bicycle." },
+          "answer": "A",
+          "explanation": "Người phụ nữ đang chạy bộ trên lối đi trong công viên → (A). Ghế băng trống (B); không ai cắt tỉa cây (C); cô không đi xe đạp (D)." }
+      ]
+    },
+    {
+      "part": 1, "audio": "audio/q02.mp3", "image": "images/q02.png",
+      "scene": { "bg": "store", "items": [
+        "#rect 300 16 200 50 #047857 6", "#text 320 26 28 #ffffff PHARMACY",
+        "#rect 60 130 680 10 #a0785a", "#rect 60 222 680 10 #a0785a",
+        "💊 100 130 50", "🧴 160 130 54", "🧴 215 130 54", "💊 270 130 50", "🩹 560 130 50", "🧴 620 130 54", "💊 680 130 50",
+        "🧴 100 222 54", "🌡️ 160 222 50", "🩹 215 222 50", "💊 600 222 50", "🧴 660 222 54", "🧴 710 222 54",
+        "🧑🏽‍⚕️ 400 336 180",
+        "#rect 100 330 600 24 #e5e7eb 4", "#rect 110 354 580 150 #93c5fd 4",
+        "🧾 250 334 44"
+      ] },
+      "transcript": "(A) Some boxes are being unpacked.\n(B) A customer is paying for some medicine.\n(C) A pharmacist is standing behind a counter.\n(D) Some shelves are being cleaned.",
+      "questions": [
+        { "number": 2,
+          "options": { "A": "Some boxes are being unpacked.", "B": "A customer is paying for some medicine.", "C": "A pharmacist is standing behind a counter.", "D": "Some shelves are being cleaned." },
+          "answer": "C",
+          "explanation": "Dược sĩ đứng sau quầy thuốc → (C). Không có khách hàng (B), không ai mở thùng hàng (A) hay lau kệ (D)." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q07.mp3",
+      "transcript": "What time is your dental appointment?\n(A) At the dental clinic.\n(B) At four thirty.\n(C) She was appointed last year.",
+      "questions": [
+        { "number": 7,
+          "options": { "A": "At the dental clinic.", "B": "At four thirty.", "C": "She was appointed last year." },
+          "answer": "B",
+          "explanation": "What time → giờ hẹn: 4:30. (A) lặp 'dental', trả lời Where; (C) bẫy 'appointment' – 'appointed' (được bổ nhiệm)." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q08.mp3",
+      "transcript": "Do you know if the gym offers yoga classes?\n(A) I gave it to Jim.\n(B) A yoga mat.\n(C) Yes, on Tuesday and Thursday evenings.",
+      "questions": [
+        { "number": 8,
+          "options": { "A": "I gave it to Jim.", "B": "A yoga mat.", "C": "Yes, on Tuesday and Thursday evenings." },
+          "answer": "C",
+          "explanation": "Câu hỏi gián tiếp dạng Yes/No → 'Có, tối thứ Ba và thứ Năm'. (A) bẫy đồng âm 'gym' – 'Jim'; (B) lặp 'yoga'." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q09.mp3",
+      "transcript": "Why did Dr. Patel cancel her appointments today?\n(A) She's attending a medical conference.\n(B) Yes, I canceled it.\n(C) At the hospital.",
+      "questions": [
+        { "number": 9,
+          "options": { "A": "She's attending a medical conference.", "B": "Yes, I canceled it.", "C": "At the hospital." },
+          "answer": "A",
+          "explanation": "Why → lý do: bác sĩ đi dự hội nghị y khoa. (B) Yes không hợp câu Wh-, lặp 'cancel'; (C) trả lời Where." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q10.mp3",
+      "transcript": "Should I take this medicine before or after meals?\n(A) I've already eaten.\n(B) The medical center.\n(C) After meals, twice a day.",
+      "questions": [
+        { "number": 10,
+          "options": { "A": "I've already eaten.", "B": "The medical center.", "C": "After meals, twice a day." },
+          "answer": "C",
+          "explanation": "Câu hỏi lựa chọn → 'Sau bữa ăn, ngày hai lần'. (A) liên tưởng 'meals' – 'eaten'; (B) bẫy 'medicine' – 'medical'." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q11.mp3",
+      "transcript": "Who's the new receptionist at the clinic?\n(A) Yes, she's new.\n(B) Her name is Laura Kim.\n(C) At the reception desk.",
+      "questions": [
+        { "number": 11,
+          "options": { "A": "Yes, she's new.", "B": "Her name is Laura Kim.", "C": "At the reception desk." },
+          "answer": "B",
+          "explanation": "Who → tên người. (A) Yes không hợp, lặp 'new'; (C) bẫy 'receptionist' – 'reception'." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q12.mp3",
+      "transcript": "You've had your annual checkup, haven't you?\n(A) Not yet. I have one next week.\n(B) Please check the list.\n(C) An annual report.",
+      "questions": [
+        { "number": 12,
+          "options": { "A": "Not yet. I have one next week.", "B": "Please check the list.", "C": "An annual report." },
+          "answer": "A",
+          "explanation": "Câu hỏi đuôi → 'Chưa, tuần sau tôi mới khám'. (B) bẫy 'checkup' – 'check'; (C) lặp 'annual'." }
+      ]
+    },
+    {
+      "part": 3, "audio": "audio/q32-34.mp3",
+      "transcript": "W: Good morning, Greenhill Medical Clinic. How can I help you?\nM: Hi, I'd like to make an appointment with Dr. Ramos. I've had a sore throat for about a week.\nW: Let me see. Dr. Ramos is fully booked until Friday. But Dr. Singh has an opening this afternoon at two.\nM: This afternoon would be better. I'll see Dr. Singh.\nW: All right. Since this is your first visit, please arrive fifteen minutes early to fill out some forms. And bring your insurance card.",
+      "questions": [
+        { "number": 32, "content": "Why is the man calling?",
+          "options": { "A": "To refill a prescription", "B": "To schedule a visit", "C": "To ask for test results", "D": "To change his insurance" },
+          "answer": "B",
+          "explanation": "'I'd like to make an appointment with Dr. Ramos' → đặt lịch khám." },
+        { "number": 33, "content": "Why will the man see Dr. Singh?",
+          "options": { "A": "Dr. Ramos is not available soon.", "B": "Dr. Singh is a specialist.", "C": "A friend recommended Dr. Singh.", "D": "Dr. Singh's office is closer." },
+          "answer": "A",
+          "explanation": "'Dr. Ramos is fully booked until Friday' nên anh chọn bác sĩ Singh có lịch trống chiều nay." },
+        { "number": 34, "content": "What is the man asked to do?",
+          "options": { "A": "Pay a fee in advance", "B": "Bring his medical records", "C": "Call back tomorrow", "D": "Arrive before his appointment time" },
+          "answer": "D",
+          "explanation": "'Please arrive fifteen minutes early to fill out some forms.' (B) sai: anh được dặn mang thẻ bảo hiểm, không phải hồ sơ bệnh án." }
+      ]
+    },
+    {
+      "part": 3, "audio": "audio/q35-37.mp3",
+      "transcript": "W: Hi, Jerome. Have you signed up for the company's new wellness program?\nM: Not yet. What does it include?\nW: Free fitness classes at the gym across the street, and a health check with a nurse every six months.\nM: That sounds great, but I usually work until seven.\nW: The gym is open until ten.\nM: Oh, then I'll definitely sign up. Where do I register?\nW: On the HR portal. The deadline is this Friday.",
+      "questions": [
+        { "number": 35, "content": "What are the speakers mainly discussing?",
+          "options": { "A": "A work schedule", "B": "A new cafeteria menu", "C": "An employee health program", "D": "A company picnic" },
+          "answer": "C",
+          "explanation": "'The company's new wellness program' – chương trình chăm sóc sức khoẻ cho nhân viên." },
+        { "number": 36, "content": "Why does the woman say, “The gym is open until ten”?",
+          "options": { "A": "To suggest a different gym", "B": "To correct an error in a schedule", "C": "To complain about the gym's hours", "D": "To show that the man can still attend" },
+          "answer": "D",
+          "explanation": "Câu hỏi hàm ý: anh lo làm tới 7 giờ, nhưng phòng tập mở tới 10 giờ → vẫn đi tập được sau giờ làm." },
+        { "number": 37, "content": "What does the woman say about registration?",
+          "options": { "A": "It requires a fee.", "B": "It has a deadline this week.", "C": "It must be done in person.", "D": "It requires a manager's approval." },
+          "answer": "B",
+          "explanation": "'The deadline is this Friday.' (C) sai vì đăng ký trên cổng thông tin nhân sự (HR portal)." }
+      ]
+    },
+    {
+      "part": 3, "audio": "audio/q38-40.mp3", "image": "images/q38-40.png", "intro": "conversation and schedule",
+      "graphic": { "type": "table", "title": "Evening Classes",
+        "head": ["Class", "Day", "Time"],
+        "rows": [["Yoga", "Monday", "6:30"], ["Spin Cycling", "Tuesday", "7:00"], ["Pilates", "Wednesday", "6:00"], ["Boxing", "Thursday", "7:30"]] },
+      "transcript": "M: Hi, I'm new here. I'd like to try one of your evening classes.\nW: Great. Do you have anything in mind?\nM: Something low-impact. I hurt my knee playing soccer last year, so I can't do anything with a lot of jumping.\nW: Then I'd suggest Pilates. It's gentle on the joints. Or yoga.\nM: I have a meeting every Monday evening, so I'll try Pilates.\nW: Good choice. You'll need to bring your own mat, or you can rent one here for two dollars.",
+      "questions": [
+        { "number": 38, "content": "Why does the man want a low-impact class?",
+          "options": { "A": "He is a beginner.", "B": "He injured his knee.", "C": "His doctor told him to rest.", "D": "He dislikes loud music." },
+          "answer": "B",
+          "explanation": "'I hurt my knee playing soccer last year.'" },
+        { "number": 39, "content": "Look at the graphic. On which day will the man take a class?",
+          "options": { "A": "Monday", "B": "Tuesday", "C": "Wednesday", "D": "Thursday" },
+          "answer": "C",
+          "explanation": "Anh chọn Pilates (tối thứ Hai bận họp nên không chọn Yoga) → theo lịch, Pilates vào thứ Tư (Wednesday)." },
+        { "number": 40, "content": "What does the woman say the man can do for two dollars?",
+          "options": { "A": "Use a locker", "B": "Buy a bottle of water", "C": "Take a towel", "D": "Rent a mat" },
+          "answer": "D",
+          "explanation": "'You can rent one (a mat) here for two dollars.'" }
+      ]
+    },
+    {
+      "part": 4, "audio": "audio/q71-73.mp3", "intro": "recorded message", "voice": "W",
+      "transcript": "You have reached Bayside Dental Care. Our office is currently closed. Our regular hours are Monday through Friday, eight a.m. to six p.m., and Saturday, nine a.m. to one p.m. Please note that starting next month, we will also be open on Wednesday evenings until eight p.m. If you are experiencing a dental emergency, please call Dr. Moreno's emergency line at five five five, zero one nine two. To schedule or change an appointment, you can also use our online booking system.",
+      "questions": [
+        { "number": 71, "content": "What kind of business recorded the message?",
+          "options": { "A": "A pharmacy", "B": "A dental clinic", "C": "A hospital", "D": "A fitness center" },
+          "answer": "B",
+          "explanation": "'You have reached Bayside Dental Care' → phòng khám nha khoa." },
+        { "number": 72, "content": "What change will happen next month?",
+          "options": { "A": "A new dentist will join the office.", "B": "The office will close on Saturdays.", "C": "The office will move to a new location.", "D": "Hours will be extended one evening a week." },
+          "answer": "D",
+          "explanation": "'Starting next month, we will also be open on Wednesday evenings until eight p.m.'" },
+        { "number": 73, "content": "How can listeners change an appointment?",
+          "options": { "A": "By using an online system", "B": "By calling the emergency line", "C": "By sending a text message", "D": "By speaking with Dr. Moreno" },
+          "answer": "A",
+          "explanation": "'To schedule or change an appointment, you can also use our online booking system.' Đường dây khẩn cấp chỉ dành cho ca cấp cứu." }
+      ]
+    },
+    {
+      "part": 4, "audio": "audio/q74-76.mp3", "intro": "radio broadcast", "voice": "M",
+      "transcript": "Welcome to Healthy Living. Today's topic is sleep. Doctors recommend that adults get seven to nine hours of sleep each night. But a recent survey found that forty percent of office workers sleep less than six hours. One simple tip: turn off your phone and computer at least an hour before bed. I know, I know. That's easier said than done. After the break, sleep specialist Dr. Amina Yusuf will join us to answer your questions. Call in now at five five five, seven seven two two.",
+      "questions": [
+        { "number": 74, "content": "What is the topic of the broadcast?",
+          "options": { "A": "Healthy eating", "B": "Exercise routines", "C": "Getting enough sleep", "D": "Managing stress" },
+          "answer": "C",
+          "explanation": "'Today's topic is sleep' – khuyến nghị ngủ 7–9 tiếng mỗi đêm." },
+        { "number": 75, "content": "Why does the speaker say, “That's easier said than done”?",
+          "options": { "A": "He recognizes that the advice may be hard to follow.", "B": "He disagrees with the survey results.", "C": "He wants listeners to call the station.", "D": "He is joking about a colleague." },
+          "answer": "A",
+          "explanation": "Câu hỏi hàm ý: 'nói thì dễ, làm mới khó' → anh thừa nhận lời khuyên tắt điện thoại trước khi ngủ khó thực hiện." },
+        { "number": 76, "content": "Who is Amina Yusuf?",
+          "options": { "A": "A radio host", "B": "A medical expert", "C": "A survey researcher", "D": "An office worker" },
+          "answer": "B",
+          "explanation": "'Sleep specialist Dr. Amina Yusuf' → chuyên gia y khoa về giấc ngủ." }
+      ]
+    },
+    {
+      "part": 4, "audio": "audio/q77-79.mp3", "image": "images/q77-79.png", "intro": "talk and chart", "voice": "W",
+      "graphic": { "type": "bars", "title": "Employees Vaccinated Last Week",
+        "data": [["Sales", 35], ["Marketing", 12], ["IT", 42], ["Finance", 28]] },
+      "transcript": "As part of our employee health initiative, we offered free flu shots last week. Overall, participation was good. However, one department had far fewer employees vaccinated than the others. That's probably because most of that team was at a trade show during the week the nurses were here. So the nurses will come back next Tuesday, just for that department. Also, remember that employees who get vaccinated will receive an extra vacation day this year.",
+      "questions": [
+        { "number": 77, "content": "What was offered to employees last week?",
+          "options": { "A": "Gym memberships", "B": "Nutrition classes", "C": "Eye exams", "D": "Free vaccinations" },
+          "answer": "D",
+          "explanation": "'We offered free flu shots last week' – flu shot = tiêm phòng cúm (vaccination)." },
+        { "number": 78, "content": "Look at the graphic. Which department will the nurses visit next Tuesday?",
+          "options": { "A": "Sales", "B": "Marketing", "C": "IT", "D": "Finance" },
+          "answer": "B",
+          "explanation": "Y tá quay lại cho bộ phận có ít người tiêm nhất – theo biểu đồ là Marketing (12)." },
+        { "number": 79, "content": "What will vaccinated employees receive?",
+          "options": { "A": "A cash bonus", "B": "A gift card", "C": "An additional vacation day", "D": "A certificate" },
+          "answer": "C",
+          "explanation": "'Employees who get vaccinated will receive an extra vacation day this year.'" }
+      ]
+    }
+  ]
+}

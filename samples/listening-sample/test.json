@@ -1,0 +1,155 @@
+{
+  "title": "Listening Mini Test 01 – Office & Services",
+  "description": "Đề rút gọn 12 câu bao phủ đủ 4 Part của phần Listening. Audio được tạo bằng giọng đọc máy để minh hoạ định dạng gói đề.",
+  "skill": "Listening",
+  "durationMinutes": 10,
+  "publish": true,
+  "groups": [
+    {
+      "part": 1,
+      "audio": "audio/q01.wav",
+      "image": "images/desk.png",
+      "transcript": "(A) A laptop has been placed on a desk.\n(B) A woman is typing on a keyboard.\n(C) Some plants are being watered.\n(D) The lamp is lying on the floor.",
+      "questions": [
+        {
+          "number": 1,
+          "options": {
+            "A": "A laptop has been placed on a desk.",
+            "B": "A woman is typing on a keyboard.",
+            "C": "Some plants are being watered.",
+            "D": "The lamp is lying on the floor."
+          },
+          "answer": "A",
+          "explanation": "Ảnh không có người nên loại (B) và (C) – 'are being watered' cần có người đang tưới. Đèn đứng trên bàn chứ không nằm dưới sàn nên loại (D). Cấu trúc bị động hoàn thành 'has been placed' mô tả trạng thái đồ vật → (A)."
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "audio": "audio/q02.wav",
+      "image": "images/bicycles.png",
+      "transcript": "(A) A man is riding a bicycle.\n(B) Some bicycles are parked in a row.\n(C) A fence is being painted.\n(D) The tires are being repaired.",
+      "questions": [
+        {
+          "number": 2,
+          "options": {
+            "A": "A man is riding a bicycle.",
+            "B": "Some bicycles are parked in a row.",
+            "C": "A fence is being painted.",
+            "D": "The tires are being repaired."
+          },
+          "answer": "B",
+          "explanation": "Các xe đạp được dựng thành một hàng dọc hàng rào. (A), (C), (D) đều cần có người thực hiện hành động nhưng ảnh không có người."
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "audio": "audio/q03.wav",
+      "transcript": "Where should I put these boxes?\n(A) Yes, I put them there.\n(B) In the storage room, please.\n(C) They're fifty dollars each.",
+      "questions": [
+        {
+          "number": 3,
+          "options": { "A": "Yes, I put them there.", "B": "In the storage room, please.", "C": "They're fifty dollars each." },
+          "answer": "B",
+          "explanation": "Câu hỏi Where → cần nơi chốn. (A) trả lời Yes/No và lặp từ 'put' – bẫy lặp từ; (C) nói về giá."
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "audio": "audio/q04.wav",
+      "transcript": "When does the training session start?\n(A) At the main office.\n(B) About two hours long.\n(C) Right after lunch.",
+      "questions": [
+        {
+          "number": 4,
+          "options": { "A": "At the main office.", "B": "About two hours long.", "C": "Right after lunch." },
+          "answer": "C",
+          "explanation": "When → thời điểm. (A) là nơi chốn (trả lời Where), (B) là khoảng thời gian (trả lời How long)."
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "audio": "audio/q05.wav",
+      "transcript": "Why don't we order some food for the meeting?\n(A) That's a great idea.\n(B) Because it was delayed.\n(C) The meeting room on the third floor.",
+      "questions": [
+        {
+          "number": 5,
+          "options": { "A": "That's a great idea.", "B": "Because it was delayed.", "C": "The meeting room on the third floor." },
+          "answer": "A",
+          "explanation": "'Why don't we…?' là lời gợi ý, không phải hỏi lý do → đáp lại bằng đồng ý/từ chối. (B) là bẫy vì bắt đầu bằng 'Because'."
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "audio": "audio/q06.wav",
+      "transcript": "Who's in charge of the new marketing campaign?\n(A) It was charged to my card.\n(B) Ms. Patel from the sales team.\n(C) A new campaign poster.",
+      "questions": [
+        {
+          "number": 6,
+          "options": { "A": "It was charged to my card.", "B": "Ms. Patel from the sales team.", "C": "A new campaign poster." },
+          "answer": "B",
+          "explanation": "Who → tên người/chức danh. (A) bẫy âm 'charge', (C) lặp từ 'campaign'."
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "audio": "audio/q07-09.wav",
+      "transcript": "W: Hi, this is Rachel from Brightway Office Supplies. I'm calling about the printer paper you ordered last week.\nM: Oh, hi Rachel. Is there a problem with the order?\nW: I'm afraid the brand you chose is out of stock until next month. We do have a similar paper from another manufacturer, and it's actually a bit cheaper.\nM: Well, we need it by Friday for a big client presentation, so the other brand should be fine. Could you send it by express delivery?\nW: Of course. I'll arrange that right away, and I'll email you the updated invoice this afternoon.",
+      "questions": [
+        {
+          "number": 7,
+          "content": "Why is the woman calling?",
+          "options": { "A": "To confirm a meeting time", "B": "To report a problem with an order", "C": "To advertise a new product", "D": "To request a payment" },
+          "answer": "B",
+          "explanation": "Người phụ nữ gọi về đơn giấy in đã đặt và cho biết mặt hàng hết hàng ('out of stock') → vấn đề với đơn hàng."
+        },
+        {
+          "number": 8,
+          "content": "Why does the man need the item by Friday?",
+          "options": { "A": "A new employee will start work.", "B": "The office will be closed.", "C": "He is preparing for a client presentation.", "D": "He is leaving for a business trip." },
+          "answer": "C",
+          "explanation": "'We need it by Friday for a big client presentation.'"
+        },
+        {
+          "number": 9,
+          "content": "What will the woman send this afternoon?",
+          "options": { "A": "A product catalog", "B": "A replacement printer", "C": "A revised invoice", "D": "A discount coupon" },
+          "answer": "C",
+          "explanation": "'I'll email you the updated invoice this afternoon.' – 'updated' được diễn đạt lại thành 'revised'."
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "audio": "audio/q10-12.wav",
+      "transcript": "Good morning, everyone, and welcome to the Riverside Public Library. Before we begin today's tour, I'd like to mention a few changes. Starting next Monday, the library will open one hour earlier, at eight a.m., so that students can study before classes. Also, the second-floor computer lab is currently closed for renovation, but you can use the laptops available at the front desk. Finally, please remember to pick up a map of the building on your way out. Now, let's start the tour in the children's section.",
+      "questions": [
+        {
+          "number": 10,
+          "content": "Where is the announcement being made?",
+          "options": { "A": "At a university", "B": "At a library", "C": "At a bookstore", "D": "At a computer store" },
+          "answer": "B",
+          "explanation": "'Welcome to the Riverside Public Library.'"
+        },
+        {
+          "number": 11,
+          "content": "What change will take place next Monday?",
+          "options": { "A": "The building will open earlier.", "B": "A new computer lab will open.", "C": "Membership fees will increase.", "D": "Tours will be canceled." },
+          "answer": "A",
+          "explanation": "'Starting next Monday, the library will open one hour earlier.'"
+        },
+        {
+          "number": 12,
+          "content": "What are the listeners asked to do?",
+          "options": { "A": "Register for a class", "B": "Return their laptops", "C": "Take a map", "D": "Visit the second floor" },
+          "answer": "C",
+          "explanation": "'Please remember to pick up a map of the building on your way out.'"
+        }
+      ]
+    }
+  ]
+}

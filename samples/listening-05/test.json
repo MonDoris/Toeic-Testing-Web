@@ -1,0 +1,217 @@
+{
+  "title": "Listening Practice Test 05 – Human Resources & Recruitment",
+  "description": "Đề luyện Listening theo cấu trúc đề thi TOEIC (IIG Việt Nam), rút gọn 26 câu: Part 1 (2) · Part 2 (6) · Part 3 (9, có câu hỏi hàm ý và biểu đồ) · Part 4 (9). Chủ đề: nhân sự, phỏng vấn, tuyển dụng, đào tạo nhân viên mới.",
+  "skill": "Listening",
+  "durationMinutes": 15,
+  "publish": true,
+  "groups": [
+    {
+      "part": 1, "audio": "audio/q01.mp3", "image": "images/q01.png",
+      "scene": { "bg": "office", "items": [
+        "#shadow 400 505 520",
+        "👩🏻‍💼 250 356 180", "🧑🏾‍💼 550 356 180 flip",
+        "#rect 150 350 500 24 #6d4c35 6", "#rect 170 374 18 130 #5a3e2b", "#rect 612 374 18 130 #5a3e2b",
+        "📄 330 354 46", "📋 400 354 46", "💻 480 354 56", "💼 700 505 80"
+      ] },
+      "transcript": "(A) A man is shaking hands with a woman.\n(B) Two people are facing each other across a table.\n(C) A woman is writing on a whiteboard.\n(D) Some chairs are being carried into a room.",
+      "questions": [
+        { "number": 1,
+          "options": { "A": "A man is shaking hands with a woman.", "B": "Two people are facing each other across a table.", "C": "A woman is writing on a whiteboard.", "D": "Some chairs are being carried into a room." },
+          "answer": "B",
+          "explanation": "Hai người ngồi đối diện nhau qua một chiếc bàn (giống buổi phỏng vấn) → (B). Không bắt tay (A), không có bảng trắng (C), không ai khiêng ghế (D)." }
+      ]
+    },
+    {
+      "part": 1, "audio": "audio/q02.mp3", "image": "images/q02.png",
+      "scene": { "bg": "lobby", "items": [
+        "#rect 180 60 440 270 #a47148 8", "#rect 192 72 416 246 #d9b38c 4",
+        "#rect 215 95 110 135 #ffffff 2", "#text 232 112 22 #1d4ed8 JOB", "#text 232 140 22 #1d4ed8 FAIR", "#text 232 176 14 #374151 May 12",
+        "#rect 345 110 120 95 #fef08a 2", "#text 358 125 20 #111827 Staff", "#text 358 152 20 #111827 Picnic",
+        "#rect 485 95 105 160 #ffffff 2", "#text 497 115 18 #b91c1c NOW", "#text 497 140 18 #b91c1c HIRING",
+        "📌 270 110 30", "📌 405 124 30", "📌 537 110 30",
+        "#shadow 400 470 330", "#rect 250 420 300 16 #8a5a3b 4", "#rect 270 436 14 36 #6f4630", "#rect 516 436 14 36 #6f4630",
+        "#shadow 690 472 120", "🪴 690 474 130"
+      ] },
+      "transcript": "(A) A worker is putting up a poster.\n(B) Some people are seated on a bench.\n(C) A plant is being watered.\n(D) Some notices have been posted on a board.",
+      "questions": [
+        { "number": 2,
+          "options": { "A": "A worker is putting up a poster.", "B": "Some people are seated on a bench.", "C": "A plant is being watered.", "D": "Some notices have been posted on a board." },
+          "answer": "D",
+          "explanation": "Các thông báo đã được ghim sẵn lên bảng → (D) 'have been posted'. Ảnh không có người nên (A), (B), (C) đều sai." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q07.mp3",
+      "transcript": "Who's interviewing the job applicants this afternoon?\n(A) Mr. Brooks and I are.\n(B) About ten applications.\n(C) In the afternoon paper.",
+      "questions": [
+        { "number": 7,
+          "options": { "A": "Mr. Brooks and I are.", "B": "About ten applications.", "C": "In the afternoon paper." },
+          "answer": "A",
+          "explanation": "Who → người: 'Mr. Brooks and I are (interviewing)'. (B) bẫy 'applicants' – 'applications'; (C) lặp 'afternoon'." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q08.mp3",
+      "transcript": "Has the new accountant started yet?\n(A) An account number.\n(B) At the start of the meeting.\n(C) Not until next Monday.",
+      "questions": [
+        { "number": 8,
+          "options": { "A": "An account number.", "B": "At the start of the meeting.", "C": "Not until next Monday." },
+          "answer": "C",
+          "explanation": "Hỏi kế toán mới đã bắt đầu làm chưa → 'Phải đến thứ Hai tới'. (A) bẫy 'accountant' – 'account'; (B) lặp 'start'." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q09.mp3",
+      "transcript": "Why don't you apply for the manager position?\n(A) Our manager's office.\n(B) I'm not sure I'm qualified.\n(C) I applied some sunscreen.",
+      "questions": [
+        { "number": 9,
+          "options": { "A": "Our manager's office.", "B": "I'm not sure I'm qualified.", "C": "I applied some sunscreen." },
+          "answer": "B",
+          "explanation": "'Why don't you…?' là lời khuyên/gợi ý → đáp lại bằng sự do dự 'Tôi không chắc mình đủ năng lực'. (A) lặp 'manager'; (C) 'apply' với nghĩa 'bôi, thoa'." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q10.mp3",
+      "transcript": "How many people will attend the orientation?\n(A) About fifteen new employees.\n(B) In the training room.\n(C) An orientation packet.",
+      "questions": [
+        { "number": 10,
+          "options": { "A": "About fifteen new employees.", "B": "In the training room.", "C": "An orientation packet." },
+          "answer": "A",
+          "explanation": "How many → số lượng. (B) trả lời Where; (C) lặp từ 'orientation'." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q11.mp3",
+      "transcript": "You've reviewed the résumés, haven't you?\n(A) The meeting resumed at three.\n(B) Not all of them yet.\n(C) It got a positive review.",
+      "questions": [
+        { "number": 11,
+          "options": { "A": "The meeting resumed at three.", "B": "Not all of them yet.", "C": "It got a positive review." },
+          "answer": "B",
+          "explanation": "Câu hỏi đuôi xác nhận đã xem hồ sơ chưa → 'Chưa xem hết'. (A) bẫy âm 'résumés' – 'resumed'; (C) lặp 'review'." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q12.mp3",
+      "transcript": "Would you rather work from home or at the office?\n(A) Yes, I would.\n(B) It's a nice home.\n(C) I'm more productive at the office.",
+      "questions": [
+        { "number": 12,
+          "options": { "A": "Yes, I would.", "B": "It's a nice home.", "C": "I'm more productive at the office." },
+          "answer": "C",
+          "explanation": "Câu hỏi lựa chọn → chọn làm ở văn phòng kèm lý do. (A) Yes/No không phù hợp; (B) lặp 'home'." }
+      ]
+    },
+    {
+      "part": 3, "audio": "audio/q32-34.mp3",
+      "transcript": "M: Hello, this is Jason Lee. I received an e-mail inviting me to interview for the graphic designer position.\nW: Yes, Mr. Lee. Thanks for calling back. We'd like to meet you on Thursday at ten a.m. Does that work for you?\nM: Thursday morning is fine. Should I bring anything with me?\nW: Yes, please bring a portfolio with at least five examples of your work. Also, the interview will include a short design test, so it'll take about two hours.\nM: Understood. And where exactly is your office?\nW: We're on the eighth floor of the Carlton Building. When you arrive, just check in with the security guard in the lobby.",
+      "questions": [
+        { "number": 32, "content": "What position has the man applied for?",
+          "options": { "A": "Security guard", "B": "Graphic designer", "C": "Office manager", "D": "Photographer" },
+          "answer": "B",
+          "explanation": "'…invite me to interview for the graphic designer position.' (A) là người anh cần gặp ở sảnh." },
+        { "number": 33, "content": "What is the man asked to bring?",
+          "options": { "A": "A reference letter", "B": "A photo ID", "C": "A résumé", "D": "Samples of his work" },
+          "answer": "D",
+          "explanation": "'Please bring a portfolio with at least five examples of your work' → mẫu tác phẩm (samples of his work)." },
+        { "number": 34, "content": "What does the woman say about the interview?",
+          "options": { "A": "It will include a test.", "B": "It will be held online.", "C": "It has been postponed.", "D": "It will be short." },
+          "answer": "A",
+          "explanation": "'The interview will include a short design test, so it'll take about two hours.' (D) sai vì mất khoảng hai tiếng." }
+      ]
+    },
+    {
+      "part": 3, "audio": "audio/q35-37.mp3",
+      "transcript": "W: Tom, I just saw the schedule for next month. Three people from our customer service team will be on vacation during the same week.\nM: That's the week we launch the new mobile app. We'll probably get a lot of calls.\nW: Exactly. Should we ask one of them to change their vacation dates?\nM: Well, they requested those days back in January.\nW: You're right. Then let's hire a couple of temporary workers. I'll contact the staffing agency today.\nM: Good idea. I can train them myself the week before.",
+      "questions": [
+        { "number": 35, "content": "What problem are the speakers discussing?",
+          "options": { "A": "A software error", "B": "A budget cut", "C": "A lack of staff during a busy week", "D": "A delayed product launch" },
+          "answer": "C",
+          "explanation": "Ba nhân viên nghỉ phép cùng tuần ra mắt ứng dụng – tuần sẽ có nhiều cuộc gọi → thiếu người vào tuần bận rộn." },
+        { "number": 36, "content": "What does the man imply when he says, “they requested those days back in January”?",
+          "options": { "A": "The schedule has an error.", "B": "It would be unfair to change the employees' plans.", "C": "He did not see the requests.", "D": "The vacation policy has changed." },
+          "answer": "B",
+          "explanation": "Câu hỏi hàm ý: nhân viên đã xin nghỉ từ tháng Một → không nên bắt họ đổi lịch. Người phụ nữ đồng ý 'You're right' và chọn thuê nhân viên tạm thời." },
+        { "number": 37, "content": "What will the woman do today?",
+          "options": { "A": "Train some employees", "B": "Revise a schedule", "C": "Post a job advertisement", "D": "Get in touch with a staffing agency" },
+          "answer": "D",
+          "explanation": "'I'll contact the staffing agency today.' (A) là việc người đàn ông sẽ làm vào tuần trước đó." }
+      ]
+    },
+    {
+      "part": 3, "audio": "audio/q38-40.mp3", "image": "images/q38-40.png", "intro": "conversation and schedule",
+      "graphic": { "type": "table", "title": "Interview Schedule – Friday",
+        "head": ["Time", "Candidate"],
+        "rows": [["9:00 A.M.", "Maria Gomez"], ["10:30 A.M.", "Peter Wu"], ["1:00 P.M.", "Aisha Khan"], ["2:30 P.M.", "David Novak"]] },
+      "transcript": "W: Mr. Carter, one of the candidates for the sales position just called. She has a doctor's appointment on Friday morning and asked if she could come in the afternoon instead.\nM: Which candidate is that?\nW: The one who's scheduled to come in first.\nM: I see. Well, David Novak told me he can't come on Friday at all, so just give her his time slot.\nW: OK. I'll call her back and update the schedule. Should I also let the rest of the interview panel know?\nM: Yes, please e-mail everyone the revised schedule.",
+      "questions": [
+        { "number": 38, "content": "What kind of position are the candidates applying for?",
+          "options": { "A": "Receptionist", "B": "Accountant", "C": "Sales", "D": "Nurse" },
+          "answer": "C",
+          "explanation": "'…one of the candidates for the sales position.'" },
+        { "number": 39, "content": "Look at the graphic. Who called the woman?",
+          "options": { "A": "Maria Gomez", "B": "Peter Wu", "C": "Aisha Khan", "D": "David Novak" },
+          "answer": "A",
+          "explanation": "Người gọi là ứng viên 'scheduled to come in first' – theo lịch, người phỏng vấn đầu tiên (9:00) là Maria Gomez." },
+        { "number": 40, "content": "What will the woman send to the interview panel?",
+          "options": { "A": "Candidate résumés", "B": "A revised schedule", "C": "Interview questions", "D": "A meeting agenda" },
+          "answer": "B",
+          "explanation": "'Please e-mail everyone the revised schedule.'" }
+      ]
+    },
+    {
+      "part": 4, "audio": "audio/q71-73.mp3", "intro": "talk", "voice": "W",
+      "transcript": "Good morning, and welcome to your first day at Norland Pharmaceuticals. I'm Grace Liu, the director of human resources. This morning you'll receive your employee ID badges and complete some paperwork. After lunch, which will be served in the cafeteria on the ground floor, your team leaders will take you on a tour of the laboratories. Before we begin, please make sure your mobile phones are turned off. Now, I'd like to show you a short video about the history of our company.",
+      "questions": [
+        { "number": 71, "content": "Who most likely are the listeners?",
+          "options": { "A": "New employees", "B": "Laboratory inspectors", "C": "Investors", "D": "Job applicants" },
+          "answer": "A",
+          "explanation": "'Welcome to your first day at Norland Pharmaceuticals', nhận thẻ nhân viên → nhân viên mới." },
+        { "number": 72, "content": "Where will lunch be served?",
+          "options": { "A": "In a conference room", "B": "In a laboratory", "C": "In a cafeteria", "D": "At a nearby restaurant" },
+          "answer": "C",
+          "explanation": "'After lunch, which will be served in the cafeteria on the ground floor…'" },
+        { "number": 73, "content": "What will the listeners most likely do next?",
+          "options": { "A": "Tour a laboratory", "B": "Watch a video", "C": "Eat lunch", "D": "Fill out some forms" },
+          "answer": "B",
+          "explanation": "Câu cuối: 'Now, I'd like to show you a short video about the history of our company.'" }
+      ]
+    },
+    {
+      "part": 4, "audio": "audio/q74-76.mp3", "intro": "telephone message", "voice": "M",
+      "transcript": "Hi, Ms. Alvarez. This is Robert Shaw from Elmwood Engineering. Thank you for coming in for your interview last week. I'm pleased to tell you that we'd like to offer you the position of project coordinator. I've attached the offer letter to an e-mail I sent you this morning. It includes the salary and benefits we discussed. Now, I know you mentioned you're considering another offer. We're flexible about the start date. Please let me know your decision by the end of next week.",
+      "questions": [
+        { "number": 74, "content": "Why is the speaker calling?",
+          "options": { "A": "To schedule an interview", "B": "To request a reference", "C": "To make a job offer", "D": "To reschedule a meeting" },
+          "answer": "C",
+          "explanation": "'We'd like to offer you the position of project coordinator.'" },
+        { "number": 75, "content": "What has the speaker sent by e-mail?",
+          "options": { "A": "A company brochure", "B": "A map of the office", "C": "A training schedule", "D": "A letter with salary information" },
+          "answer": "D",
+          "explanation": "Thư mời nhận việc được đính kèm e-mail, 'It includes the salary and benefits we discussed.'" },
+        { "number": 76, "content": "Why does the speaker say, “We're flexible about the start date”?",
+          "options": { "A": "To encourage the listener to accept the offer", "B": "To explain a delay in a project", "C": "To ask the listener to start immediately", "D": "To correct an earlier error" },
+          "answer": "A",
+          "explanation": "Câu hỏi hàm ý: biết ứng viên đang cân nhắc nơi khác, công ty sẵn sàng linh hoạt ngày bắt đầu → thuyết phục cô ấy nhận lời." }
+      ]
+    },
+    {
+      "part": 4, "audio": "audio/q77-79.mp3", "image": "images/q77-79.png", "intro": "excerpt from a meeting and chart", "voice": "W",
+      "graphic": { "type": "bars", "title": "Job Applications Received",
+        "data": [["January", 45], ["February", 62], ["March", 38], ["April", 80]] },
+      "transcript": "Let's look at the number of job applications we've received this year. As you can see, the number dropped sharply in one month. That was the month our online job portal was down for maintenance. The good news is that last month we received the most applications ever, thanks to our new social media advertising. Going forward, I'd like each department manager to write a short description of what it's like to work on their team. We'll post those descriptions on our careers page.",
+      "questions": [
+        { "number": 77, "content": "Look at the graphic. When was the job portal unavailable?",
+          "options": { "A": "In January", "B": "In February", "C": "In March", "D": "In April" },
+          "answer": "C",
+          "explanation": "Số hồ sơ giảm mạnh vào tháng cổng tuyển dụng bảo trì; biểu đồ cho thấy tháng thấp nhất là March (38)." },
+        { "number": 78, "content": "According to the speaker, what led to last month's increase?",
+          "options": { "A": "A job fair", "B": "Social media advertising", "C": "Higher salaries", "D": "A referral program" },
+          "answer": "B",
+          "explanation": "'…thanks to our new social media advertising.'" },
+        { "number": 79, "content": "What are department managers asked to do?",
+          "options": { "A": "Interview more candidates", "B": "Update a Web site", "C": "Attend a workshop", "D": "Describe their teams in writing" },
+          "answer": "D",
+          "explanation": "'I'd like each department manager to write a short description of what it's like to work on their team.' (B) là việc công ty sẽ làm sau đó." }
+      ]
+    }
+  ]
+}

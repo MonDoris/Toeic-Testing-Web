@@ -1,0 +1,212 @@
+{
+  "title": "Listening Practice Test 17 – Construction & Maintenance",
+  "description": "Đề luyện Listening theo cấu trúc đề thi TOEIC (IIG Việt Nam), rút gọn 26 câu: Part 1 (2) · Part 2 (6) · Part 3 (9, có hội thoại 3 người, câu hỏi hàm ý và biểu đồ) · Part 4 (9, có sơ đồ). Chủ đề: xây dựng, sửa chữa, bảo trì toà nhà.",
+  "skill": "Listening",
+  "durationMinutes": 15,
+  "publish": true,
+  "groups": [
+    {
+      "part": 1, "audio": "audio/q01.mp3", "image": "images/q01.png",
+      "scene": { "bg": "lobby", "items": [
+        "#rect 0 0 320 400 #bfdbfe",
+        "#rect 240 478 420 30 #e5e7eb 4",
+        "#shadow 440 505 200", "🪜 430 506 300 r14",
+        "#shadow 590 505 90", "🪣 590 506 84", "🖌️ 660 506 60"
+      ] },
+      "transcript": "(A) A ladder is leaning against a wall.\n(B) A man is climbing a ladder.\n(C) A wall is being painted.\n(D) Some paint cans are stacked on a shelf.",
+      "questions": [
+        { "number": 1,
+          "options": { "A": "A ladder is leaning against a wall.", "B": "A man is climbing a ladder.", "C": "A wall is being painted.", "D": "Some paint cans are stacked on a shelf." },
+          "answer": "A",
+          "explanation": "Chiếc thang dựa nghiêng vào tường → (A) 'lean against'. Không có người nên (B) và (C) 'is being painted' sai; xô sơn đặt dưới sàn, không có kệ (D)." }
+      ]
+    },
+    {
+      "part": 1, "audio": "audio/q02.mp3", "image": "images/q02.png",
+      "scene": { "bg": "street", "items": [
+        "🏗️ 640 300 230",
+        "#shadow 250 452 120", "🚧 250 454 110", "#shadow 400 452 120", "🚧 400 454 110", "#shadow 550 452 120", "🚧 550 454 110"
+      ] },
+      "transcript": "(A) Some workers are paving a road.\n(B) Some cars are parked along the street.\n(C) Barriers have been placed on a road.\n(D) A building is being torn down.",
+      "questions": [
+        { "number": 2,
+          "options": { "A": "Some workers are paving a road.", "B": "Some cars are parked along the street.", "C": "Barriers have been placed on a road.", "D": "A building is being torn down." },
+          "answer": "C",
+          "explanation": "Rào chắn công trình được đặt trên mặt đường → (C). Không có công nhân (A), không có xe (B); cần cẩu đang xây chứ không phá dỡ toà nhà (D)." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q07.mp3",
+      "transcript": "When will the repairs to the roof be finished?\n(A) The roof is very high.\n(B) Probably by the end of the week.\n(C) The roofer is Mr. Kent.",
+      "questions": [
+        { "number": 7,
+          "options": { "A": "The roof is very high.", "B": "Probably by the end of the week.", "C": "The roofer is Mr. Kent." },
+          "answer": "B",
+          "explanation": "When → 'có lẽ cuối tuần'. (A) lặp 'roof'; (C) trả lời Who." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q08.mp3",
+      "transcript": "Who should I call about the broken window?\n(A) The maintenance office, extension twenty.\n(B) It was broken yesterday.\n(C) Close the window, please.",
+      "questions": [
+        { "number": 8,
+          "options": { "A": "The maintenance office, extension twenty.", "B": "It was broken yesterday.", "C": "Close the window, please." },
+          "answer": "A",
+          "explanation": "Who → bộ phận bảo trì, số máy lẻ 20. (B) lặp 'broken', trả lời When; (C) lặp 'window'." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q09.mp3",
+      "transcript": "Is the elevator working again?\n(A) Yes, they fixed it this morning.\n(B) He's working late tonight.\n(C) To the fifth floor.",
+      "questions": [
+        { "number": 9,
+          "options": { "A": "Yes, they fixed it this morning.", "B": "He's working late tonight.", "C": "To the fifth floor." },
+          "answer": "A",
+          "explanation": "Câu hỏi Yes/No → 'Rồi, họ sửa sáng nay'. (B) lặp 'working'; (C) liên tưởng 'elevator' – 'floor'." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q10.mp3",
+      "transcript": "Why is the entrance blocked off?\n(A) Three blocks away.\n(B) At the main entrance.\n(C) They're repainting the doors.",
+      "questions": [
+        { "number": 10,
+          "options": { "A": "Three blocks away.", "B": "At the main entrance.", "C": "They're repainting the doors." },
+          "answer": "C",
+          "explanation": "Why → lý do: đang sơn lại cửa. (A) bẫy 'blocked' – 'blocks'; (B) lặp 'entrance', trả lời Where." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q11.mp3",
+      "transcript": "Should we hire a contractor or do the renovation ourselves?\n(A) Yes, we should.\n(B) A contractor would be faster.\n(C) The contract was signed.",
+      "questions": [
+        { "number": 11,
+          "options": { "A": "Yes, we should.", "B": "A contractor would be faster.", "C": "The contract was signed." },
+          "answer": "B",
+          "explanation": "Câu hỏi lựa chọn → chọn thuê nhà thầu vì nhanh hơn. (A) Yes không hợp; (C) bẫy 'contractor' – 'contract'." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q12.mp3",
+      "transcript": "The paint in the hallway is still wet.\n(A) It's been a wet summer.\n(B) It was painted by a famous artist.\n(C) Thanks, I'll be careful.",
+      "questions": [
+        { "number": 12,
+          "options": { "A": "It's been a wet summer.", "B": "It was painted by a famous artist.", "C": "Thanks, I'll be careful." },
+          "answer": "C",
+          "explanation": "Câu nhắc nhở sơn còn ướt → 'Cảm ơn, tôi sẽ cẩn thận'. (A) lặp 'wet' (ẩm ướt – thời tiết); (B) bẫy 'paint' – 'painted' (vẽ tranh)." }
+      ]
+    },
+    {
+      "part": 3, "audio": "audio/q32-34.mp3",
+      "transcript": "W: Hi, this is Karen Liu in apartment 4B. There's water leaking from the ceiling in my bathroom.\nM: I'm sorry to hear that. Is it a lot of water?\nW: Not too much, but it's been dripping since last night. I think it's coming from the apartment above me.\nM: I'll send our plumber, Carlos, over within the hour. Will you be home?\nW: I have to leave for work at nine. Can he let himself in?\nM: Yes, he can use the master key. I'll ask him to leave a note explaining what he fixed.",
+      "questions": [
+        { "number": 32, "content": "What problem is the woman reporting?",
+          "options": { "A": "A broken window", "B": "A leaking ceiling", "C": "A lost key", "D": "A noisy neighbor" },
+          "answer": "B",
+          "explanation": "'There's water leaking from the ceiling in my bathroom.'" },
+        { "number": 33, "content": "What does the woman say about the problem?",
+          "options": { "A": "It affects several apartments.", "B": "It began this morning.", "C": "It is getting worse.", "D": "It started the night before." },
+          "answer": "D",
+          "explanation": "'It's been dripping since last night.' (B) sai thời điểm." },
+        { "number": 34, "content": "What will the plumber do?",
+          "options": { "A": "Call the woman at work", "B": "Return tomorrow", "C": "Replace a key", "D": "Write a message about the repair" },
+          "answer": "D",
+          "explanation": "'I'll ask him to leave a note explaining what he fixed' → để lại lời nhắn về việc sửa chữa." }
+      ]
+    },
+    {
+      "part": 3, "audio": "audio/q35-37.mp3", "intro": "conversation with three speakers",
+      "transcript": "W: Mark, Jason, how's the construction of the new library going?\nM1: We're on schedule with the walls, but the windows we ordered won't arrive for another three weeks.\nM2: That could delay everything. We can't start the interior work until the windows are in.\nW: The city council expects the library to open in September.\nM1: I know. I've contacted another supplier who can deliver in one week, but they charge more.\nW: Let's go with them. I'll ask the council to approve the extra cost.",
+      "questions": [
+        { "number": 35, "content": "What is being built?",
+          "options": { "A": "A hospital", "B": "A school", "C": "A public library", "D": "A shopping center" },
+          "answer": "C",
+          "explanation": "'How's the construction of the new library going?'" },
+        { "number": 36, "content": "What does the woman imply when she says, “The city council expects the library to open in September”?",
+          "options": { "A": "The council has changed its plans.", "B": "The project must not fall behind.", "C": "The opening should be moved earlier.", "D": "She will attend the opening ceremony." },
+          "answer": "B",
+          "explanation": "Câu hỏi hàm ý: cửa sổ giao trễ có thể làm chậm tiến độ, trong khi hội đồng thành phố đã định khai trương tháng Chín → không được để dự án chậm." },
+        { "number": 37, "content": "What will the woman do?",
+          "options": { "A": "Seek approval for an expense", "B": "Contact a supplier", "C": "Order some windows", "D": "Visit the construction site" },
+          "answer": "A",
+          "explanation": "'I'll ask the council to approve the extra cost.'" }
+      ]
+    },
+    {
+      "part": 3, "audio": "audio/q38-40.mp3", "image": "images/q38-40.png", "intro": "conversation and schedule",
+      "graphic": { "type": "table", "title": "Building Maintenance – Next Week",
+        "head": ["Day", "Work", "Area"],
+        "rows": [["Monday", "Carpet cleaning", "2nd floor"], ["Tuesday", "Window washing", "All floors"], ["Wednesday", "Painting", "Lobby"], ["Thursday", "Inspection", "Elevator B"]] },
+      "transcript": "M: Hi, Rachel. I'm organizing a visit from some important clients next week, and I want to make sure the building looks good.\nW: When are they coming?\nM: On the day the lobby is being painted, unfortunately. That's not ideal.\nW: I see. The painters could do the work over the weekend instead. I'll talk to the building manager about it.\nM: That would be great. Also, will the clients be able to use the elevators?\nW: Only one of them will be out of service that week, so it shouldn't be a problem.",
+      "questions": [
+        { "number": 38, "content": "What is the man preparing for?",
+          "options": { "A": "An office move", "B": "A job interview", "C": "A retirement party", "D": "A visit from clients" },
+          "answer": "D",
+          "explanation": "'I'm organizing a visit from some important clients next week.'" },
+        { "number": 39, "content": "Look at the graphic. On which day will the clients visit?",
+          "options": { "A": "Monday", "B": "Tuesday", "C": "Wednesday", "D": "Thursday" },
+          "answer": "C",
+          "explanation": "Khách đến vào ngày sơn sảnh (lobby) – theo lịch là thứ Tư (Wednesday)." },
+        { "number": 40, "content": "What does the woman say she will do?",
+          "options": { "A": "Paint the lobby", "B": "Talk to a building manager", "C": "Reschedule a meeting", "D": "Inspect an elevator" },
+          "answer": "B",
+          "explanation": "'I'll talk to the building manager about it.'" }
+      ]
+    },
+    {
+      "part": 4, "audio": "audio/q71-73.mp3", "intro": "announcement", "voice": "M",
+      "transcript": "Attention, all tenants of the Parkview Office Building. As part of our building improvement project, the main entrance on Oak Street will be closed from Monday, April third, for about two weeks while we install new automatic doors. During this time, please use the side entrance on Pine Street. Also, the parking garage will be repaved on the weekend of April fifteenth. Tenants may park for free in the city lot across the street on those days.",
+      "questions": [
+        { "number": 71, "content": "Why will the main entrance be closed?",
+          "options": { "A": "The floor is being replaced.", "B": "A security check is taking place.", "C": "The walls are being painted.", "D": "New doors are being put in." },
+          "answer": "D",
+          "explanation": "'…while we install new automatic doors.'" },
+        { "number": 72, "content": "What are listeners asked to do?",
+          "options": { "A": "Use a different entrance", "B": "Park on Oak Street", "C": "Arrive earlier than usual", "D": "Take the stairs" },
+          "answer": "A",
+          "explanation": "'Please use the side entrance on Pine Street.'" },
+        { "number": 73, "content": "What will happen on the weekend of April fifteenth?",
+          "options": { "A": "The lobby will be cleaned.", "B": "The elevators will be inspected.", "C": "A parking area will be resurfaced.", "D": "Some doors will be installed." },
+          "answer": "C",
+          "explanation": "'The parking garage will be repaved' – repave = làm lại mặt đường (resurface)." }
+      ]
+    },
+    {
+      "part": 4, "audio": "audio/q74-76.mp3", "intro": "telephone message", "voice": "W",
+      "transcript": "Hi, Mr. Bennett. This is Tara from Solid Build Renovations. I've looked at your kitchen, and I've put together an estimate for the project. Replacing the cabinets and countertops will cost about twelve thousand dollars. You also asked about moving the sink to the window. That would require new plumbing. It would add about two thousand dollars and one more week of work. We could start as early as May first. Please call me back to let me know which option you'd prefer.",
+      "questions": [
+        { "number": 74, "content": "What project is the speaker discussing?",
+          "options": { "A": "A roof replacement", "B": "A kitchen remodel", "C": "A bathroom repair", "D": "A garden design" },
+          "answer": "B",
+          "explanation": "'I've looked at your kitchen… replacing the cabinets and countertops' → cải tạo nhà bếp." },
+        { "number": 75, "content": "Why does the speaker say, “That would require new plumbing”?",
+          "options": { "A": "To explain why a change would cost more", "B": "To recommend a plumber", "C": "To refuse a request", "D": "To correct an earlier estimate" },
+          "answer": "A",
+          "explanation": "Câu hỏi hàm ý: dời bồn rửa cần làm lại đường ống nước → tốn thêm $2,000 và một tuần thi công." },
+        { "number": 76, "content": "When could the work begin?",
+          "options": { "A": "April 1", "B": "April 15", "C": "May 1", "D": "May 15" },
+          "answer": "C",
+          "explanation": "'We could start as early as May first.'" }
+      ]
+    },
+    {
+      "part": 4, "audio": "audio/q77-79.mp3", "image": "images/q77-79.png", "intro": "talk and floor plan", "voice": "W",
+      "graphic": { "type": "map", "title": "Third Floor",
+        "cells": [["Room 301", "Room 302", "Room 303"], ["", "", ""], ["Stairs", "Room 304", "Restrooms"]] },
+      "transcript": "Good morning, everyone. As you know, the third floor is being renovated. On Monday, workers will start on the room between the stairs and the restrooms. The accounting team, who currently use that room, will work from the fifth-floor conference room for two weeks. The work will be noisy, so noise-canceling headphones are available at the front desk. Please be patient. The finished offices will have much better lighting and new furniture.",
+      "questions": [
+        { "number": 77, "content": "Look at the graphic. Which room will be renovated first?",
+          "options": { "A": "Room 301", "B": "Room 302", "C": "Room 303", "D": "Room 304" },
+          "answer": "D",
+          "explanation": "'The room between the stairs and the restrooms' – trên sơ đồ là Room 304." },
+        { "number": 78, "content": "Where will the accounting team work temporarily?",
+          "options": { "A": "From home", "B": "In a conference room", "C": "In the lobby", "D": "On the second floor" },
+          "answer": "B",
+          "explanation": "'…will work from the fifth-floor conference room for two weeks.'" },
+        { "number": 79, "content": "What is available at the front desk?",
+          "options": { "A": "Headphones", "B": "Office keys", "C": "Floor maps", "D": "Snacks" },
+          "answer": "A",
+          "explanation": "'Noise-canceling headphones are available at the front desk.'" }
+      ]
+    }
+  ]
+}

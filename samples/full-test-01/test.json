@@ -1,0 +1,3263 @@
+{
+  "title": "TOEIC Listening & Reading Full Test 01",
+  "description": "Đề thi đầy đủ theo cấu trúc đề TOEIC Listening & Reading của IIG Việt Nam: 200 câu, 120 phút. Listening – Part 1 đến Part 4 (câu 1–100), audio chạy liên tục khoảng 45 phút, mỗi đoạn chỉ nghe một lần. Reading – Part 5 đến Part 7 (câu 101–200), 75 phút. Có hội thoại 3 người, câu hỏi hàm ý, câu hỏi biểu đồ, chèn câu, đoạn kép và ba đoạn; mỗi câu đều có giải thích tiếng Việt.",
+  "skill": "ListeningReading",
+  "durationMinutes": 120,
+  "publish": true,
+  "groups": [
+    {
+      "part": 1,
+      "audio": "audio/q01.mp3",
+      "image": "images/q01.png",
+      "scene": {
+        "bg": "park",
+        "items": [
+          "#rect 0 392 800 78 #d8c9a3",
+          "#rect 0 392 800 6 #c7b68d",
+          "🌳 120 330 180",
+          "🌳 700 322 150",
+          "#rect 470 296 150 12 #8b5a2b 3",
+          "#rect 470 326 150 14 #8b5a2b 3",
+          "#rect 482 340 10 44 #5b3a1c",
+          "#rect 598 340 10 44 #5b3a1c",
+          "#shadow 370 462 210",
+          "🚴🏻‍♂️ 370 462 180 flip"
+        ]
+      },
+      "transcript": "(A) A man is repairing his bicycle.\n(B) A man is riding along a path.\n(C) Some trees are being planted.\n(D) A man is sitting on a bench.",
+      "questions": [
+        {
+          "number": 1,
+          "options": {
+            "A": "A man is repairing his bicycle.",
+            "B": "A man is riding along a path.",
+            "C": "Some trees are being planted.",
+            "D": "A man is sitting on a bench."
+          },
+          "answer": "B",
+          "explanation": "Người đàn ông đang đạp xe trên lối đi trong công viên → (B). (A) anh ta không sửa xe; (C) 'are being planted' cần có người đang trồng cây; (D) ghế băng đang trống – bẫy nhắc tới vật có trong ảnh nhưng sai hành động."
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "audio": "audio/q02.mp3",
+      "image": "images/q02.png",
+      "scene": {
+        "bg": "site",
+        "items": [
+          "🏗️ 630 312 230",
+          "🧱 170 420 62",
+          "🧱 228 420 62",
+          "🧱 199 372 62",
+          "#shadow 400 474 190",
+          "👷🏽‍♂️ 400 474 210",
+          "#shadow 715 482 100",
+          "🚧 715 482 96"
+        ]
+      },
+      "transcript": "(A) A worker is climbing a ladder.\n(B) Some bricks are being loaded onto a truck.\n(C) A crane is being taken apart.\n(D) A man has a safety helmet on.",
+      "questions": [
+        {
+          "number": 2,
+          "options": {
+            "A": "A worker is climbing a ladder.",
+            "B": "Some bricks are being loaded onto a truck.",
+            "C": "A crane is being taken apart.",
+            "D": "A man has a safety helmet on."
+          },
+          "answer": "D",
+          "explanation": "Người công nhân đang đội mũ bảo hộ → 'has a safety helmet on' (D). Ảnh không có thang (A), không có xe tải (B); cần cẩu đứng yên, không ai đang tháo dỡ (C – 'take apart' = tháo rời)."
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "audio": "audio/q03.mp3",
+      "image": "images/q03.png",
+      "scene": {
+        "bg": "station",
+        "items": [
+          "#rect 290 84 220 44 #1f2937 4",
+          "#text 312 92 26 #ffffff Platform 2",
+          "🕒 400 250 64",
+          "🚃 130 478 200",
+          "🚃 330 478 200",
+          "🚃 530 478 200",
+          "#shadow 700 420 90",
+          "🧍🏻‍♀️ 700 420 140",
+          "🧳 758 420 58"
+        ]
+      },
+      "transcript": "(A) A train is stopped at a platform.\n(B) Some passengers are boarding a bus.\n(C) A woman is carrying a suitcase up some stairs.\n(D) A clock is being repaired.",
+      "questions": [
+        {
+          "number": 3,
+          "options": {
+            "A": "A train is stopped at a platform.",
+            "B": "Some passengers are boarding a bus.",
+            "C": "A woman is carrying a suitcase up some stairs.",
+            "D": "A clock is being repaired."
+          },
+          "answer": "A",
+          "explanation": "Đoàn tàu đang dừng cạnh sân ga số 2 → (A). (B) là xe buýt, không phải tàu; (C) chiếc vali đặt trên sân ga, không có cầu thang; (D) đồng hồ treo tường không có ai đang sửa."
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "audio": "audio/q04.mp3",
+      "image": "images/q04.png",
+      "scene": {
+        "bg": "lobby",
+        "items": [
+          "#rect 560 86 160 118 #a47148 6",
+          "#rect 570 96 140 98 #d9b38c 4",
+          "🔑 605 146 34",
+          "🔑 655 146 34",
+          "🔑 605 190 34",
+          "🔑 655 190 34",
+          "💁🏻‍♀️ 390 312 160",
+          "#rect 190 300 420 20 #6d4c35 4",
+          "#rect 200 320 400 104 #8a5a3b 4",
+          "🛎️ 280 302 42",
+          "📒 470 302 40",
+          "#shadow 690 474 120",
+          "🧳 690 474 96",
+          "#shadow 100 474 120",
+          "🪴 100 476 130"
+        ]
+      },
+      "transcript": "(A) A woman is unpacking a suitcase.\n(B) Some keys are being handed to a guest.\n(C) A suitcase has been placed next to a counter.\n(D) A plant is being watered.",
+      "questions": [
+        {
+          "number": 4,
+          "options": {
+            "A": "A woman is unpacking a suitcase.",
+            "B": "Some keys are being handed to a guest.",
+            "C": "A suitcase has been placed next to a counter.",
+            "D": "A plant is being watered."
+          },
+          "answer": "C",
+          "explanation": "Chiếc vali đã được đặt cạnh quầy lễ tân – 'has been placed' mô tả trạng thái → (C). (A) cô lễ tân không mở vali; (B) chìa khoá vẫn treo trên bảng, không có khách nhận; (D) không ai đang tưới cây."
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "audio": "audio/q05.mp3",
+      "image": "images/q05.png",
+      "scene": {
+        "bg": "dock",
+        "items": [
+          "⛵ 170 352 160",
+          "🚤 440 382 130",
+          "⛵ 660 360 140 flip",
+          "#rect 60 420 10 40 #5b3a1c",
+          "#rect 300 420 10 40 #5b3a1c",
+          "#rect 540 420 10 40 #5b3a1c",
+          "#rect 50 404 30 18 #6b7280 4"
+        ]
+      },
+      "transcript": "(A) A boat is being lifted out of the water.\n(B) Some people are swimming near a pier.\n(C) Some fishermen are repairing their nets.\n(D) Some boats are floating on the water.",
+      "questions": [
+        {
+          "number": 5,
+          "options": {
+            "A": "A boat is being lifted out of the water.",
+            "B": "Some people are swimming near a pier.",
+            "C": "Some fishermen are repairing their nets.",
+            "D": "Some boats are floating on the water."
+          },
+          "answer": "D",
+          "explanation": "Ảnh không có người; vài chiếc thuyền đang nổi trên mặt nước gần cầu tàu → (D). (A) 'is being lifted' cần có hành động nâng thuyền; (B), (C) nhắc tới người không có trong ảnh."
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "audio": "audio/q06.mp3",
+      "image": "images/q06.png",
+      "scene": {
+        "bg": "street",
+        "items": [
+          "#rect 140 332 520 6 #6b7280 3",
+          "#rect 150 338 6 34 #6b7280",
+          "#rect 644 338 6 34 #6b7280",
+          "🚲 200 374 112",
+          "🚲 300 374 112",
+          "🚲 400 374 112",
+          "🚲 500 374 112",
+          "🚲 600 374 112",
+          "#shadow 735 334 110",
+          "🌳 735 336 124",
+          "#shadow 560 504 170",
+          "🚕 560 506 140"
+        ]
+      },
+      "transcript": "(A) Some bicycles have been parked in a row.\n(B) A cyclist is locking a bike to a rack.\n(C) A road is being repaved.\n(D) Some cars are waiting at a traffic light.",
+      "questions": [
+        {
+          "number": 6,
+          "options": {
+            "A": "Some bicycles have been parked in a row.",
+            "B": "A cyclist is locking a bike to a rack.",
+            "C": "A road is being repaved.",
+            "D": "Some cars are waiting at a traffic light."
+          },
+          "answer": "A",
+          "explanation": "Năm chiếc xe đạp đã được dựng thành một hàng trên vỉa hè → (A) (bị động hoàn thành mô tả trạng thái). (B) không có người; (C) không ai đang trải nhựa đường; (D) chỉ có một chiếc taxi và không có đèn giao thông."
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "audio": "audio/q07.mp3",
+      "voices": "W,M",
+      "transcript": "Where's the closest post office?\n(A) By express delivery.\n(B) About twelve dollars.\n(C) It's two blocks down, on Elm Street.",
+      "questions": [
+        {
+          "number": 7,
+          "options": {
+            "A": "By express delivery.",
+            "B": "About twelve dollars.",
+            "C": "It's two blocks down, on Elm Street."
+          },
+          "answer": "C",
+          "explanation": "Where → hỏi địa điểm: 'cách đây hai dãy nhà, trên phố Elm' (C). (A) trả lời How (gửi bằng cách nào), (B) trả lời How much – đều liên tưởng tới bưu điện nhưng sai dạng câu hỏi."
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "audio": "audio/q08.mp3",
+      "voices": "M,W",
+      "transcript": "When does the new cafeteria open?\n(A) Next Monday, I think.\n(B) It's on the ground floor.\n(C) A wide variety of salads.",
+      "questions": [
+        {
+          "number": 8,
+          "options": {
+            "A": "Next Monday, I think.",
+            "B": "It's on the ground floor.",
+            "C": "A wide variety of salads."
+          },
+          "answer": "A",
+          "explanation": "When → thời điểm: 'thứ Hai tới' (A). (B) trả lời Where; (C) nói về món ăn – liên tưởng tới 'cafeteria'."
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "audio": "audio/q09.mp3",
+      "voices": "W,M2",
+      "transcript": "Who's in charge of the product launch?\n(A) At the convention center.\n(B) Ms. Tanaka from Marketing.\n(C) It was launched last spring.",
+      "questions": [
+        {
+          "number": 9,
+          "options": {
+            "A": "At the convention center.",
+            "B": "Ms. Tanaka from Marketing.",
+            "C": "It was launched last spring."
+          },
+          "answer": "B",
+          "explanation": "Who's in charge → người phụ trách: 'Cô Tanaka bên Marketing' (B). (A) trả lời Where; (C) lặp từ 'launch' và sai thì (sự kiện chưa diễn ra)."
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "audio": "audio/q10.mp3",
+      "voices": "M,W",
+      "transcript": "Why is the parking garage closed today?\n(A) The lines are being repainted.\n(B) Close to the main entrance.\n(C) I parked on the second level.",
+      "questions": [
+        {
+          "number": 10,
+          "options": {
+            "A": "The lines are being repainted.",
+            "B": "Close to the main entrance.",
+            "C": "I parked on the second level."
+          },
+          "answer": "A",
+          "explanation": "Why → lý do: bãi xe đóng cửa vì 'đang sơn lại vạch kẻ' (A). (B) bẫy đồng âm 'closed – close'; (C) lặp từ 'park' nhưng không nêu lý do."
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "audio": "audio/q11.mp3",
+      "voices": "W,M",
+      "transcript": "How often do you back up your computer files?\n(A) At the back of the room.\n(B) Every Friday afternoon.\n(C) Yes, I made a copy.",
+      "questions": [
+        {
+          "number": 11,
+          "options": {
+            "A": "At the back of the room.",
+            "B": "Every Friday afternoon.",
+            "C": "Yes, I made a copy."
+          },
+          "answer": "B",
+          "explanation": "How often → tần suất: 'chiều thứ Sáu hằng tuần' (B). (A) bẫy lặp từ 'back'; (C) câu hỏi Wh- không trả lời bằng Yes/No."
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "audio": "audio/q12.mp3",
+      "voices": "M2,W",
+      "transcript": "Would you like to join us for lunch at the new Thai place?\n(A) He joined the company in May.\n(B) The menu is on the table.\n(C) Sure, what time are you leaving?",
+      "questions": [
+        {
+          "number": 12,
+          "options": {
+            "A": "He joined the company in May.",
+            "B": "The menu is on the table.",
+            "C": "Sure, what time are you leaving?"
+          },
+          "answer": "C",
+          "explanation": "Lời mời 'Would you like to…?' → nhận lời và hỏi thêm giờ đi (C). (A) lặp 'join' và sai chủ ngữ 'He'; (B) liên tưởng 'lunch – menu'."
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "audio": "audio/q13.mp3",
+      "voices": "W,M",
+      "transcript": "Should I print the agenda, or just e-mail it to everyone?\n(A) E-mail is fine.\n(B) Yes, I've already read it.\n(C) At the next staff meeting.",
+      "questions": [
+        {
+          "number": 13,
+          "options": {
+            "A": "E-mail is fine.",
+            "B": "Yes, I've already read it.",
+            "C": "At the next staff meeting."
+          },
+          "answer": "A",
+          "explanation": "Câu hỏi lựa chọn (A or B) → chọn một phương án: 'gửi e-mail là được' (A). Câu hỏi lựa chọn thường không trả lời bằng Yes (B); (C) trả lời When."
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "audio": "audio/q14.mp3",
+      "voices": "M,W",
+      "transcript": "Isn't Mr. Kim supposed to be here by now?\n(A) Here's the guest list.\n(B) I suppose it's a bit warmer.\n(C) His flight was delayed an hour.",
+      "questions": [
+        {
+          "number": 14,
+          "options": {
+            "A": "Here's the guest list.",
+            "B": "I suppose it's a bit warmer.",
+            "C": "His flight was delayed an hour."
+          },
+          "answer": "C",
+          "explanation": "Câu hỏi phủ định thắc mắc sao ông Kim chưa tới → giải thích gián tiếp: 'chuyến bay của ông ấy bị trễ một tiếng' (C). (A) lặp âm 'here'; (B) lặp âm 'suppose'."
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "audio": "audio/q15.mp3",
+      "voices": "W,M",
+      "transcript": "The quarterly report still needs a few charts.\n(A) Four times a year.\n(B) I'll add them this afternoon.\n(C) Yes, it was reported last quarter.",
+      "questions": [
+        {
+          "number": 15,
+          "options": {
+            "A": "Four times a year.",
+            "B": "I'll add them this afternoon.",
+            "C": "Yes, it was reported last quarter."
+          },
+          "answer": "B",
+          "explanation": "Câu trần thuật nêu việc còn thiếu (vài biểu đồ) → đáp lại bằng hành động: 'chiều nay tôi sẽ thêm vào' (B). (A) liên tưởng 'quarterly' = hằng quý; (C) lặp 'report', 'quarter'."
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "audio": "audio/q16.mp3",
+      "voices": "M,W2",
+      "transcript": "What time does the safety workshop start?\n(A) In the main training hall.\n(B) It's been postponed until next week.\n(C) A workshop on fire prevention.",
+      "questions": [
+        {
+          "number": 16,
+          "options": {
+            "A": "In the main training hall.",
+            "B": "It's been postponed until next week.",
+            "C": "A workshop on fire prevention."
+          },
+          "answer": "B",
+          "explanation": "Hỏi giờ bắt đầu → câu trả lời gián tiếp: buổi hội thảo 'đã bị hoãn sang tuần sau' (B) – dạng đáp án rất hay gặp. (A) trả lời Where; (C) lặp 'workshop'."
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "audio": "audio/q17.mp3",
+      "voices": "W,M",
+      "transcript": "Which moving company did you end up hiring?\n(A) We haven't made a decision yet.\n(B) I'm moving next month.\n(C) Around five hundred dollars.",
+      "questions": [
+        {
+          "number": 17,
+          "options": {
+            "A": "We haven't made a decision yet.",
+            "B": "I'm moving next month.",
+            "C": "Around five hundred dollars."
+          },
+          "answer": "A",
+          "explanation": "Which company → 'chúng tôi vẫn chưa quyết định' (A) – kiểu trả lời 'chưa biết/chưa quyết' luôn đúng với mọi câu hỏi Wh-. (B) lặp 'moving'; (C) trả lời How much."
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "audio": "audio/q18.mp3",
+      "voices": "M,W",
+      "transcript": "How did the client presentation go?\n(A) By taxi, I think.\n(B) Next Thursday at ten.\n(C) Better than we expected.",
+      "questions": [
+        {
+          "number": 18,
+          "options": {
+            "A": "By taxi, I think.",
+            "B": "Next Thursday at ten.",
+            "C": "Better than we expected."
+          },
+          "answer": "C",
+          "explanation": "'How did … go?' hỏi kết quả/diễn biến → 'tốt hơn chúng tôi mong đợi' (C). (A) hiểu nhầm 'go' là đi lại bằng phương tiện; (B) trả lời When."
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "audio": "audio/q19.mp3",
+      "voices": "W,M2",
+      "transcript": "You've used this design software before, haven't you?\n(A) A software engineer.\n(B) Only for a couple of weeks.\n(C) It's working again now.",
+      "questions": [
+        {
+          "number": 19,
+          "options": {
+            "A": "A software engineer.",
+            "B": "Only for a couple of weeks.",
+            "C": "It's working again now."
+          },
+          "answer": "B",
+          "explanation": "Câu hỏi đuôi xác nhận đã từng dùng phần mềm → 'chỉ vài tuần thôi' (ngầm hiểu: có, nhưng ít) (B). (A) lặp 'software'; (C) liên tưởng tới phần mềm bị lỗi."
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "audio": "audio/q20.mp3",
+      "voices": "M,W",
+      "transcript": "Could you help me carry these boxes to the storage room?\n(A) Sure, just give me a minute.\n(B) The movie starts at eight.\n(C) They're larger boxes.",
+      "questions": [
+        {
+          "number": 20,
+          "options": {
+            "A": "Sure, just give me a minute.",
+            "B": "The movie starts at eight.",
+            "C": "They're larger boxes."
+          },
+          "answer": "A",
+          "explanation": "Lời nhờ vả 'Could you help me…?' → đồng ý: 'Được, đợi tôi một phút' (A). (B) bẫy âm gần 'move – movie'; (C) lặp 'boxes'."
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "audio": "audio/q21.mp3",
+      "voices": "W,M",
+      "transcript": "Why don't we hold the training session online this year?\n(A) Because the trainer was ill.\n(B) It's on the second floor.\n(C) That would definitely save on travel costs.",
+      "questions": [
+        {
+          "number": 21,
+          "options": {
+            "A": "Because the trainer was ill.",
+            "B": "It's on the second floor.",
+            "C": "That would definitely save on travel costs."
+          },
+          "answer": "C",
+          "explanation": "'Why don't we…?' là lời ĐỀ NGHỊ, không hỏi lý do → đáp lại bằng đồng tình: 'như vậy chắc chắn tiết kiệm chi phí đi lại' (C). (A) bẫy 'Why – Because'; (B) trả lời Where."
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "audio": "audio/q22.mp3",
+      "voices": "M,W",
+      "transcript": "Where can I find the updated price list?\n(A) The prices went up in March.\n(B) It's been posted on the company intranet.\n(C) Yes, I found it very useful.",
+      "questions": [
+        {
+          "number": 22,
+          "options": {
+            "A": "The prices went up in March.",
+            "B": "It's been posted on the company intranet.",
+            "C": "Yes, I found it very useful."
+          },
+          "answer": "B",
+          "explanation": "Where → 'đã được đăng trên mạng nội bộ công ty' (B). (A) lặp 'price'; (C) lặp 'find – found' và dùng Yes cho câu hỏi Wh-."
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "audio": "audio/q23.mp3",
+      "voices": "W2,M",
+      "transcript": "Has the maintenance team fixed the air conditioner yet?\n(A) A technician is working on it right now.\n(B) The air is very dry today.\n(C) It's a fixed monthly rate.",
+      "questions": [
+        {
+          "number": 23,
+          "options": {
+            "A": "A technician is working on it right now.",
+            "B": "The air is very dry today.",
+            "C": "It's a fixed monthly rate."
+          },
+          "answer": "A",
+          "explanation": "Hỏi đã sửa xong chưa → 'kỹ thuật viên đang sửa ngay bây giờ' (= chưa xong) (A). (B) lặp 'air'; (C) lặp 'fixed' với nghĩa khác (cố định)."
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "audio": "audio/q24.mp3",
+      "voices": "M,W",
+      "transcript": "When will the new interns start?\n(A) At the reception desk.\n(B) Yes, they already did.\n(C) Not until the beginning of July.",
+      "questions": [
+        {
+          "number": 24,
+          "options": {
+            "A": "At the reception desk.",
+            "B": "Yes, they already did.",
+            "C": "Not until the beginning of July."
+          },
+          "answer": "C",
+          "explanation": "When → 'phải đến đầu tháng Bảy' (C). (A) trả lời Where; (B) dùng Yes cho câu hỏi Wh- và sai thì."
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "audio": "audio/q25.mp3",
+      "voices": "W,M",
+      "transcript": "Do you want a window seat or an aisle seat?\n(A) Please have a seat.\n(B) Whichever is available.\n(C) The windows were cleaned yesterday.",
+      "questions": [
+        {
+          "number": 25,
+          "options": {
+            "A": "Please have a seat.",
+            "B": "Whichever is available.",
+            "C": "The windows were cleaned yesterday."
+          },
+          "answer": "B",
+          "explanation": "Câu hỏi lựa chọn → 'chỗ nào còn trống cũng được' (B) – cách trả lời không chọn cụ thể nhưng vẫn phù hợp. (A) lặp 'seat'; (C) lặp 'window'."
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "audio": "audio/q26.mp3",
+      "voices": "M2,W",
+      "transcript": "I can't find my security badge anywhere.\n(A) Someone turned one in at the front desk.\n(B) Security has been improved.\n(C) The badges are printed in blue.",
+      "questions": [
+        {
+          "number": 26,
+          "options": {
+            "A": "Someone turned one in at the front desk.",
+            "B": "Security has been improved.",
+            "C": "The badges are printed in blue."
+          },
+          "answer": "A",
+          "explanation": "Than phiền không tìm thấy thẻ an ninh → gợi ý hữu ích: 'có người đã nộp một chiếc ở quầy lễ tân' (A). (B) lặp 'security'; (C) lặp 'badge'. 'turn in' = nộp lại."
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "audio": "audio/q27.mp3",
+      "voices": "W,M",
+      "transcript": "Who approved the budget for the Madrid project?\n(A) Not until next quarter.\n(B) About twenty thousand euros.\n(C) The finance director signed off on it.",
+      "questions": [
+        {
+          "number": 27,
+          "options": {
+            "A": "Not until next quarter.",
+            "B": "About twenty thousand euros.",
+            "C": "The finance director signed off on it."
+          },
+          "answer": "C",
+          "explanation": "Who approved → 'giám đốc tài chính đã ký duyệt' (C); 'sign off on' = phê duyệt. (A) trả lời When; (B) trả lời How much – liên tưởng 'budget'."
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "audio": "audio/q28.mp3",
+      "voices": "M,W",
+      "transcript": "Let's review the survey results before the meeting.\n(A) The review was very positive.\n(B) Good idea. How about at two o'clock?\n(C) About three hundred customers.",
+      "questions": [
+        {
+          "number": 28,
+          "options": {
+            "A": "The review was very positive.",
+            "B": "Good idea. How about at two o'clock?",
+            "C": "About three hundred customers."
+          },
+          "answer": "B",
+          "explanation": "'Let's…' là lời đề nghị → đồng ý và đề xuất thời gian (B). (A) lặp 'review' với nghĩa 'bài nhận xét'; (C) liên tưởng 'survey' (số người khảo sát)."
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "audio": "audio/q29.mp3",
+      "voices": "W,M2",
+      "transcript": "Aren't the new brochures supposed to arrive today?\n(A) The printer called to say they'll be late.\n(B) Yes, I arrived this morning.\n(C) They're very colorful.",
+      "questions": [
+        {
+          "number": 29,
+          "options": {
+            "A": "The printer called to say they'll be late.",
+            "B": "Yes, I arrived this morning.",
+            "C": "They're very colorful."
+          },
+          "answer": "A",
+          "explanation": "Hỏi tờ rơi có đến hôm nay không → 'bên in đã gọi báo sẽ giao trễ' (A). (B) lặp 'arrive' sai chủ ngữ; (C) nói về tờ rơi nhưng không trả lời câu hỏi."
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "audio": "audio/q30.mp3",
+      "voices": "M,W",
+      "transcript": "How much will it cost to repair the copier?\n(A) Two copies, please.\n(B) It's next to the window.\n(C) The technician will send us an estimate.",
+      "questions": [
+        {
+          "number": 30,
+          "options": {
+            "A": "Two copies, please.",
+            "B": "It's next to the window.",
+            "C": "The technician will send us an estimate."
+          },
+          "answer": "C",
+          "explanation": "How much → trả lời gián tiếp: 'kỹ thuật viên sẽ gửi báo giá' (chưa biết chính xác) (C). (A) bẫy âm 'copier – copies'; (B) trả lời Where."
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "audio": "audio/q31.mp3",
+      "voices": "W,M",
+      "transcript": "Would you mind closing the door on your way out?\n(A) It closes at nine.\n(B) Not at all.\n(C) On the way to the airport.",
+      "questions": [
+        {
+          "number": 31,
+          "options": {
+            "A": "It closes at nine.",
+            "B": "Not at all.",
+            "C": "On the way to the airport."
+          },
+          "answer": "B",
+          "explanation": "'Would you mind + V-ing?' → đồng ý giúp thì trả lời 'Not at all' (= không phiền gì) (B). (A) lặp 'close'; (C) lặp 'way'."
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "audio": "audio/q32-34.mp3",
+      "transcript": "W: Hello, I'm calling from Brightway Consulting. I'd like to reserve your private dining room for a team dinner on Friday the twentieth. There'll be about eighteen of us.\nM: Let me check. I'm sorry, the private room is already booked that evening. But we could set up a long table on our rooftop terrace. It seats up to twenty people.\nW: The terrace sounds nice, but what if it rains?\nM: Don't worry. The terrace has a retractable roof, so we can cover it if the weather changes.\nW: Perfect. Could you also e-mail me your group menu? I'd like to share it with my colleagues so they can choose their meals in advance.\nM: Of course. What's your e-mail address?",
+      "questions": [
+        {
+          "number": 32,
+          "content": "What is the purpose of the woman's call?",
+          "options": {
+            "A": "To complain about a meal",
+            "B": "To book a space for an event",
+            "C": "To apply for a job",
+            "D": "To change a delivery address"
+          },
+          "answer": "B",
+          "explanation": "'I'd like to reserve your private dining room for a team dinner' → đặt chỗ cho một buổi tiệc của nhóm. 'reserve' được diễn đạt lại thành 'book a space'."
+        },
+        {
+          "number": 33,
+          "content": "Why does the man suggest the rooftop terrace?",
+          "options": {
+            "A": "It has a better view.",
+            "B": "It is less expensive.",
+            "C": "It is quieter.",
+            "D": "Another room is unavailable."
+          },
+          "answer": "D",
+          "explanation": "'The private room is already booked that evening. But we could set up… on our rooftop terrace' → gợi ý sân thượng vì phòng riêng đã có người đặt."
+        },
+        {
+          "number": 34,
+          "content": "What does the woman ask the man to send her?",
+          "options": {
+            "A": "A menu",
+            "B": "A bill",
+            "C": "A map",
+            "D": "A contract"
+          },
+          "answer": "A",
+          "explanation": "'Could you also e-mail me your group menu?' → gửi thực đơn cho nhóm."
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "audio": "audio/q35-37.mp3",
+      "transcript": "M: Hi, I have a reservation under the name Victor Ramos. It's for a compact car for three days.\nW: Yes, Mr. Ramos, I see it here. Actually, we ran out of compact cars this morning because several flights arrived early. But I can give you a mid-size sedan at no extra cost.\nM: That's great, thanks. Is there a charge if I return it at your downtown branch instead of here at the airport?\nW: There's a twenty-five dollar drop-off fee for that. If you'd like, I can also add a GPS navigation unit for five dollars a day.\nM: No, thanks. I'll just use my phone. Where do I pick up the car?\nW: Take the shuttle bus right outside those doors to parking lot C.",
+      "questions": [
+        {
+          "number": 35,
+          "content": "Where does the conversation most likely take place?",
+          "options": {
+            "A": "At a hotel lobby",
+            "B": "At a car repair shop",
+            "C": "At an airport rental counter",
+            "D": "At a train station"
+          },
+          "answer": "C",
+          "explanation": "Khách có đặt trước xe 'compact car', nhân viên nhắc 'here at the airport' → quầy cho thuê xe ở sân bay."
+        },
+        {
+          "number": 36,
+          "content": "What problem does the woman mention?",
+          "options": {
+            "A": "A reservation cannot be found.",
+            "B": "A payment was declined.",
+            "C": "A shuttle bus is delayed.",
+            "D": "A type of vehicle is not available."
+          },
+          "answer": "D",
+          "explanation": "'We ran out of compact cars this morning' → loại xe khách đặt đã hết. (A) sai vì nhân viên đã tìm thấy đặt chỗ ('I see it here')."
+        },
+        {
+          "number": 37,
+          "content": "What will the man most likely do next?",
+          "options": {
+            "A": "Pay a drop-off fee",
+            "B": "Take a shuttle bus",
+            "C": "Rent a GPS unit",
+            "D": "Call a downtown branch"
+          },
+          "answer": "B",
+          "explanation": "Nhân viên hướng dẫn: 'Take the shuttle bus… to parking lot C' để nhận xe → việc tiếp theo là đi xe đưa đón. (C) sai vì anh ta đã từ chối thuê GPS."
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "audio": "audio/q38-40.mp3",
+      "intro": "conversation with three speakers",
+      "transcript": "M1: Thanks for joining me, Hana and Carlos. I just heard from the factory that the packaging for our new headphones won't be ready until the end of the month.\nW: That's a problem. We scheduled the launch event for the fifteenth, and we've already sent invitations to the press.\nM2: Could we launch with plain boxes and ship the printed packaging later?\nM1: I'd rather not. The packaging is a big part of the brand's image. Hana, how difficult would it be to postpone the event by two weeks?\nW: The venue is flexible, but I'd need to contact all the journalists again.\nM1: OK, let's do that. Carlos, please update the product page on our Web site with the new date.",
+      "questions": [
+        {
+          "number": 38,
+          "content": "What product are the speakers discussing?",
+          "options": {
+            "A": "Headphones",
+            "B": "Laptops",
+            "C": "Cameras",
+            "D": "Televisions"
+          },
+          "answer": "A",
+          "explanation": "'…the packaging for our new headphones won't be ready' → sản phẩm là tai nghe."
+        },
+        {
+          "number": 39,
+          "content": "Why does one of the men reject a suggestion?",
+          "options": {
+            "A": "It would cost too much.",
+            "B": "It would take too long.",
+            "C": "The packaging is important to the brand.",
+            "D": "The factory has refused to do it."
+          },
+          "answer": "C",
+          "explanation": "Carlos đề nghị ra mắt với hộp trơn; người quản lý từ chối vì 'The packaging is a big part of the brand's image'."
+        },
+        {
+          "number": 40,
+          "content": "What is Carlos asked to do?",
+          "options": {
+            "A": "Contact some journalists",
+            "B": "Update a Web site",
+            "C": "Visit a factory",
+            "D": "Book a new venue"
+          },
+          "answer": "B",
+          "explanation": "'Carlos, please update the product page on our Web site with the new date.' (A) là việc của Hana (liên hệ lại các nhà báo)."
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "audio": "audio/q41-43.mp3",
+      "transcript": "W: Hello, this is Kitchen Pro customer service. How can I help you?\nM: Hi. I bought one of your blenders about six months ago, and now it won't turn on. It's still under warranty, isn't it?\nW: Our blenders come with a two-year warranty, so you're covered. Do you have the receipt?\nM: I bought it online, so I have the order confirmation e-mail.\nW: That'll work. Just forward it to repairs at kitchenpro dot com, and we'll send you a prepaid shipping label. Once we receive the blender, it usually takes about a week to repair.\nM: A week? I use it every morning.\nW: I understand. In that case, we can send you a replacement right away, and you can return the broken one afterward.",
+      "questions": [
+        {
+          "number": 41,
+          "content": "Why is the man calling?",
+          "options": {
+            "A": "To order a new appliance",
+            "B": "To report a problem with a product",
+            "C": "To ask about a delivery date",
+            "D": "To cancel an online order"
+          },
+          "answer": "B",
+          "explanation": "'…now it won't turn on. It's still under warranty, isn't it?' → báo máy xay bị hỏng và hỏi về bảo hành."
+        },
+        {
+          "number": 42,
+          "content": "What does the woman ask the man to do?",
+          "options": {
+            "A": "Bring the blender to a store",
+            "B": "Pay a shipping fee",
+            "C": "Forward a purchase record",
+            "D": "Fill out a survey"
+          },
+          "answer": "C",
+          "explanation": "'Just forward it (the order confirmation e-mail) to repairs@…' → chuyển tiếp bằng chứng mua hàng. (B) sai vì công ty gửi nhãn vận chuyển trả trước (prepaid)."
+        },
+        {
+          "number": 43,
+          "content": "Why does the man say, \"I use it every morning\"?",
+          "options": {
+            "A": "To recommend a product",
+            "B": "To explain why the item broke",
+            "C": "To express concern about a waiting period",
+            "D": "To request a discount"
+          },
+          "answer": "C",
+          "explanation": "Câu hỏi hàm ý: nghe sửa mất một tuần, anh ta nói 'Tôi dùng nó mỗi sáng' → lo ngại thời gian chờ quá lâu; nhân viên liền đề nghị gửi máy thay thế ngay."
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "audio": "audio/q44-46.mp3",
+      "transcript": "M: Kelly, have you submitted your travel expenses from the Chicago trip yet?\nW: Not yet. I tried this morning, but I couldn't figure out the new expense software. It keeps asking me for a project code.\nM: Oh, that's new. Every expense now has to be linked to a client project. You can find the codes on the shared drive, in the Finance folder.\nW: Thanks. Is there a deadline?\nM: Reports for last month are due on Friday. And remember to scan your receipts. The system doesn't accept photos taken with a phone anymore.\nW: Really? I'd better find a scanner, then. I think there's one in the mail room.",
+      "questions": [
+        {
+          "number": 44,
+          "content": "What are the speakers mainly discussing?",
+          "options": {
+            "A": "A business trip itinerary",
+            "B": "A new expense reporting system",
+            "C": "A client presentation",
+            "D": "A problem with a shared drive"
+          },
+          "answer": "B",
+          "explanation": "Cả đoạn nói về việc nộp chi phí công tác bằng 'the new expense software' → hệ thống báo cáo chi phí mới."
+        },
+        {
+          "number": 45,
+          "content": "According to the man, what must each expense be linked to?",
+          "options": {
+            "A": "A client project",
+            "B": "A department budget",
+            "C": "A travel agency",
+            "D": "A manager's approval"
+          },
+          "answer": "A",
+          "explanation": "'Every expense now has to be linked to a client project.'"
+        },
+        {
+          "number": 46,
+          "content": "Where will the woman most likely go next?",
+          "options": {
+            "A": "To the finance office",
+            "B": "To a client's office",
+            "C": "To a copy shop",
+            "D": "To the mail room"
+          },
+          "answer": "D",
+          "explanation": "Cần scan hoá đơn → 'I'd better find a scanner… I think there's one in the mail room.' (A) chỉ là tên thư mục 'Finance folder' – bẫy lặp từ."
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "audio": "audio/q47-49.mp3",
+      "transcript": "M: Hi, I'm looking for office space for my design firm. We have twelve employees, and our lease ends in three months.\nW: I have a few options. There's a space on Harbor Street that just became available. It's on the top floor, and it gets a lot of natural light.\nM: That sounds good. How's the parking situation there? Most of my staff drive to work.\nW: The building doesn't have its own parking, but there's a public garage across the street with monthly passes.\nM: Hmm, that could get expensive. Is there anything with parking included?\nW: There's one in the Westfield Business Park. It's a bit farther from downtown, but it comes with twenty free parking spaces. I can take you to see both of them tomorrow morning.",
+      "questions": [
+        {
+          "number": 47,
+          "content": "Who most likely is the woman?",
+          "options": {
+            "A": "A real estate agent",
+            "B": "An interior designer",
+            "C": "A parking attendant",
+            "D": "An architect"
+          },
+          "answer": "A",
+          "explanation": "Cô giới thiệu các văn phòng cho thuê và đề nghị dẫn đi xem → nhân viên môi giới bất động sản."
+        },
+        {
+          "number": 48,
+          "content": "What concern does the man mention?",
+          "options": {
+            "A": "The size of an office",
+            "B": "The cost of parking",
+            "C": "The length of a lease",
+            "D": "The noise from the street"
+          },
+          "answer": "B",
+          "explanation": "Khi nghe phải mua vé tháng ở bãi đỗ công cộng: 'that could get expensive' → lo chi phí đỗ xe."
+        },
+        {
+          "number": 49,
+          "content": "What does the woman offer to do?",
+          "options": {
+            "A": "Lower the rent",
+            "B": "Send some photos",
+            "C": "Show the man two properties",
+            "D": "Contact a parking garage"
+          },
+          "answer": "C",
+          "explanation": "'I can take you to see both of them tomorrow morning' → dẫn đi xem hai địa điểm."
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "audio": "audio/q50-52.mp3",
+      "intro": "conversation with three speakers",
+      "transcript": "W1: Hi, I'm here for the Regional Health Care Conference. My name's Diane Lowe. I registered online last week.\nM: Welcome, Ms. Lowe. Hmm, I don't see your name on our list. Did you receive a confirmation number?\nW1: Yes, it's in my e-mail. Here it is: H K 4 7 2.\nM: Thanks. Jessica, could you check this number in the system? I think some of last week's registrations didn't transfer to the printed list.\nW2: Sure. Yes, Ms. Lowe, you're registered for all three days. I'll print your name badge right now.\nW1: Great. And is the keynote speech still at ten?\nW2: It's been moved to eleven, in Hall B. But there's a coffee reception in the lobby until then.",
+      "questions": [
+        {
+          "number": 50,
+          "content": "What problem does the man mention?",
+          "options": {
+            "A": "A name is missing from a list.",
+            "B": "A room has been double-booked.",
+            "C": "A payment was not received.",
+            "D": "A speaker has canceled."
+          },
+          "answer": "A",
+          "explanation": "'I don't see your name on our list' → tên khách không có trong danh sách in sẵn."
+        },
+        {
+          "number": 51,
+          "content": "What does Jessica do for Ms. Lowe?",
+          "options": {
+            "A": "Gives her a map",
+            "B": "Prints a name badge",
+            "C": "Changes her schedule",
+            "D": "Refunds a fee"
+          },
+          "answer": "B",
+          "explanation": "Jessica (người nói thứ ba) xác nhận đăng ký rồi nói 'I'll print your name badge right now.'"
+        },
+        {
+          "number": 52,
+          "content": "What is mentioned about the keynote speech?",
+          "options": {
+            "A": "It will be recorded.",
+            "B": "It has been canceled.",
+            "C": "It will start later than planned.",
+            "D": "It will be held in the lobby."
+          },
+          "answer": "C",
+          "explanation": "'It's been moved to eleven' (thay vì mười giờ) → bắt đầu muộn hơn dự kiến. (D) sai: sảnh là nơi tổ chức tiệc cà phê, bài phát biểu ở Hall B."
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "audio": "audio/q53-55.mp3",
+      "transcript": "M: Welcome to Summit Fitness. Can I help you?\nW: Yes, I'm interested in joining. I work nearby, so I'd mostly come during my lunch break. What are your membership options?\nM: Our standard membership is sixty dollars a month and includes all group classes. We also have an off-peak membership for forty dollars. It's valid from nine to four on weekdays.\nW: My lunch break is from twelve to one.\nM: Then the off-peak plan would work perfectly for you. And this week, new members get a free session with a personal trainer.\nW: Great. Can I sign up today? I brought my ID.",
+      "questions": [
+        {
+          "number": 53,
+          "content": "Where does the man most likely work?",
+          "options": {
+            "A": "At a restaurant",
+            "B": "At a medical clinic",
+            "C": "At a community center",
+            "D": "At a fitness center"
+          },
+          "answer": "D",
+          "explanation": "'Welcome to Summit Fitness', giới thiệu gói hội viên, lớp tập nhóm, huấn luyện viên cá nhân → trung tâm thể hình."
+        },
+        {
+          "number": 54,
+          "content": "What does the woman imply when she says, \"My lunch break is from twelve to one\"?",
+          "options": {
+            "A": "She wants to reschedule a class.",
+            "B": "She needs to leave soon.",
+            "C": "She prefers a group class.",
+            "D": "The less expensive plan fits her schedule."
+          },
+          "answer": "D",
+          "explanation": "Gói off-peak dùng được 9h–16h ngày thường; giờ nghỉ trưa 12h–13h nằm trong khoảng đó → gói rẻ hơn phù hợp với cô. Người đàn ông xác nhận ngay: 'the off-peak plan would work perfectly for you'."
+        },
+        {
+          "number": 55,
+          "content": "What does the man say new members receive this week?",
+          "options": {
+            "A": "A discount on equipment",
+            "B": "A free session with a trainer",
+            "C": "A water bottle",
+            "D": "One month free"
+          },
+          "answer": "B",
+          "explanation": "'New members get a free session with a personal trainer.'"
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "audio": "audio/q56-58.mp3",
+      "transcript": "W: Hi, Tom. I just got a call from Ellison Hardware. They're asking if their order of steel shelving units will ship on Wednesday as planned.\nM: Unfortunately, one of our cutting machines broke down yesterday, so we're behind schedule. The repair technician won't be here until tomorrow.\nW: Ellison is one of our biggest customers. Is there any way to get part of the order out on time?\nM: Well, we've already finished about half of the units. We could send those on Wednesday and the rest early next week.\nW: That's better than nothing. I'll call them back and see if a partial shipment works for them.",
+      "questions": [
+        {
+          "number": 56,
+          "content": "What problem does the man mention?",
+          "options": {
+            "A": "A shipment was damaged.",
+            "B": "A customer canceled an order.",
+            "C": "Some equipment is not working.",
+            "D": "Some materials are out of stock."
+          },
+          "answer": "C",
+          "explanation": "'One of our cutting machines broke down yesterday' → máy móc bị hỏng. 'machine' được diễn đạt lại thành 'equipment'."
+        },
+        {
+          "number": 57,
+          "content": "Who most likely is Ellison Hardware?",
+          "options": {
+            "A": "A repair company",
+            "B": "A client",
+            "C": "A steel supplier",
+            "D": "A shipping company"
+          },
+          "answer": "B",
+          "explanation": "'Ellison is one of our biggest customers' → khách hàng."
+        },
+        {
+          "number": 58,
+          "content": "What will the woman most likely do next?",
+          "options": {
+            "A": "Contact a customer",
+            "B": "Visit a factory floor",
+            "C": "Hire a technician",
+            "D": "Revise a price list"
+          },
+          "answer": "A",
+          "explanation": "'I'll call them back and see if a partial shipment works for them' → gọi lại cho khách hàng."
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "audio": "audio/q59-61.mp3",
+      "transcript": "M: Hi, Yuna. I'm putting together the interview schedule for the accountant position. Are you available to sit in on the interviews next Tuesday?\nW: Tuesday is the day of the budget review with the board.\nM: Oh, right. I forgot about that. What about Thursday?\nW: Thursday's fine. How many candidates are we interviewing?\nM: Five. I'm thinking of forty-five minutes for each, starting at nine.\nW: That sounds good. Could you send me their résumés beforehand? I'd like to prepare some questions.\nM: I'll e-mail them to you this afternoon.",
+      "questions": [
+        {
+          "number": 59,
+          "content": "What position are the speakers hiring for?",
+          "options": {
+            "A": "Receptionist",
+            "B": "Board member",
+            "C": "Sales manager",
+            "D": "Accountant"
+          },
+          "answer": "D",
+          "explanation": "'…the interview schedule for the accountant position' → vị trí kế toán."
+        },
+        {
+          "number": 60,
+          "content": "Why does the woman say, \"Tuesday is the day of the budget review with the board\"?",
+          "options": {
+            "A": "To ask for help with a presentation",
+            "B": "To suggest a different location",
+            "C": "To explain why she cannot attend on that day",
+            "D": "To remind the man about a deadline"
+          },
+          "answer": "C",
+          "explanation": "Câu hỏi hàm ý: được mời dự phỏng vấn thứ Ba, cô nói hôm đó họp duyệt ngân sách với hội đồng → ngầm từ chối vì bận. Người đàn ông liền đề xuất thứ Năm."
+        },
+        {
+          "number": 61,
+          "content": "What does the woman ask the man to send?",
+          "options": {
+            "A": "Candidates' résumés",
+            "B": "A meeting agenda",
+            "C": "A budget report",
+            "D": "A list of interview questions"
+          },
+          "answer": "A",
+          "explanation": "'Could you send me their résumés beforehand?' (D) sai – chính cô sẽ tự chuẩn bị câu hỏi."
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "audio": "audio/q62-64.mp3",
+      "image": "images/q62-64.png",
+      "intro": "conversation and schedule",
+      "graphic": {
+        "type": "table",
+        "title": "Airport Express – Route 12",
+        "head": [
+          "Departs Central Station",
+          "Arrives Airport"
+        ],
+        "rows": [
+          [
+            "6:15 A.M.",
+            "7:05 A.M."
+          ],
+          [
+            "6:45 A.M.",
+            "7:35 A.M."
+          ],
+          [
+            "7:15 A.M.",
+            "8:05 A.M."
+          ],
+          [
+            "7:45 A.M.",
+            "8:35 A.M."
+          ]
+        ]
+      },
+      "transcript": "W: Mark, I'm flying to Denver tomorrow for the sales conference. Do you know the best way to get to the airport from here? I don't want to pay for parking for a whole week.\nM: The Airport Express bus is great. It leaves from Central Station every thirty minutes. What time is your flight?\nW: It's at nine fifteen. The airline recommends arriving at least an hour before departure.\nM: Then you should take the last bus that gets there before eight. And buy your ticket online. It's two dollars cheaper than paying on the bus.\nW: Good tip. I'll do that tonight.",
+      "questions": [
+        {
+          "number": 62,
+          "content": "Why is the woman traveling to Denver?",
+          "options": {
+            "A": "To visit a client",
+            "B": "To open a new branch",
+            "C": "To interview for a job",
+            "D": "To attend a conference"
+          },
+          "answer": "D",
+          "explanation": "'I'm flying to Denver tomorrow for the sales conference' → dự hội nghị."
+        },
+        {
+          "number": 63,
+          "content": "Look at the graphic. What time will the woman's bus most likely leave Central Station?",
+          "options": {
+            "A": "At 6:15 A.M.",
+            "B": "At 6:45 A.M.",
+            "C": "At 7:15 A.M.",
+            "D": "At 7:45 A.M."
+          },
+          "answer": "B",
+          "explanation": "Người đàn ông khuyên đi 'chuyến cuối cùng đến sân bay trước 8 giờ'. Theo bảng, chuyến đến lúc 7:35 là chuyến cuối đến trước 8 giờ (chuyến sau đến 8:05) → khởi hành 6:45."
+        },
+        {
+          "number": 64,
+          "content": "What does the man recommend doing?",
+          "options": {
+            "A": "Parking at the station",
+            "B": "Taking a taxi",
+            "C": "Buying a ticket online",
+            "D": "Checking in for the flight early"
+          },
+          "answer": "C",
+          "explanation": "'Buy your ticket online. It's two dollars cheaper than paying on the bus.'"
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "audio": "audio/q65-67.mp3",
+      "image": "images/q65-67.png",
+      "intro": "conversation and floor plan",
+      "graphic": {
+        "type": "map",
+        "title": "Hall C – Exhibitor Booths",
+        "cells": [
+          [
+            "Booth 101",
+            "",
+            "Booth 104"
+          ],
+          [
+            "Booth 102",
+            "",
+            "Booth 105"
+          ],
+          [
+            "Booth 103",
+            "",
+            "Café"
+          ],
+          [
+            "Entrance",
+            "",
+            "Restrooms"
+          ]
+        ]
+      },
+      "transcript": "M: Hi, I'm with Greenleaf Packaging. We're exhibiting at the trade show, but when I got to our booth, another company had already set up there.\nW: I'm sorry about that. Let me look. It seems we assigned Booth 101 to two companies by mistake. I can move you to another booth in the same hall.\nM: OK. We'd like to be close to the entrance, if possible, so people see us as soon as they walk in.\nW: The booth right next to the entrance is still available. I'll update the directory.\nM: Thanks. Also, our boxes of brochures were supposed to be delivered here this morning. Do you know where they'd be?\nW: All deliveries are kept at the loading dock. I'll ask someone to bring them over to your booth.",
+      "questions": [
+        {
+          "number": 65,
+          "content": "What problem does the man report?",
+          "options": {
+            "A": "His booth has been given to another company.",
+            "B": "His name badge is incorrect.",
+            "C": "The exhibition hall is too crowded.",
+            "D": "His registration fee was too high."
+          },
+          "answer": "A",
+          "explanation": "'When I got to our booth, another company had already set up there' – ban tổ chức đã giao gian 101 cho hai công ty."
+        },
+        {
+          "number": 66,
+          "content": "Look at the graphic. Which booth will the man's company most likely use?",
+          "options": {
+            "A": "Booth 101",
+            "B": "Booth 102",
+            "C": "Booth 103",
+            "D": "Booth 105"
+          },
+          "answer": "C",
+          "explanation": "Được chuyển sang 'the booth right next to the entrance'. Trên sơ đồ, gian nằm ngay cạnh lối vào là Booth 103."
+        },
+        {
+          "number": 67,
+          "content": "What does the woman say she will do?",
+          "options": {
+            "A": "Print new brochures",
+            "B": "Refund a fee",
+            "C": "Call a delivery company",
+            "D": "Have some boxes brought to the man"
+          },
+          "answer": "D",
+          "explanation": "'I'll ask someone to bring them (the boxes of brochures) over to your booth.'"
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "audio": "audio/q68-70.mp3",
+      "image": "images/q68-70.png",
+      "intro": "conversation and chart",
+      "graphic": {
+        "type": "bars",
+        "title": "Web Site Visits – This Week",
+        "data": [
+          [
+            "Mon",
+            1200
+          ],
+          [
+            "Tue",
+            1500
+          ],
+          [
+            "Wed",
+            900
+          ],
+          [
+            "Thu",
+            1800
+          ],
+          [
+            "Fri",
+            1400
+          ]
+        ]
+      },
+      "transcript": "W: Hi, Raj. I've been looking at the Web site traffic for our bakery this week. Take a look at this chart.\nM: Interesting. Visits were highest on the day we posted the video of our new sourdough bread on social media.\nW: Exactly. And the day with the fewest visits was when the Web site was down for maintenance.\nM: Right. We should stop scheduling maintenance during the week. Sunday night would probably be better.\nW: Good idea. I'll talk to our Web developer. Also, since the video was so popular, let's make another one, maybe showing how we decorate our cakes.",
+      "questions": [
+        {
+          "number": 68,
+          "content": "Who most likely are the speakers?",
+          "options": {
+            "A": "Bakery employees",
+            "B": "Web developers",
+            "C": "Food critics",
+            "D": "Video producers"
+          },
+          "answer": "A",
+          "explanation": "'…the Web site traffic for our bakery', 'our new sourdough bread' → họ làm việc cho một tiệm bánh. (B) sai vì họ sẽ nói chuyện với 'our Web developer'."
+        },
+        {
+          "number": 69,
+          "content": "Look at the graphic. On which day was the video posted?",
+          "options": {
+            "A": "Monday",
+            "B": "Tuesday",
+            "C": "Wednesday",
+            "D": "Thursday"
+          },
+          "answer": "D",
+          "explanation": "Lượt truy cập cao nhất vào ngày đăng video; biểu đồ cho thấy thứ Năm cao nhất (1.800). (C) thứ Tư thấp nhất – ngày web bảo trì."
+        },
+        {
+          "number": 70,
+          "content": "What does the woman suggest doing?",
+          "options": {
+            "A": "Hiring a new developer",
+            "B": "Creating another video",
+            "C": "Lowering some prices",
+            "D": "Closing the shop on Sundays"
+          },
+          "answer": "B",
+          "explanation": "'Since the video was so popular, let's make another one' → làm thêm một video (về cách trang trí bánh)."
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "audio": "audio/q71-73.mp3",
+      "intro": "telephone message",
+      "voice": "M",
+      "transcript": "Hello, this message is for Ms. Laura Bennett. This is Kevin from Riverside Dental Clinic, calling about your appointment with Dr. Osei on Thursday at two P.M. Unfortunately, Dr. Osei will be attending a medical conference that day, so we need to reschedule. We have openings on Friday morning at nine thirty or on Monday afternoon at three. Please call us back at 555-0182 to let us know which time works best for you. Also, as a reminder, our clinic has moved to a new location at 48 Lake Avenue, right across from the public library. There's free parking behind the building. Thank you.",
+      "questions": [
+        {
+          "number": 71,
+          "content": "Why is the speaker calling?",
+          "options": {
+            "A": "To confirm a payment",
+            "B": "To reschedule an appointment",
+            "C": "To introduce a new dentist",
+            "D": "To request some medical records"
+          },
+          "answer": "B",
+          "explanation": "'…calling about your appointment… so we need to reschedule' → đổi lịch hẹn."
+        },
+        {
+          "number": 72,
+          "content": "Why is Dr. Osei unavailable on Thursday?",
+          "options": {
+            "A": "She will be on vacation.",
+            "B": "She is moving to another office.",
+            "C": "She will be attending a conference.",
+            "D": "She has a surgery scheduled."
+          },
+          "answer": "C",
+          "explanation": "'Dr. Osei will be attending a medical conference that day.'"
+        },
+        {
+          "number": 73,
+          "content": "What does the speaker say about the clinic?",
+          "options": {
+            "A": "It has moved to a new address.",
+            "B": "It is closed on Mondays.",
+            "C": "It has hired more staff.",
+            "D": "It charges for parking."
+          },
+          "answer": "A",
+          "explanation": "'Our clinic has moved to a new location at 48 Lake Avenue.' (D) sai – bãi đỗ xe phía sau toà nhà miễn phí."
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "audio": "audio/q74-76.mp3",
+      "intro": "announcement",
+      "voice": "W",
+      "transcript": "Attention, Greenway Home and Garden shoppers. Our store will be closing in thirty minutes, at nine o'clock. Please bring your final purchases to the checkout counters at the front of the store. We'd also like to remind you that our annual summer sale starts tomorrow morning. All outdoor furniture and grilling equipment will be thirty percent off. And if you sign up for our free rewards card at the customer service desk tonight, you'll receive an additional ten-dollar coupon for tomorrow's sale. Thank you for shopping at Greenway Home and Garden.",
+      "questions": [
+        {
+          "number": 74,
+          "content": "Where is the announcement being made?",
+          "options": {
+            "A": "At a restaurant",
+            "B": "At a sports stadium",
+            "C": "At a furniture factory",
+            "D": "At a home and garden store"
+          },
+          "answer": "D",
+          "explanation": "'Attention, Greenway Home and Garden shoppers… Our store will be closing' → cửa hàng đồ gia dụng & làm vườn. (C) bẫy từ 'furniture'."
+        },
+        {
+          "number": 75,
+          "content": "What will happen tomorrow?",
+          "options": {
+            "A": "New staff will be hired.",
+            "B": "The store will open late.",
+            "C": "A sale will begin.",
+            "D": "A shipment will arrive."
+          },
+          "answer": "C",
+          "explanation": "'Our annual summer sale starts tomorrow morning.'"
+        },
+        {
+          "number": 76,
+          "content": "How can listeners receive a coupon?",
+          "options": {
+            "A": "By completing a survey",
+            "B": "By signing up for a rewards card",
+            "C": "By spending more than fifty dollars",
+            "D": "By visiting a Web site"
+          },
+          "answer": "B",
+          "explanation": "'If you sign up for our free rewards card… you'll receive an additional ten-dollar coupon.'"
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "audio": "audio/q77-79.mp3",
+      "intro": "tour information",
+      "voice": "W2",
+      "transcript": "Welcome to the Sweetwater Chocolate Factory, and thank you for joining today's tour. My name is Elena, and I'll be your guide for the next hour. We'll start in the roasting room, where cocoa beans are roasted to bring out their flavor. Then we'll watch our chocolate makers shape bars and truffles by hand. Before we begin, I have to ask you to put on one of the hairnets in the basket by the door. They're required in all production areas. Photography is allowed, but please don't use a flash, since it can distract our workers. At the end of the tour, everyone will receive a free box of samples in our gift shop.",
+      "questions": [
+        {
+          "number": 77,
+          "content": "Who most likely is the speaker?",
+          "options": {
+            "A": "A tour guide",
+            "B": "A factory owner",
+            "C": "A chef",
+            "D": "A shop cashier"
+          },
+          "answer": "A",
+          "explanation": "'My name is Elena, and I'll be your guide for the next hour' → hướng dẫn viên tham quan."
+        },
+        {
+          "number": 78,
+          "content": "What are the listeners asked to do before the tour begins?",
+          "options": {
+            "A": "Turn off their phones",
+            "B": "Sign a safety form",
+            "C": "Put on a hairnet",
+            "D": "Leave their bags in a locker"
+          },
+          "answer": "C",
+          "explanation": "'I have to ask you to put on one of the hairnets in the basket by the door' – bắt buộc ở khu sản xuất."
+        },
+        {
+          "number": 79,
+          "content": "What will the listeners receive at the end of the tour?",
+          "options": {
+            "A": "A discount voucher",
+            "B": "A recipe book",
+            "C": "A group photograph",
+            "D": "A box of samples"
+          },
+          "answer": "D",
+          "explanation": "'Everyone will receive a free box of samples in our gift shop.'"
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "audio": "audio/q80-82.mp3",
+      "intro": "broadcast",
+      "voice": "M2",
+      "transcript": "You're listening to WKTR Morning Drive. Here's your seven-thirty traffic update. Drivers heading downtown on Highway 9 should expect delays this morning. A truck broke down in the left lane near Exit 14, and crews are working to move it. In the meantime, you may want to take Route 5 instead, which is moving smoothly. Also, remember that Market Street will be closed all weekend for the city's food festival, so plan ahead if you're heading to the waterfront. We'll have another update in fifteen minutes, right after a word from our sponsor, Clearview Auto Glass.",
+      "questions": [
+        {
+          "number": 80,
+          "content": "What is causing delays on Highway 9?",
+          "options": {
+            "A": "A vehicle that broke down",
+            "B": "Road construction",
+            "C": "Heavy rain",
+            "D": "A sporting event"
+          },
+          "answer": "A",
+          "explanation": "'A truck broke down in the left lane near Exit 14' → một xe tải bị hỏng."
+        },
+        {
+          "number": 81,
+          "content": "What does the speaker recommend?",
+          "options": {
+            "A": "Leaving home early",
+            "B": "Taking a different route",
+            "C": "Using public transportation",
+            "D": "Parking near the waterfront"
+          },
+          "answer": "B",
+          "explanation": "'You may want to take Route 5 instead' → đi tuyến đường khác."
+        },
+        {
+          "number": 82,
+          "content": "Why will Market Street be closed?",
+          "options": {
+            "A": "It will be repaved.",
+            "B": "A parade will be held.",
+            "C": "A marathon will take place.",
+            "D": "A food festival will be held."
+          },
+          "answer": "D",
+          "explanation": "'Market Street will be closed all weekend for the city's food festival.'"
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "audio": "audio/q83-85.mp3",
+      "intro": "excerpt from a meeting",
+      "voice": "W",
+      "transcript": "Before we finish, I want to talk about the new remote work policy. Starting next month, everyone in the customer support department can work from home two days a week. You'll choose your days with your team leader, but at least three people must be in the office each day so that we can help walk-in customers. I know some of you were hoping for three days at home. Well, this is a trial period. If customer satisfaction scores stay high over the next three months, we'll consider expanding it. Please tell your team leader which days you'd prefer by Friday.",
+      "questions": [
+        {
+          "number": 83,
+          "content": "What is the speaker mainly discussing?",
+          "options": {
+            "A": "A training program",
+            "B": "A hiring plan",
+            "C": "A remote work policy",
+            "D": "A customer survey"
+          },
+          "answer": "C",
+          "explanation": "'I want to talk about the new remote work policy' – được làm việc tại nhà hai ngày mỗi tuần."
+        },
+        {
+          "number": 84,
+          "content": "What does the speaker imply when she says, \"Well, this is a trial period\"?",
+          "options": {
+            "A": "Employees must pass a test.",
+            "B": "The policy could be expanded later.",
+            "C": "Some staff will be hired temporarily.",
+            "D": "A decision has been delayed."
+          },
+          "answer": "B",
+          "explanation": "Câu hỏi hàm ý: đáp lại mong muốn được làm ở nhà ba ngày, người nói nhấn mạnh đây mới là giai đoạn thử nghiệm – nếu kết quả tốt 'we'll consider expanding it' → chính sách có thể được mở rộng sau."
+        },
+        {
+          "number": 85,
+          "content": "What are the listeners asked to do by Friday?",
+          "options": {
+            "A": "Tell their team leader which days they prefer",
+            "B": "Complete a satisfaction survey",
+            "C": "Update their contact information",
+            "D": "Attend a department meeting"
+          },
+          "answer": "A",
+          "explanation": "'Please tell your team leader which days you'd prefer by Friday.'"
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "audio": "audio/q86-88.mp3",
+      "intro": "advertisement",
+      "voice": "M",
+      "transcript": "Are your team's projects falling behind schedule? Try TaskFlow, the project management app designed for small businesses. With TaskFlow, you can assign tasks, share files, and track deadlines all in one place. And unlike other programs, TaskFlow works even without an Internet connection. It updates automatically as soon as you're back online. Right now, we're offering a sixty-day free trial. That's twice as long as usual. Visit taskflow dot com to download the app today, and see why over fifty thousand companies already rely on TaskFlow.",
+      "questions": [
+        {
+          "number": 86,
+          "content": "What is being advertised?",
+          "options": {
+            "A": "An office furniture store",
+            "B": "A training course",
+            "C": "A delivery service",
+            "D": "A software application"
+          },
+          "answer": "D",
+          "explanation": "'Try TaskFlow, the project management app…' → một ứng dụng phần mềm."
+        },
+        {
+          "number": 87,
+          "content": "According to the speaker, what makes the product different from others?",
+          "options": {
+            "A": "It is free for small businesses.",
+            "B": "It can be used without an Internet connection.",
+            "C": "It is available in several languages.",
+            "D": "It includes telephone support."
+          },
+          "answer": "B",
+          "explanation": "'Unlike other programs, TaskFlow works even without an Internet connection' – dấu hiệu 'unlike other…' chỉ điểm khác biệt."
+        },
+        {
+          "number": 88,
+          "content": "What special offer is mentioned?",
+          "options": {
+            "A": "A discount on annual plans",
+            "B": "Free installation",
+            "C": "A longer trial period",
+            "D": "A gift for referrals"
+          },
+          "answer": "C",
+          "explanation": "'A sixty-day free trial. That's twice as long as usual.' → thời gian dùng thử dài gấp đôi."
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "audio": "audio/q89-91.mp3",
+      "intro": "speech",
+      "voice": "W",
+      "transcript": "Good evening, everyone, and welcome to the Hartwell Hotel Group's annual awards dinner. It's my pleasure to present this year's Employee of the Year award to Samuel Okafor, the head chef at our Lakeside location. Since Samuel joined us four years ago, the restaurant's reservations have nearly doubled. Last spring, he also developed a training program that has helped fifteen kitchen assistants become qualified cooks. And many of you have tasted his famous mushroom soup. It was even featured in Food and Travel magazine in June. Samuel, please come up to the stage to accept your award.",
+      "questions": [
+        {
+          "number": 89,
+          "content": "What event is taking place?",
+          "options": {
+            "A": "An awards ceremony",
+            "B": "A cooking class",
+            "C": "A grand opening",
+            "D": "A retirement party"
+          },
+          "answer": "A",
+          "explanation": "'Welcome to the… annual awards dinner… present this year's Employee of the Year award' → lễ trao giải."
+        },
+        {
+          "number": 90,
+          "content": "According to the speaker, what did Mr. Okafor do last spring?",
+          "options": {
+            "A": "He published a cookbook.",
+            "B": "He opened a new restaurant.",
+            "C": "He developed a training program.",
+            "D": "He won a cooking contest."
+          },
+          "answer": "C",
+          "explanation": "'Last spring, he also developed a training program…'"
+        },
+        {
+          "number": 91,
+          "content": "What is mentioned about the mushroom soup?",
+          "options": {
+            "A": "It is the most expensive dish.",
+            "B": "It appeared in a magazine.",
+            "C": "It will be served tonight.",
+            "D": "It was created by a guest."
+          },
+          "answer": "B",
+          "explanation": "'It was even featured in Food and Travel magazine in June.' – 'featured in' = xuất hiện trên (báo, tạp chí)."
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "audio": "audio/q92-94.mp3",
+      "intro": "telephone message",
+      "voice": "M",
+      "transcript": "Hi, Ms. Durant, this is Patrick from Northline Office Supplies, returning your call about the chairs you ordered for your new conference room. I checked with our warehouse, and the model you chose, the Ergo 500, is temporarily out of stock. The manufacturer says it won't be available again until the end of next month. I know you said the room needs to be ready for a client visit on the twelfth. We do have the Ergo 450 in stock. It's almost identical, just without the adjustable armrests. If you'd like, I can deliver the 450s this week at a ten percent discount. Please let me know by Wednesday so I can reserve them.",
+      "questions": [
+        {
+          "number": 92,
+          "content": "What did Ms. Durant order?",
+          "options": {
+            "A": "Conference tables",
+            "B": "Computer monitors",
+            "C": "Printer paper",
+            "D": "Office chairs"
+          },
+          "answer": "D",
+          "explanation": "'…your call about the chairs you ordered for your new conference room.' (A) bẫy từ 'conference'."
+        },
+        {
+          "number": 93,
+          "content": "Why does the speaker say, \"I know you said the room needs to be ready for a client visit on the twelfth\"?",
+          "options": {
+            "A": "To acknowledge that a delay would cause a problem",
+            "B": "To confirm the time of a meeting",
+            "C": "To ask for directions to an office",
+            "D": "To suggest changing a date"
+          },
+          "answer": "A",
+          "explanation": "Câu hỏi hàm ý: hàng phải cuối tháng sau mới có, người nói nhắc lại khách cần phòng xong trước ngày 12 → thừa nhận việc chờ hàng sẽ gây khó khăn, rồi đưa ra phương án thay thế."
+        },
+        {
+          "number": 94,
+          "content": "What does the speaker offer?",
+          "options": {
+            "A": "Free delivery",
+            "B": "An extended warranty",
+            "C": "A similar product at a discount",
+            "D": "A full refund"
+          },
+          "answer": "C",
+          "explanation": "Mẫu Ergo 450 'almost identical' và giao trong tuần 'at a ten percent discount' → sản phẩm tương tự với giá giảm."
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "audio": "audio/q95-97.mp3",
+      "image": "images/q95-97.png",
+      "intro": "announcement and weather forecast",
+      "voice": "M2",
+      "graphic": {
+        "type": "table",
+        "title": "Weekend Forecast",
+        "head": [
+          "Day",
+          "Weather",
+          "High"
+        ],
+        "rows": [
+          [
+            "Friday",
+            "Sunny",
+            "26°C"
+          ],
+          [
+            "Saturday",
+            "Thunderstorms",
+            "21°C"
+          ],
+          [
+            "Sunday",
+            "Partly cloudy",
+            "24°C"
+          ],
+          [
+            "Monday",
+            "Sunny",
+            "27°C"
+          ]
+        ]
+      },
+      "transcript": "Hi everyone, this is a quick update about the company picnic at Lakeview Park. As you know, it was scheduled for this Saturday. But according to the forecast, there are going to be thunderstorms that day, so we've decided to move the picnic to the following day. The weather should be better then, though it may be a bit cloudy. Everything else stays the same. We'll start at eleven, and lunch will be provided by Rosa's Kitchen. If you signed up to bring a dessert, please still bring it. And don't forget, a bus will leave from the main office parking lot at ten thirty for anyone who doesn't want to drive.",
+      "questions": [
+        {
+          "number": 95,
+          "content": "What is the speaker mainly talking about?",
+          "options": {
+            "A": "A schedule change for a company event",
+            "B": "A new park regulation",
+            "C": "A catering menu",
+            "D": "A severe weather warning"
+          },
+          "answer": "A",
+          "explanation": "Thông báo dời ngày tổ chức buổi dã ngoại của công ty vì dự báo có giông."
+        },
+        {
+          "number": 96,
+          "content": "Look at the graphic. On which day will the picnic be held?",
+          "options": {
+            "A": "Friday",
+            "B": "Saturday",
+            "C": "Sunday",
+            "D": "Monday"
+          },
+          "answer": "C",
+          "explanation": "Dã ngoại dời từ thứ Bảy (có giông) sang 'the following day' – ngày hôm sau → Chủ nhật, khớp dự báo 'Partly cloudy' ('may be a bit cloudy')."
+        },
+        {
+          "number": 97,
+          "content": "How can listeners get to the picnic?",
+          "options": {
+            "A": "By taking the subway",
+            "B": "By riding a bus from the office",
+            "C": "By joining a carpool",
+            "D": "By renting a bicycle"
+          },
+          "answer": "B",
+          "explanation": "'A bus will leave from the main office parking lot at ten thirty for anyone who doesn't want to drive.'"
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "audio": "audio/q98-100.mp3",
+      "image": "images/q98-100.png",
+      "intro": "excerpt from a meeting and chart",
+      "voice": "W",
+      "graphic": {
+        "type": "bars",
+        "title": "Guest Survey – Areas to Improve",
+        "unit": "%",
+        "data": [
+          [
+            "Wi-Fi",
+            42
+          ],
+          [
+            "Breakfast",
+            25
+          ],
+          [
+            "Cleaning",
+            18
+          ],
+          [
+            "Check-in",
+            15
+          ]
+        ]
+      },
+      "transcript": "Thanks for coming, everyone. As you can see on this chart, we asked our guests which areas of the hotel need improvement. I'm happy to say that only a small number of guests mentioned check-in. The new mobile check-in system is clearly working. Of course, the most common complaint was about the Wi-Fi, and we've already hired a company to upgrade the network next month. Today, though, I'd like to focus on the area that received the second-highest number of comments. Our chef has put together some new menu ideas, and I'd like all of you to try them. She'll be bringing in some samples in a few minutes.",
+      "questions": [
+        {
+          "number": 98,
+          "content": "Who most likely are the listeners?",
+          "options": {
+            "A": "Hotel employees",
+            "B": "Market researchers",
+            "C": "Travel agents",
+            "D": "Network technicians"
+          },
+          "answer": "A",
+          "explanation": "Người nói trao đổi kết quả khảo sát khách của 'our hotel' với đồng nghiệp → nhân viên khách sạn. (D) sai – công ty nâng cấp mạng là đơn vị thuê ngoài."
+        },
+        {
+          "number": 99,
+          "content": "Look at the graphic. Which area does the speaker want to focus on today?",
+          "options": {
+            "A": "Wi-Fi",
+            "B": "Check-in",
+            "C": "Cleaning",
+            "D": "Breakfast"
+          },
+          "answer": "D",
+          "explanation": "'…the area that received the second-highest number of comments'. Biểu đồ: Wi-Fi 42% (cao nhất), thứ hai là Breakfast 25% → bữa sáng, khớp với việc đầu bếp mang món mới đến thử."
+        },
+        {
+          "number": 100,
+          "content": "What will the listeners most likely do next?",
+          "options": {
+            "A": "Watch a presentation",
+            "B": "Fill out a survey",
+            "C": "Meet a new manager",
+            "D": "Sample some dishes"
+          },
+          "answer": "D",
+          "explanation": "'I'd like all of you to try them. She'll be bringing in some samples in a few minutes.' → nếm thử món ăn."
+        }
+      ]
+    },
+    {
+      "part": 5,
+      "questions": [
+        {
+          "number": 101,
+          "content": "Ms. Alvarez asked ------- assistant to reschedule the meeting with the auditors.",
+          "options": {
+            "A": "she",
+            "B": "her",
+            "C": "hers",
+            "D": "herself"
+          },
+          "answer": "B",
+          "explanation": "Trước danh từ 'assistant' cần tính từ sở hữu → 'her'. 'hers' là đại từ sở hữu (đứng một mình), 'herself' là đại từ phản thân."
+        }
+      ]
+    },
+    {
+      "part": 5,
+      "questions": [
+        {
+          "number": 102,
+          "content": "The new branch office in Busan will open ------- the first week of April.",
+          "options": {
+            "A": "during",
+            "B": "between",
+            "C": "along",
+            "D": "among"
+          },
+          "answer": "A",
+          "explanation": "'during + khoảng thời gian' = trong suốt/trong khoảng → 'during the first week of April'. 'between' cần hai mốc (between A and B); 'along' chỉ không gian; 'among' = giữa nhiều người/vật."
+        }
+      ]
+    },
+    {
+      "part": 5,
+      "questions": [
+        {
+          "number": 103,
+          "content": "All visitors must wear their identification badges ------- they are in the building.",
+          "options": {
+            "A": "during",
+            "B": "since",
+            "C": "while",
+            "D": "unless"
+          },
+          "answer": "C",
+          "explanation": "Chỗ trống nối với mệnh đề 'they are in the building' → cần liên từ; nghĩa 'trong khi/khi đang ở trong toà nhà' → 'while'. 'during' là giới từ (không đi với mệnh đề); 'unless' = trừ khi – sai nghĩa."
+        }
+      ]
+    },
+    {
+      "part": 5,
+      "questions": [
+        {
+          "number": 104,
+          "content": "Guests have consistently praised the Grandview Hotel for its ------- staff.",
+          "options": {
+            "A": "help",
+            "B": "helpful",
+            "C": "helpfully",
+            "D": "helpfulness"
+          },
+          "answer": "B",
+          "explanation": "Giữa tính từ sở hữu 'its' và danh từ 'staff' cần tính từ → 'helpful' (nhiệt tình, hay giúp đỡ)."
+        }
+      ]
+    },
+    {
+      "part": 5,
+      "questions": [
+        {
+          "number": 105,
+          "content": "The marketing team is ------- a survey to learn more about customer preferences.",
+          "options": {
+            "A": "attending",
+            "B": "arriving",
+            "C": "consisting",
+            "D": "conducting"
+          },
+          "answer": "D",
+          "explanation": "Cụm cố định 'conduct a survey' = tiến hành khảo sát. 'attend' đi với sự kiện (meeting, conference); 'arrive' và 'consist (of)' là nội động từ, không có tân ngữ trực tiếp."
+        }
+      ]
+    },
+    {
+      "part": 5,
+      "questions": [
+        {
+          "number": 106,
+          "content": "Our records show that your payment was received ------- March 3.",
+          "options": {
+            "A": "in",
+            "B": "at",
+            "C": "on",
+            "D": "to"
+          },
+          "answer": "C",
+          "explanation": "Trước ngày cụ thể dùng 'on' (on March 3). 'in' dùng cho tháng/năm, 'at' cho giờ."
+        }
+      ]
+    },
+    {
+      "part": 5,
+      "questions": [
+        {
+          "number": 107,
+          "content": "Mr. Chen has worked in the company's legal department ------- more than fifteen years.",
+          "options": {
+            "A": "since",
+            "B": "during",
+            "C": "until",
+            "D": "for"
+          },
+          "answer": "D",
+          "explanation": "Thì hiện tại hoàn thành + khoảng thời gian (more than fifteen years) → 'for'. 'since' đi với mốc thời gian (since 2010)."
+        }
+      ]
+    },
+    {
+      "part": 5,
+      "questions": [
+        {
+          "number": 108,
+          "content": "Applications that are submitted after the deadline will not be -------.",
+          "options": {
+            "A": "considered",
+            "B": "considering",
+            "C": "consider",
+            "D": "considerable"
+          },
+          "answer": "A",
+          "explanation": "Bị động 'will not be + V3': đơn nộp trễ 'sẽ không được xem xét' → 'considered'. 'considerable' là tính từ = đáng kể – sai nghĩa."
+        }
+      ]
+    },
+    {
+      "part": 5,
+      "questions": [
+        {
+          "number": 109,
+          "content": "The factory has seen a significant ------- in production since installing the new equipment.",
+          "options": {
+            "A": "increase",
+            "B": "increased",
+            "C": "increasing",
+            "D": "increasingly"
+          },
+          "answer": "A",
+          "explanation": "Sau mạo từ 'a' và tính từ 'significant' cần danh từ → 'increase' (sự gia tăng). 'an increase in + N' là cụm hay gặp."
+        }
+      ]
+    },
+    {
+      "part": 5,
+      "questions": [
+        {
+          "number": 110,
+          "content": "Please contact the front desk ------- you need extra towels or pillows.",
+          "options": {
+            "A": "so",
+            "B": "but",
+            "C": "or",
+            "D": "if"
+          },
+          "answer": "D",
+          "explanation": "Nghĩa điều kiện: 'hãy liên hệ lễ tân nếu quý khách cần thêm khăn' → 'if'."
+        }
+      ]
+    },
+    {
+      "part": 5,
+      "questions": [
+        {
+          "number": 111,
+          "content": "The conference room on the third floor is ------- than the one on the first floor.",
+          "options": {
+            "A": "large",
+            "B": "larger",
+            "C": "largest",
+            "D": "largely"
+          },
+          "answer": "B",
+          "explanation": "Có 'than' → so sánh hơn: 'larger than'."
+        }
+      ]
+    },
+    {
+      "part": 5,
+      "questions": [
+        {
+          "number": 112,
+          "content": "Ms. Park, ------- joined the company last year, has been promoted to regional manager.",
+          "options": {
+            "A": "who",
+            "B": "which",
+            "C": "whose",
+            "D": "whom"
+          },
+          "answer": "A",
+          "explanation": "Đại từ quan hệ thay cho người (Ms. Park) và làm chủ ngữ của động từ 'joined' → 'who'. 'whom' làm tân ngữ; 'whose' cần danh từ theo sau."
+        }
+      ]
+    },
+    {
+      "part": 5,
+      "questions": [
+        {
+          "number": 113,
+          "content": "The board of directors ------- the merger proposal at its next meeting.",
+          "options": {
+            "A": "reviewed",
+            "B": "reviewing",
+            "C": "will review",
+            "D": "has reviewed"
+          },
+          "answer": "C",
+          "explanation": "'at its next meeting' (cuộc họp tới) → hành động ở tương lai → 'will review'. (B) V-ing không làm động từ chính được."
+        }
+      ]
+    },
+    {
+      "part": 5,
+      "questions": [
+        {
+          "number": 114,
+          "content": "The shipment of printer cartridges was delayed ------- a problem at the port.",
+          "options": {
+            "A": "because",
+            "B": "due to",
+            "C": "although",
+            "D": "despite"
+          },
+          "answer": "B",
+          "explanation": "Sau chỗ trống là cụm danh từ 'a problem at the port' → cần giới từ chỉ nguyên nhân 'due to'. 'because' cần mệnh đề (hoặc 'because of'); 'despite' = mặc dù – sai nghĩa."
+        }
+      ]
+    },
+    {
+      "part": 5,
+      "questions": [
+        {
+          "number": 115,
+          "content": "Neither the store manager ------- her assistant was available to answer questions about the refund.",
+          "options": {
+            "A": "or",
+            "B": "and",
+            "C": "nor",
+            "D": "but"
+          },
+          "answer": "C",
+          "explanation": "Cặp liên từ 'neither … nor' = không … cũng không."
+        }
+      ]
+    },
+    {
+      "part": 5,
+      "questions": [
+        {
+          "number": 116,
+          "content": "Bexley Foods' profits rose sharply ------- the successful launch of its new snack line.",
+          "options": {
+            "A": "following",
+            "B": "whereas",
+            "C": "unless",
+            "D": "whether"
+          },
+          "answer": "A",
+          "explanation": "Sau chỗ trống là cụm danh từ → cần giới từ; 'following' = sau (khi) – lợi nhuận tăng sau đợt ra mắt thành công. Các lựa chọn còn lại là liên từ, phải đi với mệnh đề."
+        }
+      ]
+    },
+    {
+      "part": 5,
+      "questions": [
+        {
+          "number": 117,
+          "content": "Employees are ------- to submit their timesheets by 5:00 P.M. every Friday.",
+          "options": {
+            "A": "requires",
+            "B": "requiring",
+            "C": "requirement",
+            "D": "required"
+          },
+          "answer": "D",
+          "explanation": "Cấu trúc bị động 'be required to + V' = được yêu cầu/bắt buộc phải làm gì."
+        }
+      ]
+    },
+    {
+      "part": 5,
+      "questions": [
+        {
+          "number": 118,
+          "content": "The renovation of the hotel lobby is expected to be ------- by the end of the month.",
+          "options": {
+            "A": "completion",
+            "B": "completing",
+            "C": "completed",
+            "D": "completes"
+          },
+          "answer": "C",
+          "explanation": "'to be + V3' (bị động): việc cải tạo 'được hoàn thành' trước cuối tháng → 'completed'."
+        }
+      ]
+    },
+    {
+      "part": 5,
+      "questions": [
+        {
+          "number": 119,
+          "content": "Mr. Russo gave a ------- presentation on the company's expansion plans.",
+          "options": {
+            "A": "persuade",
+            "B": "persuasive",
+            "C": "persuasively",
+            "D": "persuasion"
+          },
+          "answer": "B",
+          "explanation": "Giữa mạo từ 'a' và danh từ 'presentation' cần tính từ → 'persuasive' (có sức thuyết phục)."
+        }
+      ]
+    },
+    {
+      "part": 5,
+      "questions": [
+        {
+          "number": 120,
+          "content": "Tickets for the jazz festival can be purchased ------- online or at the box office.",
+          "options": {
+            "A": "either",
+            "B": "neither",
+            "C": "both",
+            "D": "whether"
+          },
+          "answer": "A",
+          "explanation": "Có 'or' phía sau → cặp 'either … or' = hoặc … hoặc. 'both' đi với 'and', 'neither' đi với 'nor'."
+        }
+      ]
+    },
+    {
+      "part": 5,
+      "questions": [
+        {
+          "number": 121,
+          "content": "The CEO thanked the employees for ------- hard work during the merger.",
+          "options": {
+            "A": "they",
+            "B": "them",
+            "C": "their",
+            "D": "theirs"
+          },
+          "answer": "C",
+          "explanation": "Trước cụm danh từ 'hard work' cần tính từ sở hữu → 'their'."
+        }
+      ]
+    },
+    {
+      "part": 5,
+      "questions": [
+        {
+          "number": 122,
+          "content": "Because of budget -------, the renovation of the east wing has been put on hold.",
+          "options": {
+            "A": "instructions",
+            "B": "attractions",
+            "C": "reactions",
+            "D": "constraints"
+          },
+          "answer": "D",
+          "explanation": "'budget constraints' = hạn chế về ngân sách → dự án bị tạm hoãn ('put on hold'). Các từ còn lại không tạo nghĩa phù hợp."
+        }
+      ]
+    },
+    {
+      "part": 5,
+      "questions": [
+        {
+          "number": 123,
+          "content": "The survey results were ------- positive, with 92 percent of customers expressing satisfaction.",
+          "options": {
+            "A": "overwhelm",
+            "B": "overwhelmingly",
+            "C": "overwhelming",
+            "D": "overwhelmed"
+          },
+          "answer": "B",
+          "explanation": "Bổ nghĩa cho tính từ 'positive' cần trạng từ → 'overwhelmingly' (áp đảo, cực kỳ)."
+        }
+      ]
+    },
+    {
+      "part": 5,
+      "questions": [
+        {
+          "number": 124,
+          "content": "Ms. Kaur will be ------- for training all newly hired sales representatives.",
+          "options": {
+            "A": "capable",
+            "B": "dependent",
+            "C": "responsible",
+            "D": "aware"
+          },
+          "answer": "C",
+          "explanation": "'be responsible for + V-ing/N' = chịu trách nhiệm về. 'capable of', 'dependent on', 'aware of' đi với giới từ khác."
+        }
+      ]
+    },
+    {
+      "part": 5,
+      "questions": [
+        {
+          "number": 125,
+          "content": "------- the weather improves by Saturday, the outdoor concert will be moved indoors.",
+          "options": {
+            "A": "Unless",
+            "B": "Because",
+            "C": "Since",
+            "D": "Although"
+          },
+          "answer": "A",
+          "explanation": "'Unless' = trừ khi: nếu thời tiết không khá hơn thì buổi hoà nhạc sẽ chuyển vào trong nhà – hợp logic."
+        }
+      ]
+    },
+    {
+      "part": 5,
+      "questions": [
+        {
+          "number": 126,
+          "content": "Tavira Logistics plans to ------- its operations into Southeast Asia next year.",
+          "options": {
+            "A": "raise",
+            "B": "rise",
+            "C": "lift",
+            "D": "expand"
+          },
+          "answer": "D",
+          "explanation": "'expand operations into + khu vực' = mở rộng hoạt động sang. 'rise' là nội động từ; 'raise/lift' = nâng lên – không hợp với 'operations'."
+        }
+      ]
+    },
+    {
+      "part": 5,
+      "questions": [
+        {
+          "number": 127,
+          "content": "All visitors must sign in at the reception desk ------- entering the laboratory.",
+          "options": {
+            "A": "prior",
+            "B": "before",
+            "C": "ahead",
+            "D": "advance"
+          },
+          "answer": "B",
+          "explanation": "'before + V-ing' = trước khi. 'prior' cần 'to' (prior to entering); 'ahead of' cũng cần 'of'."
+        }
+      ]
+    },
+    {
+      "part": 5,
+      "questions": [
+        {
+          "number": 128,
+          "content": "The service contract will be renewed ------- both parties agree to the revised terms.",
+          "options": {
+            "A": "as well as",
+            "B": "in spite of",
+            "C": "in order to",
+            "D": "provided that"
+          },
+          "answer": "D",
+          "explanation": "Sau chỗ trống là mệnh đề đầy đủ → cần liên từ; 'provided that' = với điều kiện là. (A), (B) đi với danh từ; (C) đi với động từ nguyên mẫu."
+        }
+      ]
+    },
+    {
+      "part": 5,
+      "questions": [
+        {
+          "number": 129,
+          "content": "The accounting department has ------- hired three analysts to handle the increased workload.",
+          "options": {
+            "A": "soon",
+            "B": "recently",
+            "C": "yet",
+            "D": "still"
+          },
+          "answer": "B",
+          "explanation": "Thì hiện tại hoàn thành + 'recently' (gần đây). 'yet' dùng trong câu phủ định/nghi vấn và đứng cuối câu; 'soon' dùng cho tương lai."
+        }
+      ]
+    },
+    {
+      "part": 5,
+      "questions": [
+        {
+          "number": 130,
+          "content": "The new inventory software will allow staff to process orders more ------- than before.",
+          "options": {
+            "A": "efficient",
+            "B": "efficiency",
+            "C": "efficiently",
+            "D": "efficiencies"
+          },
+          "answer": "C",
+          "explanation": "Bổ nghĩa cho động từ 'process' cần trạng từ; 'more efficiently than' là so sánh hơn của trạng từ."
+        }
+      ]
+    },
+    {
+      "part": 6,
+      "passage": "To: All Customers\nFrom: Nexa Broadband Customer Care\nSubject: Scheduled maintenance\n\nDear Customer,\n\nOn Sunday, October 12, Nexa Broadband will perform upgrades to its network in your area. The work is ---131--- to take place between 1:00 A.M. and 5:00 A.M. During this time, your Internet service may be interrupted for short periods. ---132---.\n\nThese upgrades are part of our ongoing effort to provide faster and more ---133--- service to our customers. Once the work is complete, most households will notice improved download speeds.\n\nWe apologize for any inconvenience. If you experience problems after 5:00 A.M., please restart your modem. If the problem ---134---, contact our support team at 1-800-555-0199.\n\nSincerely,\nNexa Broadband Customer Care",
+      "questions": [
+        {
+          "number": 131,
+          "options": {
+            "A": "schedule",
+            "B": "scheduled",
+            "C": "scheduling",
+            "D": "schedules"
+          },
+          "answer": "B",
+          "explanation": "Cấu trúc bị động 'be scheduled to + V' = được lên lịch để… → 'is scheduled to take place'."
+        },
+        {
+          "number": 132,
+          "options": {
+            "A": "We have chosen these hours to minimize disruption.",
+            "B": "Our new office opened last month.",
+            "C": "Please pay your bill by the due date.",
+            "D": "Thank you for applying for this position."
+          },
+          "answer": "A",
+          "explanation": "Câu trước nói dịch vụ có thể bị gián đoạn trong khung 1–5 giờ sáng → câu hợp lý giải thích lý do chọn khung giờ này: 'để giảm thiểu gián đoạn'. Các câu còn lại không liên quan tới việc bảo trì."
+        },
+        {
+          "number": 133,
+          "options": {
+            "A": "rely",
+            "B": "reliably",
+            "C": "reliance",
+            "D": "reliable"
+          },
+          "answer": "D",
+          "explanation": "'faster and more ------- service': hai tính từ song song bổ nghĩa cho 'service' → tính từ 'reliable' (ổn định, đáng tin cậy)."
+        },
+        {
+          "number": 134,
+          "options": {
+            "A": "persisting",
+            "B": "persisted",
+            "C": "persists",
+            "D": "will persist"
+          },
+          "answer": "C",
+          "explanation": "Mệnh đề 'If' của câu điều kiện loại 1 dùng hiện tại đơn; chủ ngữ số ít 'the problem' → 'persists' (vẫn tiếp diễn). Không dùng 'will' trong mệnh đề If."
+        }
+      ]
+    },
+    {
+      "part": 6,
+      "passage": "Westbrook Public Library Introduces Laptop Lending\n\nBeginning May 1, library cardholders will be able to borrow laptop computers for use ---135--- the library. Laptops may be checked out for up to three hours at a time at the information desk. ---136--- must present a valid library card and a photo ID.\n\nAll laptops come with word processing and spreadsheet software already installed. Users may also print documents from the laptops for ten cents per page. ---137---.\n\nThis service was made possible by a generous grant from the Westbrook Community Foundation. For more information, please ---138--- any member of our staff.",
+      "questions": [
+        {
+          "number": 135,
+          "options": {
+            "A": "within",
+            "B": "among",
+            "C": "across",
+            "D": "upon"
+          },
+          "answer": "A",
+          "explanation": "'for use within the library' = chỉ được dùng bên trong thư viện. 'among' dùng cho nhiều người/vật; 'across' = băng qua."
+        },
+        {
+          "number": 136,
+          "options": {
+            "A": "Borrow",
+            "B": "Borrowing",
+            "C": "Borrowers",
+            "D": "Borrowed"
+          },
+          "answer": "C",
+          "explanation": "Cần danh từ chỉ người làm chủ ngữ cho 'must present' → 'Borrowers' (người mượn). 'Borrowing' là danh động từ chỉ hành động, không thể 'xuất trình thẻ'."
+        },
+        {
+          "number": 137,
+          "options": {
+            "A": "The foundation was established in 1998.",
+            "B": "Documents can be picked up at the printer next to the entrance.",
+            "C": "Overdue books will be charged a late fee.",
+            "D": "Our children's section has been renovated."
+          },
+          "answer": "B",
+          "explanation": "Câu trước nói về việc in tài liệu từ laptop (10 xu/trang) → câu tiếp theo hợp lý là hướng dẫn nhận bản in ở máy in cạnh lối vào."
+        },
+        {
+          "number": 138,
+          "options": {
+            "A": "speak",
+            "B": "reply",
+            "C": "talk",
+            "D": "contact"
+          },
+          "answer": "D",
+          "explanation": "'contact + tân ngữ trực tiếp' = liên hệ ai. 'speak/talk' cần giới từ 'to/with'; 'reply' cần 'to'."
+        }
+      ]
+    },
+    {
+      "part": 6,
+      "passage": "MEMO\nTo: All Staff\nFrom: Grace Liu, Operations Manager\nDate: August 4\nRe: Parking lot resurfacing\n\nThe company parking lot will be resurfaced from August 11 to August 15. During this period, the lot will be ---139--- closed. Employees who drive to work may park at the Clayton Street garage, two blocks east of our building. The company has arranged for employees to park there ---140--- no charge.\n\nTo use the garage, you will need a temporary parking pass. ---141---. Passes will be available from the reception desk starting Thursday.\n\nWe understand this may be inconvenient, and we appreciate your ---142--- while the work is being done.",
+      "questions": [
+        {
+          "number": 139,
+          "options": {
+            "A": "complete",
+            "B": "completely",
+            "C": "completion",
+            "D": "completed"
+          },
+          "answer": "B",
+          "explanation": "Bổ nghĩa cho tính từ/phân từ 'closed' cần trạng từ → 'completely closed' (đóng cửa hoàn toàn)."
+        },
+        {
+          "number": 140,
+          "options": {
+            "A": "in",
+            "B": "on",
+            "C": "at",
+            "D": "by"
+          },
+          "answer": "C",
+          "explanation": "Cụm cố định 'at no charge' = miễn phí (tương tự 'free of charge')."
+        },
+        {
+          "number": 141,
+          "options": {
+            "A": "The garage was built last year.",
+            "B": "Please report any accidents to security.",
+            "C": "Our building has six floors.",
+            "D": "The pass must be displayed on your dashboard at all times."
+          },
+          "answer": "D",
+          "explanation": "Câu trước nhắc tới thẻ gửi xe tạm thời → câu tiếp theo hợp lý là quy định sử dụng thẻ: phải đặt trên bảng táp-lô xe mọi lúc."
+        },
+        {
+          "number": 142,
+          "options": {
+            "A": "patience",
+            "B": "patient",
+            "C": "patiently",
+            "D": "patients"
+          },
+          "answer": "A",
+          "explanation": "Sau tính từ sở hữu 'your' cần danh từ; 'appreciate your patience' = cảm ơn sự kiên nhẫn của bạn. 'patients' = bệnh nhân – sai nghĩa."
+        }
+      ]
+    },
+    {
+      "part": 6,
+      "passage": "Coastline Airways to Launch Lisbon Route\n\nHARBOR CITY (June 2) – Coastline Airways announced yesterday that it will begin offering direct flights between Harbor City and Lisbon this fall. The new route will operate three times a week ---143--- October 5.\n\nUntil now, travelers from Harbor City have had to change planes in New York or London to reach Portugal. ---144---. \"Our customers have been asking for this route for years,\" said Coastline's CEO, Marta Silva.\n\nThe flights will use the airline's newest planes, which ---145--- more legroom and free Wi-Fi in all cabins. To celebrate the launch, Coastline is offering discounted fares on tickets purchased before July 31.\n\nTourism officials in both cities expect the route to bring more visitors and support local ---146---.",
+      "questions": [
+        {
+          "number": 143,
+          "options": {
+            "A": "begin",
+            "B": "beginning",
+            "C": "began",
+            "D": "begun"
+          },
+          "answer": "B",
+          "explanation": "'beginning + mốc thời gian' = bắt đầu từ (dùng như giới từ) → 'beginning October 5'."
+        },
+        {
+          "number": 144,
+          "options": {
+            "A": "The direct flights will reduce travel time by about four hours.",
+            "B": "The airline was founded by two former pilots.",
+            "C": "Lisbon is known for its historic neighborhoods.",
+            "D": "Ms. Silva plans to retire next year."
+          },
+          "answer": "A",
+          "explanation": "Câu trước: trước đây phải nối chuyến ở New York hoặc London → câu tiếp theo nêu lợi ích của đường bay thẳng: rút ngắn thời gian khoảng bốn giờ."
+        },
+        {
+          "number": 145,
+          "options": {
+            "A": "offers",
+            "B": "offering",
+            "C": "offer",
+            "D": "to offer"
+          },
+          "answer": "C",
+          "explanation": "Mệnh đề quan hệ 'which' thay cho 'planes' (số nhiều) và cần động từ chia → 'offer'. (A) chia số ít; (B), (D) không phải động từ chính."
+        },
+        {
+          "number": 146,
+          "options": {
+            "A": "busy",
+            "B": "busily",
+            "C": "busier",
+            "D": "businesses"
+          },
+          "answer": "D",
+          "explanation": "Sau tính từ 'local' cần danh từ → 'businesses' (các doanh nghiệp địa phương)."
+        }
+      ]
+    },
+    {
+      "part": 7,
+      "passage": "GREEN BEAN CAFÉ\nNow open on Porter Avenue!\n\nCelebrate our grand opening with us from March 3 to March 9:\n• Buy any large coffee and get a pastry for free.\n• Enjoy free Wi-Fi and plenty of outlets for your laptop.\n• Need a place to meet? Our meeting room seats groups of up to 10. Reserve it at the counter.\n\nOpen daily from 6:30 A.M. to 8:00 P.M.\nShow this flyer to receive 15% off your first order. Offer valid through March 31.",
+      "questions": [
+        {
+          "number": 147,
+          "content": "What is being advertised?",
+          "options": {
+            "A": "A catering service",
+            "B": "The opening of a café",
+            "C": "A bakery's new location",
+            "D": "An office rental service"
+          },
+          "answer": "B",
+          "explanation": "'GREEN BEAN CAFÉ – Now open… Celebrate our grand opening' → quảng cáo khai trương quán cà phê."
+        },
+        {
+          "number": 148,
+          "content": "What is indicated about the meeting room?",
+          "options": {
+            "A": "It is open only in the evening.",
+            "B": "It has recently been renovated.",
+            "C": "It can hold up to 20 people.",
+            "D": "It can be reserved at the counter."
+          },
+          "answer": "D",
+          "explanation": "'Our meeting room seats groups of up to 10. Reserve it at the counter.' (C) sai – tối đa 10 người."
+        }
+      ]
+    },
+    {
+      "part": 7,
+      "passage": "Nadia Perez [2:14 P.M.]\nHi Owen, are you still at the warehouse? The client just called. They need the fabric samples by tomorrow morning instead of Friday.\n\nOwen Brooks [2:16 P.M.]\nI'm here. I can pack them now, but the courier's last pickup was at 2:00.\n\nNadia Perez [2:17 P.M.]\nHmm. Could you drop them off at their office on your way home? It's on Delmar Street.\n\nOwen Brooks [2:19 P.M.]\nThat's not a problem. I pass right by there.\n\nNadia Perez [2:20 P.M.]\nGreat, thanks! I'll tell them to expect you around 5:30.",
+      "questions": [
+        {
+          "number": 149,
+          "content": "What problem does Ms. Perez mention?",
+          "options": {
+            "A": "A client has moved up a deadline.",
+            "B": "Some fabrics were damaged.",
+            "C": "A courier went to the wrong address.",
+            "D": "A warehouse has closed early."
+          },
+          "answer": "A",
+          "explanation": "'They need the fabric samples by tomorrow morning instead of Friday' → khách hàng yêu cầu giao sớm hơn ('move up a deadline' = đẩy hạn chót lên sớm hơn)."
+        },
+        {
+          "number": 150,
+          "content": "At 2:19 P.M., what does Mr. Brooks most likely mean when he writes, \"That's not a problem\"?",
+          "options": {
+            "A": "He has already packed the samples.",
+            "B": "He can contact the courier again.",
+            "C": "He agrees to take the samples to the client.",
+            "D": "He knows the client's office well."
+          },
+          "answer": "C",
+          "explanation": "Đáp lại đề nghị 'Could you drop them off at their office on your way home?' → anh đồng ý tự mang mẫu vải đến cho khách, vì 'I pass right by there'."
+        }
+      ]
+    },
+    {
+      "part": 7,
+      "passage": "ATTENTION: RESIDENTS OF MAPLE COURT APARTMENTS\n\nThe water supply to Buildings A and B will be shut off on Tuesday, April 22, from 9:00 A.M. to 1:00 P.M. so that plumbers can replace the main water valve. Building C will not be affected.\n\nWe recommend that residents store some water in advance for drinking and cooking. Bottled water will also be available free of charge at the management office during the shutoff.\n\nWe apologize for any inconvenience.\nMaple Court Management",
+      "questions": [
+        {
+          "number": 151,
+          "content": "Why will the water be shut off?",
+          "options": {
+            "A": "To clean the water tanks",
+            "B": "To test the water quality",
+            "C": "To connect a new building",
+            "D": "To replace part of the plumbing system"
+          },
+          "answer": "D",
+          "explanation": "'…so that plumbers can replace the main water valve' → thay một bộ phận (van chính) của hệ thống ống nước."
+        },
+        {
+          "number": 152,
+          "content": "What is suggested about Building C?",
+          "options": {
+            "A": "It is the newest building.",
+            "B": "Its residents will still have water.",
+            "C": "It houses the management office.",
+            "D": "It will be repainted in April."
+          },
+          "answer": "B",
+          "explanation": "'Building C will not be affected' → cư dân toà C không bị cắt nước."
+        }
+      ]
+    },
+    {
+      "part": 7,
+      "passage": "HILLSIDE PRINT & COPY\nInvoice #20471 • Date: November 6\nCustomer: Rahul Mehta, Mehta Architecture\n\nItem  •  Quantity  •  Price\nColor posters (A2 size)  •  12  •  $96.00\nBusiness cards (box of 250)  •  4  •  $80.00\nBinding of project reports  •  10  •  $45.00\nRush service fee  •  1  •  $25.00\nTOTAL: $246.00\n\nPayment is due within 30 days. Customers who pay within 10 days receive a 5% discount.\nThank you for your business!",
+      "questions": [
+        {
+          "number": 153,
+          "content": "What is indicated about Mr. Mehta's order?",
+          "options": {
+            "A": "It was delivered to his home.",
+            "B": "It was paid for in advance.",
+            "C": "It was processed quickly for an extra charge.",
+            "D": "It included a free box of business cards."
+          },
+          "answer": "C",
+          "explanation": "Hoá đơn có dòng 'Rush service fee – $25.00' → đơn được làm gấp và tính thêm phí."
+        },
+        {
+          "number": 154,
+          "content": "How can Mr. Mehta reduce the amount he pays?",
+          "options": {
+            "A": "By paying within ten days",
+            "B": "By ordering more posters",
+            "C": "By picking up the order himself",
+            "D": "By becoming a member"
+          },
+          "answer": "A",
+          "explanation": "'Customers who pay within 10 days receive a 5% discount.'"
+        }
+      ]
+    },
+    {
+      "part": 7,
+      "passage": "To: All Staff\nFrom: Julia Park\nDate: May 14\nSubject: Welcome, Leo Martins\n\nDear colleagues,\n\nPlease join me in welcoming Leo Martins, who will start on Monday as our new video production manager. Leo comes to us from Studio North, where he spent eight years producing documentaries and commercials. His short film about urban gardening won an award at last year's Riverside Film Festival.\n\nAt Orion Media, Leo will lead a team of five editors and oversee all video content for our clients. His office will be on the fourth floor, next to the editing suites.\n\nWe are holding a small welcome lunch for Leo on Monday at 12:30 in the staff lounge. Please let me know by Friday if you plan to attend so that I can order enough food.\n\nBest regards,\nJulia Park\nHuman Resources Director",
+      "questions": [
+        {
+          "number": 155,
+          "content": "What is the purpose of the e-mail?",
+          "options": {
+            "A": "To announce a film festival",
+            "B": "To request volunteers for a project",
+            "C": "To describe a new service",
+            "D": "To introduce a new colleague"
+          },
+          "answer": "D",
+          "explanation": "'Please join me in welcoming Leo Martins, who will start on Monday…' → giới thiệu đồng nghiệp mới."
+        },
+        {
+          "number": 156,
+          "content": "What is mentioned about Mr. Martins?",
+          "options": {
+            "A": "He previously worked at Orion Media.",
+            "B": "He has won an award for a film.",
+            "C": "He will manage eight editors.",
+            "D": "He grows vegetables in the city."
+          },
+          "answer": "B",
+          "explanation": "'His short film about urban gardening won an award…' (A) sai – anh đến từ Studio North; (C) sai – nhóm 5 biên tập viên (8 là số năm kinh nghiệm); (D) bẫy từ 'urban gardening' (chủ đề phim)."
+        },
+        {
+          "number": 157,
+          "content": "What are staff members asked to do by Friday?",
+          "options": {
+            "A": "Order food for a lunch",
+            "B": "Move to the fourth floor",
+            "C": "Confirm whether they will attend an event",
+            "D": "Submit their video projects"
+          },
+          "answer": "C",
+          "explanation": "'Please let me know by Friday if you plan to attend' (buổi tiệc trưa chào mừng) → xác nhận có tham dự không. (A) là việc của bà Park."
+        }
+      ]
+    },
+    {
+      "part": 7,
+      "passage": "Riverton Bike-Share Program to Expand\n\nRIVERTON (September 9) – The city's bike-share program, RideRiverton, will add 20 new stations and 200 bicycles by the end of the year. The program was launched two years ago with just 15 stations in the downtown area. – [1] –\n\nSince then, ridership has grown steadily. City officials report that riders took more than 300,000 trips last year, nearly double the number from the program's first year. – [2] – Many riders use the bikes to travel between the train station and their workplaces.\n\nThe new stations will be located mainly in residential neighborhoods north of the river. – [3] – \"Residents there have told us they want easier access to the program,\" said transportation director Alan Moss.\n\nHalf of the new bicycles will be electric, making it easier for riders to climb the steep hills in the northern districts. – [4] – Riders will pay an additional 50 cents per trip to use the electric bikes.",
+      "questions": [
+        {
+          "number": 158,
+          "content": "What is the article mainly about?",
+          "options": {
+            "A": "The expansion of a bike-sharing program",
+            "B": "A new cycling race",
+            "C": "The opening of a train station",
+            "D": "A change in city leadership"
+          },
+          "answer": "A",
+          "explanation": "Tiêu đề và câu đầu: RideRiverton sẽ thêm 20 trạm và 200 xe đạp → mở rộng chương trình xe đạp dùng chung."
+        },
+        {
+          "number": 159,
+          "content": "What is indicated about the electric bicycles?",
+          "options": {
+            "A": "They are heavier than regular bicycles.",
+            "B": "They will be available downtown only.",
+            "C": "They were tested last year.",
+            "D": "They require an additional fee."
+          },
+          "answer": "D",
+          "explanation": "'Riders will pay an additional 50 cents per trip to use the electric bikes.' (B) sai – xe điện phục vụ khu đồi phía bắc."
+        },
+        {
+          "number": 160,
+          "content": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong?\n\"None of the current stations are in that part of the city.\"",
+          "options": {
+            "A": "[1]",
+            "B": "[2]",
+            "C": "[3]",
+            "D": "[4]"
+          },
+          "answer": "C",
+          "explanation": "'that part of the city' chỉ khu dân cư phía bắc sông vừa nhắc ở câu trước vị trí [3]; câu chèn giải thích vì sao cư dân muốn tiếp cận chương trình dễ hơn (câu trích dẫn ngay sau)."
+        }
+      ]
+    },
+    {
+      "part": 7,
+      "passage": "www.lakeshorecc.edu/continuing-education\n\nLakeshore Community College – Continuing Education\nSpring Evening Courses\n\nOur evening courses are designed for working adults who want to learn new skills. Classes meet once a week for eight weeks, starting the week of March 2.\n\n• Introduction to Bookkeeping – Mondays, 6:30–8:30 P.M. – $180\n• Conversational Spanish – Tuesdays, 7:00–9:00 P.M. – $160\n• Digital Photography – Wednesdays, 6:00–8:00 P.M. – $210 (students must bring their own camera)\n• Public Speaking – Thursdays, 6:30–8:30 P.M. – $150\n\nRegistration opens on February 1. Students who register before February 15 save 10 percent. Lakeshore employees and current degree students may enroll in one evening course per term free of charge.\n\nTo register, create an account on our Web site or visit the Admissions Office in Harper Hall.",
+      "questions": [
+        {
+          "number": 161,
+          "content": "For whom are the courses mainly intended?",
+          "options": {
+            "A": "High school students",
+            "B": "Adults with daytime jobs",
+            "C": "Retired teachers",
+            "D": "Professional photographers"
+          },
+          "answer": "B",
+          "explanation": "'Our evening courses are designed for working adults' → người đi làm ban ngày."
+        },
+        {
+          "number": 162,
+          "content": "What is required for the Digital Photography course?",
+          "options": {
+            "A": "Students must have their own camera.",
+            "B": "Students must have taken another course first.",
+            "C": "Students must pay a separate lab fee.",
+            "D": "Students must attend on weekends."
+          },
+          "answer": "A",
+          "explanation": "'(students must bring their own camera)'."
+        },
+        {
+          "number": 163,
+          "content": "What is indicated about Lakeshore employees?",
+          "options": {
+            "A": "They teach the evening courses.",
+            "B": "They must register in Harper Hall.",
+            "C": "They receive a 10 percent discount.",
+            "D": "They may take one course for free each term."
+          },
+          "answer": "D",
+          "explanation": "'Lakeshore employees and current degree students may enroll in one evening course per term free of charge.' (C) là ưu đãi đăng ký sớm cho mọi học viên – bẫy."
+        }
+      ]
+    },
+    {
+      "part": 7,
+      "passage": "Sofia Reyes [10:02 A.M.]\nHi, team. The printer just told me the brochures for the Denver trade show won't be ready until Tuesday evening.\n\nDaniel Kim [10:04 A.M.]\nThat's cutting it close. Our booth opens at 9:00 A.M. on Wednesday.\n\nSofia Reyes [10:05 A.M.]\nAnd Mei, you're flying out Tuesday afternoon, right? So you can't take them with you.\n\nMei Tanaka [10:07 A.M.]\nRight. But I could print a small batch at a copy shop in Denver if someone sends me the file.\n\nDaniel Kim [10:08 A.M.]\nGood idea. I'll e-mail you the final version now. 200 copies should be enough for the first morning.\n\nSofia Reyes [10:10 A.M.]\nThen I'll ask the printer to ship the rest overnight to the convention center so they arrive by Wednesday noon.\n\nMei Tanaka [10:11 A.M.]\nPerfect. I'll keep the receipt from the copy shop so I can get reimbursed.",
+      "questions": [
+        {
+          "number": 164,
+          "content": "What problem does Ms. Reyes mention?",
+          "options": {
+            "A": "A flight has been canceled.",
+            "B": "A trade show booth is too small.",
+            "C": "Some brochures will not be ready in time.",
+            "D": "A file contains several errors."
+          },
+          "answer": "C",
+          "explanation": "Tờ rơi phải tối thứ Ba mới in xong, trong khi Mei bay chiều thứ Ba và gian hàng mở 9 giờ sáng thứ Tư → không kịp mang theo."
+        },
+        {
+          "number": 165,
+          "content": "At 10:04 A.M., what does Mr. Kim most likely mean when he writes, \"That's cutting it close\"?",
+          "options": {
+            "A": "The brochures are too expensive.",
+            "B": "There is very little time before the event.",
+            "C": "The booth is close to the entrance.",
+            "D": "The brochure design should be shortened."
+          },
+          "answer": "B",
+          "explanation": "'cut it close' = sát giờ, gần như không kịp. Anh nói thêm gian hàng mở lúc 9 giờ sáng thứ Tư → thời gian quá gấp."
+        },
+        {
+          "number": 166,
+          "content": "What will Mr. Kim most likely do next?",
+          "options": {
+            "A": "E-mail a file to a colleague",
+            "B": "Call the printing company",
+            "C": "Book a flight to Denver",
+            "D": "Visit a copy shop"
+          },
+          "answer": "A",
+          "explanation": "'I'll e-mail you the final version now' – gửi file cho Mei Tanaka."
+        },
+        {
+          "number": 167,
+          "content": "What does Ms. Tanaka plan to do?",
+          "options": {
+            "A": "Ship some brochures overnight",
+            "B": "Change her flight",
+            "C": "Design a new brochure",
+            "D": "Save a receipt for reimbursement"
+          },
+          "answer": "D",
+          "explanation": "'I'll keep the receipt from the copy shop so I can get reimbursed.' (A) là việc của Sofia Reyes."
+        }
+      ]
+    },
+    {
+      "part": 7,
+      "passage": "Local Bakery Rises to National Attention\n\nPORTLAND (March 18) – When Hannah Cole opened Crumb & Crust in 2016, it was a tiny shop with two ovens and a single employee. Today, the bakery supplies bread to more than 40 restaurants and grocery stores across the region. – [1] –\n\nCole credits much of the bakery's success to its focus on locally grown grain. \"We buy our flour from three family farms within 100 miles of Portland,\" she said. \"Customers can taste the difference.\" – [2] –\n\nLast month, Crumb & Crust was named one of the country's top ten bakeries by Home Table magazine. – [3] – Since then, orders have increased so much that Cole has hired six more bakers and extended the shop's hours.\n\nCole is now planning to open a second location in nearby Salem this summer. The new shop will include a café area where customers can watch the bakers at work. – [4] – She also hopes to offer weekend baking classes for beginners.",
+      "questions": [
+        {
+          "number": 168,
+          "content": "What is the article mainly about?",
+          "options": {
+            "A": "A farmers' market",
+            "B": "A cooking magazine",
+            "C": "The growth of a bakery",
+            "D": "A baking competition"
+          },
+          "answer": "C",
+          "explanation": "Bài viết kể quá trình Crumb & Crust phát triển từ tiệm nhỏ thành nhà cung cấp cho hơn 40 khách hàng và sắp mở chi nhánh."
+        },
+        {
+          "number": 169,
+          "content": "According to the article, what has contributed to the bakery's success?",
+          "options": {
+            "A": "Its low prices",
+            "B": "Its use of ingredients from nearby farms",
+            "C": "Its 24-hour service",
+            "D": "Its large number of locations"
+          },
+          "answer": "B",
+          "explanation": "'Cole credits much of the bakery's success to its focus on locally grown grain… three family farms within 100 miles'."
+        },
+        {
+          "number": 170,
+          "content": "The word \"extended\" in paragraph 3, line 3, is closest in meaning to",
+          "options": {
+            "A": "lengthened",
+            "B": "offered",
+            "C": "stretched",
+            "D": "postponed"
+          },
+          "answer": "A",
+          "explanation": "'extended the shop's hours' = kéo dài giờ mở cửa → 'lengthened'. 'stretched' (kéo giãn vật lý) là bẫy nghĩa."
+        },
+        {
+          "number": 171,
+          "content": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong?\n\"The magazine's reviewers especially praised its sourdough bread.\"",
+          "options": {
+            "A": "[1]",
+            "B": "[2]",
+            "C": "[3]",
+            "D": "[4]"
+          },
+          "answer": "C",
+          "explanation": "'The magazine' cần đứng ngay sau câu nhắc tới tạp chí Home Table – tức vị trí [3]."
+        }
+      ]
+    },
+    {
+      "part": 7,
+      "passage": "Delgado Home Furnishings\n214 Carver Road, Austin, TX 78704\n\nJuly 21\n\nMs. Irene Walsh\n88 Birch Lane\nAustin, TX 78745\n\nDear Ms. Walsh,\n\nThank you for your recent purchase of the Carlton dining table from Delgado Home Furnishings. We are writing to let you know that the matching chairs you ordered are currently on back order. – [1] – Our supplier has informed us that they will be shipped to our warehouse by August 15.\n\nWe understand that you were hoping to have the complete set before your family gathering in early August. – [2] – As a gesture of appreciation for your patience, we would like to lend you four chairs from our showroom free of charge until your order arrives. – [3] – Our delivery team can bring them to your home any day next week.\n\nAlternatively, if you would prefer to cancel the chairs, we will refund the full amount to your credit card within five business days. – [4] – Please call our customer service team at 512-555-0148 to let us know which option you prefer.\n\nSincerely,\nMarco Delgado\nStore Manager",
+      "questions": [
+        {
+          "number": 172,
+          "content": "Why did Mr. Delgado write the letter?",
+          "options": {
+            "A": "To advertise a summer sale",
+            "B": "To confirm the delivery date of a table",
+            "C": "To apologize for a damaged item",
+            "D": "To explain that part of an order is delayed"
+          },
+          "answer": "D",
+          "explanation": "Bàn đã giao nhưng 'the matching chairs you ordered are currently on back order' – một phần đơn hàng (ghế) bị chậm."
+        },
+        {
+          "number": 173,
+          "content": "What is suggested about Ms. Walsh?",
+          "options": {
+            "A": "She works at a furniture store.",
+            "B": "She will host a family event soon.",
+            "C": "She has already received the chairs.",
+            "D": "She lives next to the store's warehouse."
+          },
+          "answer": "B",
+          "explanation": "'…before your family gathering in early August' → bà sắp tổ chức buổi họp mặt gia đình."
+        },
+        {
+          "number": 174,
+          "content": "What does Mr. Delgado offer to do?",
+          "options": {
+            "A": "Provide some chairs temporarily",
+            "B": "Give a discount on the table",
+            "C": "Repair the dining table",
+            "D": "Deliver the table earlier"
+          },
+          "answer": "A",
+          "explanation": "'…lend you four chairs from our showroom free of charge until your order arrives' → cho mượn ghế tạm thời."
+        },
+        {
+          "number": 175,
+          "content": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong?\n\"They are the same model and color as the ones you ordered.\"",
+          "options": {
+            "A": "[1]",
+            "B": "[2]",
+            "C": "[3]",
+            "D": "[4]"
+          },
+          "answer": "C",
+          "explanation": "'They' chỉ bốn chiếc ghế trưng bày vừa được đề nghị cho mượn → đặt ở [3], ngay sau câu đó."
+        }
+      ]
+    },
+    {
+      "part": 7,
+      "passage": "HARBORVIEW HOTEL – NOW HIRING: EVENTS COORDINATOR\n\nHarborview Hotel, a 300-room waterfront hotel in Seaport City, is seeking a full-time events coordinator to plan and manage weddings, conferences, and corporate banquets.\n\nResponsibilities:\n• Meet with clients to plan event details and budgets\n• Coordinate with our catering, audiovisual, and housekeeping teams\n• Oversee events on-site, including some evenings and weekends\n\nRequirements:\n• At least three years of experience in event planning\n• Excellent communication skills; knowledge of Spanish is a plus\n• Ability to use online booking software\n\nTo apply, send a résumé and cover letter to Ms. Grace Ho, Human Resources Manager, at careers@harborviewhotel.com by June 30. Interviews will take place during the second week of July.\n\n━━━━━━━━━━━━━━━━━━━━\n\nTo: careers@harborviewhotel.com\nFrom: Tomás Ortega\nDate: June 24\nSubject: Events Coordinator position\nAttachment: Ortega_resume.pdf\n\nDear Ms. Ho,\n\nI am writing to apply for the events coordinator position advertised on your Web site. For the past five years, I have worked at the Linden Conference Center, where I have organized more than 150 events, ranging from small board meetings to a three-day medical convention for 800 guests.\n\nIn addition to my planning experience, I grew up in Mexico City and speak Spanish fluently, which I believe would help me communicate with your many international guests. I am also comfortable using several booking systems, including EventPro, which I understand your hotel uses.\n\nI will be traveling from July 8 to July 12 to attend a family wedding, but I would be happy to interview by video call during that time or in person at any time the following week.\n\nThank you for your consideration.\n\nSincerely,\nTomás Ortega",
+      "questions": [
+        {
+          "number": 176,
+          "content": "What is NOT listed as a responsibility of the events coordinator?",
+          "options": {
+            "A": "Meeting with clients",
+            "B": "Working with the catering team",
+            "C": "Supervising events in person",
+            "D": "Hiring new hotel staff"
+          },
+          "answer": "D",
+          "explanation": "Câu hỏi NOT: (A) 'Meet with clients', (B) 'Coordinate with our catering… teams', (C) 'Oversee events on-site' đều có trong phần Responsibilities; tuyển nhân viên không được nhắc tới."
+        },
+        {
+          "number": 177,
+          "content": "In the advertisement, the word \"plus\" in the list of requirements is closest in meaning to",
+          "options": {
+            "A": "requirement",
+            "B": "advantage",
+            "C": "total",
+            "D": "surplus"
+          },
+          "answer": "B",
+          "explanation": "'knowledge of Spanish is a plus' = biết tiếng Tây Ban Nha là một lợi thế (không bắt buộc) → 'advantage'."
+        },
+        {
+          "number": 178,
+          "content": "What is suggested about Mr. Ortega?",
+          "options": {
+            "A": "He has more experience than the position requires.",
+            "B": "He currently works at a hotel.",
+            "C": "He has worked as a planner in Mexico City.",
+            "D": "He submitted his application after the deadline."
+          },
+          "answer": "A",
+          "explanation": "Kết hợp hai đoạn: yêu cầu tối thiểu 3 năm, anh có 5 năm kinh nghiệm. (B) anh làm ở trung tâm hội nghị; (C) anh chỉ lớn lên ở Mexico City; (D) sai – gửi ngày 24/6, hạn 30/6."
+        },
+        {
+          "number": 179,
+          "content": "What is indicated about Harborview Hotel?",
+          "options": {
+            "A": "It opened recently.",
+            "B": "It uses a booking system that Mr. Ortega knows.",
+            "C": "It has 150 guest rooms.",
+            "D": "It is located next to a convention center."
+          },
+          "answer": "B",
+          "explanation": "E-mail: '…including EventPro, which I understand your hotel uses' → khách sạn dùng hệ thống anh đã thành thạo. (C) sai – khách sạn có 300 phòng; 150 là số sự kiện anh đã tổ chức."
+        },
+        {
+          "number": 180,
+          "content": "Why might Mr. Ortega be unable to attend an in-person interview?",
+          "options": {
+            "A": "He lives in another country.",
+            "B": "He has a conflict at his current job.",
+            "C": "He will be traveling when interviews are held.",
+            "D": "He does not have transportation."
+          },
+          "answer": "C",
+          "explanation": "Quảng cáo: phỏng vấn 'during the second week of July'; e-mail: anh đi xa 'from July 8 to July 12' (đúng tuần thứ hai của tháng 7) → câu hỏi kết hợp hai đoạn."
+        }
+      ]
+    },
+    {
+      "part": 7,
+      "passage": "PALMETTO CATERING – ORDER CONFIRMATION\n\nOrder number: 5582\nCustomer: Brenda Walsh, Ferris Engineering\nEvent: Quarterly staff meeting\nDate and time: Thursday, October 16, 12:00 P.M.\nDelivery address: 700 Grant Street, 3rd Floor\nNumber of guests: 40\n\nItem  •  Quantity  •  Price\nSandwich platter (assorted)  •  4  •  $280.00\nGarden salad bowl  •  2  •  $70.00\nFruit tray  •  2  •  $60.00\nBottled water  •  40  •  $40.00\nDelivery  •  1  •  $20.00\nTOTAL: $470.00\n\nChanges must be made at least 48 hours before the event. Orders over $500 receive free delivery.\n\n━━━━━━━━━━━━━━━━━━━━\n\nTo: orders@palmettocatering.com\nFrom: Brenda Walsh\nDate: October 13\nSubject: Order 5582\n\nHello,\n\nI'd like to make two changes to our order for Thursday's meeting. First, ten more people will be attending, so please add one more sandwich platter. Second, several of our staff members don't eat fruit, so could you replace one of the fruit trays with a third garden salad bowl?\n\nAlso, please note that our reception desk has moved. The delivery driver should now go to the 5th floor instead of the 3rd floor.\n\nPlease send me an updated confirmation. Thank you!\n\nBrenda Walsh\nOffice Manager, Ferris Engineering",
+      "questions": [
+        {
+          "number": 181,
+          "content": "What type of event is being catered?",
+          "options": {
+            "A": "A retirement party",
+            "B": "A client lunch",
+            "C": "A regular company meeting",
+            "D": "A product launch"
+          },
+          "answer": "C",
+          "explanation": "'Event: Quarterly staff meeting' → cuộc họp nhân viên định kỳ hằng quý."
+        },
+        {
+          "number": 182,
+          "content": "According to the e-mail, how many people will attend the event?",
+          "options": {
+            "A": "10",
+            "B": "40",
+            "C": "48",
+            "D": "50"
+          },
+          "answer": "D",
+          "explanation": "Đơn ban đầu 40 khách; e-mail: 'ten more people will be attending' → 50 người."
+        },
+        {
+          "number": 183,
+          "content": "What does Ms. Walsh ask the company to replace?",
+          "options": {
+            "A": "A fruit tray",
+            "B": "A salad bowl",
+            "C": "A sandwich platter",
+            "D": "Some bottled water"
+          },
+          "answer": "A",
+          "explanation": "'…could you replace one of the fruit trays with a third garden salad bowl?'"
+        },
+        {
+          "number": 184,
+          "content": "What is suggested about the updated order?",
+          "options": {
+            "A": "It will be delivered on Friday.",
+            "B": "It will no longer include a delivery charge.",
+            "C": "It will include more bottled water.",
+            "D": "It must be paid for in cash."
+          },
+          "answer": "B",
+          "explanation": "Tính lại: 5 khay sandwich $350 + 3 salad $105 + 1 khay trái cây $30 + nước $40 = $525 > $500 → được miễn phí giao hàng ('Orders over $500 receive free delivery')."
+        },
+        {
+          "number": 185,
+          "content": "What is indicated about Ferris Engineering?",
+          "options": {
+            "A": "It recently hired ten employees.",
+            "B": "It has moved to a new building.",
+            "C": "It orders from Palmetto Catering every month.",
+            "D": "Its reception desk is now on a different floor."
+          },
+          "answer": "D",
+          "explanation": "'Our reception desk has moved… go to the 5th floor instead of the 3rd floor.' (A) bẫy – 10 người thêm là người dự họp, không phải nhân viên mới; (B) vẫn cùng địa chỉ."
+        }
+      ]
+    },
+    {
+      "part": 7,
+      "passage": "BLUE RIDGE CABINS\nMountain getaways in Asheville County\n\nCabin  •  Sleeps  •  Features  •  Nightly rate\nPine  •  2  •  Fireplace, mountain view  •  $140\nCedar  •  4  •  Fireplace, hot tub  •  $210\nOak  •  6  •  Hot tub, game room  •  $260\nWillow  •  8  •  Hot tub, lake access  •  $320\n\n• Minimum stay of two nights on weekends.\n• Stays of five nights or longer receive a 15% discount.\n• Pets are allowed in the Pine and Oak cabins only ($25 cleaning fee).\n\nBook online or call 828-555-0170.\n\n━━━━━━━━━━━━━━━━━━━━\n\nTo: reservations@blueridgecabins.com\nFrom: Karen Liu\nDate: February 2\nSubject: Reservation request\n\nHello,\n\nMy family is planning a trip to Asheville County from March 14 to March 19. There will be six of us: my husband and me, our three children, and my mother. We would like a cabin with a hot tub, and we will be bringing our dog, Max.\n\nCould you let me know whether a suitable cabin is available for those dates? Also, is there a grocery store nearby? We plan to cook most of our meals.\n\nThank you,\nKaren Liu\n\n━━━━━━━━━━━━━━━━━━━━\n\n★★★★★  Posted March 22 by Karen L.\n\nWe had a wonderful five-night stay at Blue Ridge Cabins. The cabin was spotless, the hot tub was perfect after long days of hiking, and our kids loved the game room. The only issue was the Internet connection, which was quite slow. When we mentioned it, though, the staff kindly lent us a portable Wi-Fi device. The grocery store the manager recommended, just ten minutes down the road, had everything we needed. We will definitely be back next year!",
+      "questions": [
+        {
+          "number": 186,
+          "content": "What is indicated about the Willow cabin?",
+          "options": {
+            "A": "It can accommodate up to eight people.",
+            "B": "It is the least expensive cabin.",
+            "C": "It allows guests to bring pets.",
+            "D": "It has a fireplace."
+          },
+          "answer": "A",
+          "explanation": "Bảng giá: Willow – Sleeps 8. (B) sai – đắt nhất ($320); (C) chỉ Pine và Oak cho mang thú cưng; (D) Willow không có lò sưởi."
+        },
+        {
+          "number": 187,
+          "content": "Which cabin did Ms. Liu's family most likely stay in?",
+          "options": {
+            "A": "Pine",
+            "B": "Cedar",
+            "C": "Oak",
+            "D": "Willow"
+          },
+          "answer": "C",
+          "explanation": "Kết hợp ba đoạn: gia đình 6 người, cần bồn nước nóng, mang theo chó → chỉ Oak thoả mãn (ở được 6 người, có hot tub, cho phép thú cưng); bài đánh giá cũng nhắc 'game room' – tiện ích của Oak."
+        },
+        {
+          "number": 188,
+          "content": "What is suggested about Ms. Liu's stay?",
+          "options": {
+            "A": "It was shorter than planned.",
+            "B": "It qualified for a reduced rate.",
+            "C": "It included a guided hike.",
+            "D": "It was her first visit to the area."
+          },
+          "answer": "B",
+          "explanation": "Ở từ 14 đến 19/3 = 5 đêm ('five-night stay'); trang web: 'Stays of five nights or longer receive a 15% discount' → được giảm giá."
+        },
+        {
+          "number": 189,
+          "content": "In her e-mail, what does Ms. Liu ask about?",
+          "options": {
+            "A": "Hiking trails",
+            "B": "Transportation from the airport",
+            "C": "Pet-sitting services",
+            "D": "A place to buy groceries"
+          },
+          "answer": "D",
+          "explanation": "'Is there a grocery store nearby? We plan to cook most of our meals.'"
+        },
+        {
+          "number": 190,
+          "content": "According to the review, what did the staff do?",
+          "options": {
+            "A": "They provided a device to solve a problem.",
+            "B": "They cleaned the cabin every day.",
+            "C": "They recommended a restaurant.",
+            "D": "They offered a partial refund."
+          },
+          "answer": "A",
+          "explanation": "Mạng Internet chậm → 'the staff kindly lent us a portable Wi-Fi device'. (C) sai – quản lý gợi ý cửa hàng tạp hoá, không phải nhà hàng."
+        }
+      ]
+    },
+    {
+      "part": 7,
+      "passage": "GREENFIELD BUSINESS ASSOCIATION\nSpring Workshop Series for Small Business Owners\n\nAll workshops are held at the Greenfield Public Library, Room 2, from 6:00 to 8:00 P.M. Workshops are free for association members and $25 per session for nonmembers. Each session is limited to 30 participants, so please register in advance at gba.org/workshops.\n\nParticipants who attend all four workshops will receive a certificate of completion.\n\n━━━━━━━━━━━━━━━━━━━━\n\nSPRING WORKSHOP SCHEDULE\n\nApril 3  •  Managing Cash Flow  •  Denise Hart, Hart Accounting\nApril 10  •  Social Media Marketing  •  Paulo Reyes, Brightline Digital\nApril 17  •  Hiring Your First Employees  •  Amy Chen, Chen HR Consulting\nApril 24  •  Negotiating with Suppliers  •  Omar Said, Said Wholesale\n\nNote: The April 17 workshop will be held in Room 5 because of maintenance work in Room 2.\n\n━━━━━━━━━━━━━━━━━━━━\n\nTo: Paulo Reyes\nFrom: Linda Moore\nDate: April 11\nSubject: Last night's workshop\n\nDear Mr. Reyes,\n\nI attended your workshop last night and wanted to thank you. I opened my flower shop in January, and I have been struggling to attract customers online. Your tips about posting short videos were especially helpful, and I have already started filming one about arranging spring bouquets.\n\nI'm not a member of the association yet, but after attending two of the workshops, I'm planning to join. Unfortunately, I will be visiting suppliers in Portland the week of April 21, so I won't be able to attend the final workshop. Do you know if the slides will be posted online?\n\nBest regards,\nLinda Moore\nMoore Blooms",
+      "questions": [
+        {
+          "number": 191,
+          "content": "What is indicated about the workshops?",
+          "options": {
+            "A": "They take place on weekends.",
+            "B": "They are held at the association's office.",
+            "C": "They have a limit on the number of participants.",
+            "D": "They are free for all participants."
+          },
+          "answer": "C",
+          "explanation": "'Each session is limited to 30 participants.' (B) sai – tổ chức ở thư viện; (D) sai – người ngoài hội phải trả $25."
+        },
+        {
+          "number": 192,
+          "content": "When did Ms. Moore attend Mr. Reyes's workshop?",
+          "options": {
+            "A": "On April 3",
+            "B": "On April 10",
+            "C": "On April 17",
+            "D": "On April 24"
+          },
+          "answer": "B",
+          "explanation": "E-mail gửi ngày 11/4 nói về 'last night's workshop' của Paulo Reyes; lịch cho thấy buổi của ông là ngày 10/4."
+        },
+        {
+          "number": 193,
+          "content": "What is suggested about Ms. Moore?",
+          "options": {
+            "A": "She has paid fees to attend the workshops.",
+            "B": "She owns a clothing store.",
+            "C": "She works for a wholesale company.",
+            "D": "She is already a member of the association."
+          },
+          "answer": "A",
+          "explanation": "Cô viết 'I'm not a member of the association yet' và đã dự hai buổi; thông báo: người không phải hội viên trả $25/buổi → cô đã phải trả phí. (B) sai – cô mở cửa hàng hoa."
+        },
+        {
+          "number": 194,
+          "content": "Why will Ms. Moore miss the final workshop?",
+          "options": {
+            "A": "She has to work at her shop.",
+            "B": "She will be traveling for business.",
+            "C": "The room will be under maintenance.",
+            "D": "The session is already full."
+          },
+          "answer": "B",
+          "explanation": "'I will be visiting suppliers in Portland the week of April 21' – buổi cuối ngày 24/4 rơi vào tuần đó → cô đi công tác. (C) bẫy – việc bảo trì liên quan buổi 17/4."
+        },
+        {
+          "number": 195,
+          "content": "What is most likely true about Ms. Moore?",
+          "options": {
+            "A": "She will give a presentation at a future workshop.",
+            "B": "She will attend a workshop in Room 5 next week.",
+            "C": "She will film a video with Mr. Reyes.",
+            "D": "She will not receive a certificate of completion."
+          },
+          "answer": "D",
+          "explanation": "Chứng nhận chỉ cấp cho người dự đủ cả bốn buổi; cô sẽ vắng buổi cuối (24/4) → không đủ điều kiện nhận chứng nhận. (B) không được nêu chắc chắn."
+        }
+      ]
+    },
+    {
+      "part": 7,
+      "passage": "City Launches Business Recycling Program\n\nWESTPORT (January 8) – Beginning March 1, all businesses in Westport will be required to separate recyclable materials from their regular trash. The new rule applies to paper, cardboard, glass, and plastic bottles.\n\nTo help businesses prepare, the city will provide free recycling bins to any business that requests them before February 15. Businesses with more than 50 employees may request up to three bins; smaller businesses may request one.\n\n\"Businesses produce nearly 40 percent of the city's waste,\" said Mayor Helen Grant. \"This program will significantly reduce the amount of material sent to landfills.\"\n\nBusinesses that do not follow the new rule will first receive a warning. After March 31, repeat violations may result in fines.\n\n━━━━━━━━━━━━━━━━━━━━\n\nWESTPORT DEPARTMENT OF SANITATION\nRecycling Bin Request Form\n\nBusiness name: Harper & Stone Law Offices\nContact person: Dylan Harper\nAddress: 45 Ocean Avenue, Suite 300\nNumber of employees: 72\nNumber of bins requested: 3\nPreferred delivery date: February 20\nDate submitted: February 10\n\n━━━━━━━━━━━━━━━━━━━━\n\nTo: Dylan Harper\nFrom: Westport Department of Sanitation\nDate: February 12\nSubject: Your recycling bin request\n\nDear Mr. Harper,\n\nThank you for submitting your recycling bin request. Unfortunately, we are unable to deliver on the date you requested, as our trucks are fully booked that week. We can deliver your bins on February 24 or February 26 instead. Please reply to this e-mail with your preferred date.\n\nAlso, please note that bins must be placed at the curb for collection every Tuesday morning by 7:00 A.M.\n\nSincerely,\nWestport Department of Sanitation",
+      "questions": [
+        {
+          "number": 196,
+          "content": "What is the purpose of the article?",
+          "options": {
+            "A": "To report on a city election",
+            "B": "To announce a new rule for businesses",
+            "C": "To advertise a waste collection company",
+            "D": "To describe the expansion of a landfill"
+          },
+          "answer": "B",
+          "explanation": "'Beginning March 1, all businesses… will be required to separate recyclable materials' → thông báo quy định mới cho doanh nghiệp."
+        },
+        {
+          "number": 197,
+          "content": "According to the article, what will happen after March 31?",
+          "options": {
+            "A": "Bins will be collected twice a week.",
+            "B": "The program will be extended to homes.",
+            "C": "The mayor will review the program.",
+            "D": "Businesses that repeatedly break the rule may have to pay."
+          },
+          "answer": "D",
+          "explanation": "'After March 31, repeat violations may result in fines.' – vi phạm nhiều lần có thể bị phạt tiền."
+        },
+        {
+          "number": 198,
+          "content": "What is suggested about Harper & Stone Law Offices?",
+          "options": {
+            "A": "It qualifies for the maximum number of bins.",
+            "B": "It submitted its request after the deadline.",
+            "C": "It has exactly 50 employees.",
+            "D": "It already recycles glass bottles."
+          },
+          "answer": "A",
+          "explanation": "Kết hợp bài báo và phiếu: công ty có 72 nhân viên (> 50) nên được xin tối đa 3 thùng – đúng số đã xin. (B) sai – nộp ngày 10/2, trước hạn 15/2."
+        },
+        {
+          "number": 199,
+          "content": "Why can the bins NOT be delivered on February 20?",
+          "options": {
+            "A": "The law office will be closed.",
+            "B": "The bins are out of stock.",
+            "C": "The delivery trucks are already scheduled.",
+            "D": "The address on the form is incorrect."
+          },
+          "answer": "C",
+          "explanation": "'…as our trucks are fully booked that week' → xe giao hàng đã kín lịch."
+        },
+        {
+          "number": 200,
+          "content": "What is Mr. Harper asked to do?",
+          "options": {
+            "A": "Pay a delivery fee",
+            "B": "Submit a new request form",
+            "C": "Reply with a preferred delivery date",
+            "D": "Place the bins at the curb on Mondays"
+          },
+          "answer": "C",
+          "explanation": "'Please reply to this e-mail with your preferred date' (24 hoặc 26/2). (D) sai – thùng phải đặt ở lề đường vào sáng thứ Ba."
+        }
+      ]
+    }
+  ]
+}

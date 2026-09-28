@@ -1,0 +1,211 @@
+{
+  "title": "Listening Practice Test 10 – Technology & IT Support",
+  "description": "Đề luyện Listening theo cấu trúc đề thi TOEIC (IIG Việt Nam), rút gọn 26 câu: Part 1 (2) · Part 2 (6) · Part 3 (9, có câu hỏi hàm ý và biểu đồ) · Part 4 (9). Chủ đề: công nghệ, phần mềm, hỗ trợ kỹ thuật.",
+  "skill": "Listening",
+  "durationMinutes": 15,
+  "publish": true,
+  "groups": [
+    {
+      "part": 1, "audio": "audio/q01.mp3", "image": "images/q01.png",
+      "scene": { "bg": "office", "items": [
+        "🧑🏻‍🔧 300 346 180",
+        "#shadow 400 505 470", "#rect 170 340 460 22 #9ca3af 4", "#rect 188 362 16 142 #6b7280", "#rect 596 362 16 142 #6b7280",
+        "🖨️ 490 346 130", "🔧 390 346 50", "🪛 420 346 40"
+      ] },
+      "transcript": "(A) A man is typing on a keyboard.\n(B) A technician is working on a printer.\n(C) A printer is being carried out of an office.\n(D) Some papers have been stacked on the floor.",
+      "questions": [
+        { "number": 1,
+          "options": { "A": "A man is typing on a keyboard.", "B": "A technician is working on a printer.", "C": "A printer is being carried out of an office.", "D": "Some papers have been stacked on the floor." },
+          "answer": "B",
+          "explanation": "Kỹ thuật viên đứng cạnh máy in với cờ-lê, tua-vít → đang sửa máy in (B). Không có bàn phím (A); máy in nằm trên bàn, không ai khiêng (C); sàn không có giấy (D)." }
+      ]
+    },
+    {
+      "part": 1, "audio": "audio/q02.mp3", "image": "images/q02.png",
+      "scene": { "bg": "office", "items": [
+        "#shadow 400 505 700", "#rect 60 340 680 22 #8a5a3b 4", "#rect 80 362 16 142 #6f4630", "#rect 704 362 16 142 #6f4630",
+        "🖥️ 170 346 120", "🖥️ 330 346 120", "🖥️ 490 346 120", "🖥️ 650 346 120"
+      ] },
+      "transcript": "(A) A technician is installing some cables.\n(B) Some chairs have been pushed under a desk.\n(C) The screens are being wiped.\n(D) Some monitors have been placed side by side.",
+      "questions": [
+        { "number": 2,
+          "options": { "A": "A technician is installing some cables.", "B": "Some chairs have been pushed under a desk.", "C": "The screens are being wiped.", "D": "Some monitors have been placed side by side." },
+          "answer": "D",
+          "explanation": "Bốn màn hình được đặt cạnh nhau trên một bàn dài → (D) 'side by side'. Không có người (A), (C); không có ghế (B)." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q07.mp3",
+      "transcript": "Did you save the file before the computer shut down?\n(A) Yes, luckily.\n(B) Shut the door, please.\n(C) A file cabinet.",
+      "questions": [
+        { "number": 7,
+          "options": { "A": "Yes, luckily.", "B": "Shut the door, please.", "C": "A file cabinet." },
+          "answer": "A",
+          "explanation": "Câu hỏi Yes/No → 'Có, may mà kịp'. (B) lặp 'shut'; (C) lặp 'file' (tủ hồ sơ)." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q08.mp3",
+      "transcript": "How do I connect to the office Wi-Fi?\n(A) About ten minutes.\n(B) It's a direct flight.\n(C) The password is on the wall by the printer.",
+      "questions": [
+        { "number": 8,
+          "options": { "A": "About ten minutes.", "B": "It's a direct flight.", "C": "The password is on the wall by the printer." },
+          "answer": "C",
+          "explanation": "How do I…? hỏi cách làm → chỉ chỗ có mật khẩu. (A) trả lời How long; (B) liên tưởng 'connect' – 'connecting/direct flight'." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q09.mp3",
+      "transcript": "When will the new software be installed?\n(A) The software engineer.\n(B) The IT team is doing it tonight.\n(C) On all the laptops.",
+      "questions": [
+        { "number": 9,
+          "options": { "A": "The software engineer.", "B": "The IT team is doing it tonight.", "C": "On all the laptops." },
+          "answer": "B",
+          "explanation": "When → 'tối nay'. (A) lặp 'software', trả lời Who; (C) trả lời Where." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q10.mp3",
+      "transcript": "Why is my laptop running so slowly?\n(A) I usually run in the park.\n(B) Only a little.\n(C) It probably needs an update.",
+      "questions": [
+        { "number": 10,
+          "options": { "A": "I usually run in the park.", "B": "Only a little.", "C": "It probably needs an update." },
+          "answer": "C",
+          "explanation": "Why → lý do: có lẽ cần cập nhật. (A) 'run' với nghĩa chạy bộ; (B) không trả lời lý do." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q11.mp3",
+      "transcript": "Can you help me set up the video conference?\n(A) Sure. What time does it start?\n(B) I watched that video.\n(C) The conference room is on the left.",
+      "questions": [
+        { "number": 11,
+          "options": { "A": "Sure. What time does it start?", "B": "I watched that video.", "C": "The conference room is on the left." },
+          "answer": "A",
+          "explanation": "Lời nhờ giúp → đồng ý và hỏi thêm chi tiết. (B) lặp 'video'; (C) lặp 'conference'." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q12.mp3",
+      "transcript": "Would you like a desktop or a laptop computer?\n(A) On top of the desk.\n(B) A laptop, since I travel a lot.\n(C) Yes, I'd like that.",
+      "questions": [
+        { "number": 12,
+          "options": { "A": "On top of the desk.", "B": "A laptop, since I travel a lot.", "C": "Yes, I'd like that." },
+          "answer": "B",
+          "explanation": "Câu hỏi lựa chọn → chọn laptop kèm lý do. (A) bẫy âm 'desktop' – 'top of the desk'; (C) Yes không hợp câu hỏi lựa chọn." }
+      ]
+    },
+    {
+      "part": 3, "audio": "audio/q32-34.mp3",
+      "transcript": "W: Hi, this is Mei from accounting. I can't log in to the company's expense system. It says my password has expired.\nM: That's normal. Passwords expire every ninety days. I can reset it for you. Can you tell me your employee number?\nW: Sure, it's four five eight one.\nM: Thanks. I've sent a temporary password to your mobile phone. Use it to log in, and the system will ask you to create a new one.\nW: Great. Oh, one more thing. My monitor keeps flickering.\nM: I'll send a technician to your desk this afternoon to take a look.",
+      "questions": [
+        { "number": 32, "content": "What problem does the woman have?",
+          "options": { "A": "She cannot access a system.", "B": "She lost her mobile phone.", "C": "She forgot her employee number.", "D": "Her computer will not turn on." },
+          "answer": "A",
+          "explanation": "'I can't log in to the company's expense system' → không truy cập được hệ thống." },
+        { "number": 33, "content": "What has the man sent to the woman's phone?",
+          "options": { "A": "A download link", "B": "A user manual", "C": "A temporary password", "D": "A meeting invitation" },
+          "answer": "C",
+          "explanation": "'I've sent a temporary password to your mobile phone.'" },
+        { "number": 34, "content": "What will happen this afternoon?",
+          "options": { "A": "A new monitor will be delivered.", "B": "A technician will check some equipment.", "C": "The system will be shut down.", "D": "A training session will be held." },
+          "answer": "B",
+          "explanation": "'I'll send a technician to your desk this afternoon to take a look' (xem màn hình bị nháy)." }
+      ]
+    },
+    {
+      "part": 3, "audio": "audio/q35-37.mp3",
+      "transcript": "M: Hi, Anna. How's the switch to the new customer database going?\nW: Mostly fine. All the old records have been transferred. But the sales team says the search function is confusing.\nM: Hmm. The vendor offers a free online training course. It's only forty-five minutes.\nW: Really? I thought we'd have to pay for training.\nM: No, it's included in our contract. I'll send you the link, and you can share it with the sales team.\nW: Thanks. I'll ask them to complete it by the end of the week.",
+      "questions": [
+        { "number": 35, "content": "What are the speakers mainly discussing?",
+          "options": { "A": "A sales report", "B": "A hiring plan", "C": "A marketing campaign", "D": "A new software system" },
+          "answer": "D",
+          "explanation": "Họ nói về việc chuyển sang cơ sở dữ liệu khách hàng mới (new customer database)." },
+        { "number": 36, "content": "Why does the man say, “It's only forty-five minutes”?",
+          "options": { "A": "To suggest that the training will not take much time", "B": "To complain that a course is too short", "C": "To correct a schedule", "D": "To explain a delay" },
+          "answer": "A",
+          "explanation": "Câu hỏi hàm ý: khoá học chỉ 45 phút → không tốn nhiều thời gian, dễ sắp xếp cho đội bán hàng." },
+        { "number": 37, "content": "What will the woman ask the sales team to do?",
+          "options": { "A": "Update customer records", "B": "Contact a vendor", "C": "Take an online course", "D": "Submit a report" },
+          "answer": "C",
+          "explanation": "'I'll ask them to complete it (the online training course) by the end of the week.'" }
+      ]
+    },
+    {
+      "part": 3, "audio": "audio/q38-40.mp3", "image": "images/q38-40.png", "intro": "conversation and table",
+      "graphic": { "type": "table", "title": "CloudDesk Subscription Plans",
+        "head": ["Plan", "Users", "Monthly Price"],
+        "rows": [["Basic", "Up to 5", "$30"], ["Team", "Up to 20", "$90"], ["Business", "Up to 50", "$200"], ["Enterprise", "Unlimited", "$450"]] },
+      "transcript": "W: Our office is growing fast. I think we need to upgrade our CloudDesk plan.\nM: How many employees will be using it?\nW: Right now, eighteen, but we're hiring twelve more people next month.\nM: Then we'll need a plan for at least thirty users.\nW: Right. Let's choose the least expensive plan that covers that.\nM: I'll upgrade it today. By the way, if we pay for a full year in advance, we get two months free.\nW: Let's do that. I'll get approval from the finance director.",
+      "questions": [
+        { "number": 38, "content": "Why does the woman want to change plans?",
+          "options": { "A": "The software has been slow.", "B": "Her company is hiring more staff.", "C": "The current plan is too expensive.", "D": "The storage space is full." },
+          "answer": "B",
+          "explanation": "'Our office is growing fast… we're hiring twelve more people next month.'" },
+        { "number": 39, "content": "Look at the graphic. Which plan will the speakers most likely choose?",
+          "options": { "A": "Basic", "B": "Team", "C": "Business", "D": "Enterprise" },
+          "answer": "C",
+          "explanation": "Cần ít nhất 30 người dùng (18 + 12) và chọn gói rẻ nhất đáp ứng được → Business (tối đa 50 người). Team chỉ tới 20 người." },
+        { "number": 40, "content": "What will the woman do?",
+          "options": { "A": "Interview some candidates", "B": "Cancel a subscription", "C": "Contact a vendor", "D": "Get approval from a director" },
+          "answer": "D",
+          "explanation": "'I'll get approval from the finance director.'" }
+      ]
+    },
+    {
+      "part": 4, "audio": "audio/q71-73.mp3", "intro": "announcement", "voice": "M",
+      "transcript": "Attention, all staff. This is Ryan from the IT department. This Saturday, from eight a.m. to noon, we'll be upgrading the company's e-mail server. During that time, you won't be able to send or receive e-mails. If you need to contact clients urgently, please use your company phone. Also, before you leave on Friday, please save any open documents and restart your computer. This will allow important security updates to install over the weekend.",
+      "questions": [
+        { "number": 71, "content": "What will happen on Saturday?",
+          "options": { "A": "An office relocation", "B": "A training session", "C": "A security inspection", "D": "An upgrade to an e-mail system" },
+          "answer": "D",
+          "explanation": "'We'll be upgrading the company's e-mail server.'" },
+        { "number": 72, "content": "What are listeners told to use for urgent communication?",
+          "options": { "A": "Personal e-mail accounts", "B": "A messaging app", "C": "Company telephones", "D": "Text messages" },
+          "answer": "C",
+          "explanation": "'If you need to contact clients urgently, please use your company phone.'" },
+        { "number": 73, "content": "What should listeners do before leaving on Friday?",
+          "options": { "A": "Change their passwords", "B": "Unplug their monitors", "C": "Clean their desks", "D": "Restart their computers" },
+          "answer": "D",
+          "explanation": "'Before you leave on Friday, please save any open documents and restart your computer.'" }
+      ]
+    },
+    {
+      "part": 4, "audio": "audio/q74-76.mp3", "intro": "broadcast", "voice": "W",
+      "transcript": "Welcome back to Tech Today. I'm Olivia Grant. This week I tested the new Zenith X5 smartphone. The camera is excellent, especially in low light, and the screen is bright and sharp. The battery, however, lasted only about ten hours in my tests. Most phones in this price range last a full day. So if you're often away from a charger, you might want to consider other models. After the break, I'll answer questions from our listeners about home security cameras.",
+      "questions": [
+        { "number": 74, "content": "What is the main purpose of the broadcast?",
+          "options": { "A": "To announce a sale", "B": "To review a device", "C": "To explain a repair", "D": "To introduce a guest" },
+          "answer": "B",
+          "explanation": "Người dẫn đã dùng thử và nhận xét điện thoại Zenith X5 → đánh giá sản phẩm." },
+        { "number": 75, "content": "What does the speaker imply when she says, “Most phones in this price range last a full day”?",
+          "options": { "A": "The X5's battery life is disappointing.", "B": "The X5 is very expensive.", "C": "Batteries are improving every year.", "D": "Chargers are sold separately." },
+          "answer": "A",
+          "explanation": "Câu hỏi hàm ý: pin X5 chỉ khoảng 10 tiếng, trong khi điện thoại cùng tầm giá dùng được cả ngày → pin kém hơn mong đợi." },
+        { "number": 76, "content": "What will the speaker do after the break?",
+          "options": { "A": "Test another phone", "B": "Interview an engineer", "C": "Respond to listeners' questions", "D": "Announce a contest winner" },
+          "answer": "C",
+          "explanation": "'After the break, I'll answer questions from our listeners about home security cameras.'" }
+      ]
+    },
+    {
+      "part": 4, "audio": "audio/q77-79.mp3", "image": "images/q77-79.png", "intro": "excerpt from a meeting and chart", "voice": "M",
+      "graphic": { "type": "bars", "title": "Web Site Visits", "unit": "k",
+        "data": [["June", 12], ["July", 18], ["August", 25], ["September", 15]], "note": "In thousands" },
+      "transcript": "Let's look at our Web site traffic over the past four months. Visits grew steadily over the summer, and we had our best month when we launched our mobile app. However, traffic dropped the following month. Our analysis shows that many users had trouble with the new checkout page, and some left before completing their purchases. So our developers will simplify the checkout process next week. I'd also like the marketing team to send a discount code to customers who didn't complete their orders.",
+      "questions": [
+        { "number": 77, "content": "Look at the graphic. When was the mobile app launched?",
+          "options": { "A": "In June", "B": "In July", "C": "In August", "D": "In September" },
+          "answer": "C",
+          "explanation": "Tháng có lượt truy cập cao nhất là tháng ra mắt ứng dụng – theo biểu đồ là August (25k)." },
+        { "number": 78, "content": "According to the speaker, what problem did users experience?",
+          "options": { "A": "The Web site crashed.", "B": "A payment page was confusing.", "C": "Prices went up.", "D": "Deliveries were delayed." },
+          "answer": "B",
+          "explanation": "'Many users had trouble with the new checkout page' – checkout page = trang thanh toán." },
+        { "number": 79, "content": "What does the speaker ask the marketing team to do?",
+          "options": { "A": "Send discount codes", "B": "Redesign a page", "C": "Conduct a survey", "D": "Launch a new app" },
+          "answer": "A",
+          "explanation": "'I'd also like the marketing team to send a discount code to customers who didn't complete their orders.' (B) là việc của lập trình viên." }
+      ]
+    }
+  ]
+}

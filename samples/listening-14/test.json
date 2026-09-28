@@ -1,0 +1,216 @@
+{
+  "title": "Listening Practice Test 14 – Hotels & Hospitality",
+  "description": "Đề luyện Listening theo cấu trúc đề thi TOEIC (IIG Việt Nam), rút gọn 26 câu: Part 1 (2) · Part 2 (6) · Part 3 (9, có hội thoại 3 người, câu hỏi hàm ý và biểu đồ) · Part 4 (9, có sơ đồ). Chủ đề: khách sạn, đặt phòng, tổ chức sự kiện.",
+  "skill": "Listening",
+  "durationMinutes": 15,
+  "publish": true,
+  "groups": [
+    {
+      "part": 1, "audio": "audio/q01.mp3", "image": "images/q01.png",
+      "scene": { "bg": "lobby", "items": [
+        "#rect 480 80 240 52 #1e3a8a 6", "#text 504 90 28 #ffffff RECEPTION",
+        "#rect 420 300 380 24 #6d4c35 4", "#rect 430 324 370 180 #8a6a4f", "🛎️ 520 306 52",
+        "#shadow 200 490 260",
+        "#rect 90 250 10 230 #d4a017", "#rect 300 250 10 230 #d4a017", "#rect 90 250 220 10 #d4a017 5", "#rect 90 468 220 12 #d4a017 3",
+        "🧳 150 472 94", "🧳 250 472 94", "💼 200 388 70",
+        "#ellipse 94 474 24 24 #374151", "#ellipse 282 474 24 24 #374151",
+        "🪴 370 505 110"
+      ] },
+      "transcript": "(A) A guest is checking in at a front desk.\n(B) Some luggage has been placed on a cart.\n(C) A porter is pushing a cart through a lobby.\n(D) A bell is being rung.",
+      "questions": [
+        { "number": 1,
+          "options": { "A": "A guest is checking in at a front desk.", "B": "Some luggage has been placed on a cart.", "C": "A porter is pushing a cart through a lobby.", "D": "A bell is being rung." },
+          "answer": "B",
+          "explanation": "Hành lý đã được đặt lên xe đẩy → (B). Sảnh không có người nên (A), (C) sai; 'is being rung' cần có người đang bấm chuông (D)." }
+      ]
+    },
+    {
+      "part": 1, "audio": "audio/q02.mp3", "image": "images/q02.png",
+      "scene": { "bg": "office", "items": [
+        "🖼️ 540 250 110",
+        "#shadow 250 480 120", "#rect 200 390 100 90 #8a5a3b 4", "#rect 210 405 80 4 #6f4630", "⏰ 232 394 50", "🪴 276 394 46",
+        "#shadow 520 488 330", "🛏️ 520 490 300"
+      ] },
+      "transcript": "(A) A housekeeper is making a bed.\n(B) Some curtains are being opened.\n(C) Some towels have been folded on a bed.\n(D) A clock has been placed on a bedside table.",
+      "questions": [
+        { "number": 2,
+          "options": { "A": "A housekeeper is making a bed.", "B": "Some curtains are being opened.", "C": "Some towels have been folded on a bed.", "D": "A clock has been placed on a bedside table." },
+          "answer": "D",
+          "explanation": "Chiếc đồng hồ báo thức nằm trên tủ đầu giường → (D). Không có người (A), (B); trên giường không có khăn (C)." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q07.mp3",
+      "transcript": "Could I get a late checkout tomorrow?\n(A) I checked it out from the library.\n(B) Before eleven o'clock.\n(C) Let me see what's available.",
+      "questions": [
+        { "number": 7,
+          "options": { "A": "I checked it out from the library.", "B": "Before eleven o'clock.", "C": "Let me see what's available." },
+          "answer": "C",
+          "explanation": "Yêu cầu trả phòng muộn → 'Để tôi kiểm tra xem còn được không'. (A) 'check out' với nghĩa mượn sách; (B) chỉ là giờ, không trả lời yêu cầu." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q08.mp3",
+      "transcript": "Where's the hotel's fitness center?\n(A) On the second floor, next to the pool.\n(B) It fits perfectly.\n(C) From six a.m. to ten p.m.",
+      "questions": [
+        { "number": 8,
+          "options": { "A": "On the second floor, next to the pool.", "B": "It fits perfectly.", "C": "From six a.m. to ten p.m." },
+          "answer": "A",
+          "explanation": "Where → vị trí. (B) bẫy âm 'fitness' – 'fits'; (C) trả lời câu hỏi giờ mở cửa." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q09.mp3",
+      "transcript": "Does the room rate include breakfast?\n(A) At a very good rate.\n(B) Yes, it's served from seven to ten.\n(C) I'll include it in the report.",
+      "questions": [
+        { "number": 9,
+          "options": { "A": "At a very good rate.", "B": "Yes, it's served from seven to ten.", "C": "I'll include it in the report." },
+          "answer": "B",
+          "explanation": "Câu hỏi Yes/No → 'Có, phục vụ từ 7 đến 10 giờ'. (A) lặp 'rate'; (C) lặp 'include'." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q10.mp3",
+      "transcript": "How did you find the conference hotel?\n(A) It was very comfortable.\n(B) I found it on the desk.\n(C) The conference ended early.",
+      "questions": [
+        { "number": 10,
+          "options": { "A": "It was very comfortable.", "B": "I found it on the desk.", "C": "The conference ended early." },
+          "answer": "A",
+          "explanation": "'How did you find…?' ở đây hỏi cảm nhận (bạn thấy khách sạn thế nào) → 'Rất thoải mái'. (B) hiểu 'find' là tìm thấy – bẫy; (C) lặp 'conference'." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q11.mp3",
+      "transcript": "Would you like a room with a city view or an ocean view?\n(A) Yes, it's a great view.\n(B) The city is very large.\n(C) The ocean, please.",
+      "questions": [
+        { "number": 11,
+          "options": { "A": "Yes, it's a great view.", "B": "The city is very large.", "C": "The ocean, please." },
+          "answer": "C",
+          "explanation": "Câu hỏi lựa chọn → chọn hướng biển. (A) Yes không hợp và lặp 'view'; (B) lặp 'city'." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q12.mp3",
+      "transcript": "Isn't the restaurant closed for renovations?\n(A) Close the window, please.\n(B) It reopened last week.\n(C) Near the lobby.",
+      "questions": [
+        { "number": 12,
+          "options": { "A": "Close the window, please.", "B": "It reopened last week.", "C": "Near the lobby." },
+          "answer": "B",
+          "explanation": "Câu hỏi phủ định xác nhận nhà hàng đóng cửa → 'Nó mở lại tuần trước rồi'. (A) bẫy 'closed' – 'close'; (C) trả lời Where." }
+      ]
+    },
+    {
+      "part": 3, "audio": "audio/q32-34.mp3",
+      "transcript": "W: Good afternoon. I have a reservation under the name Emma Clarke.\nM: Welcome, Ms. Clarke. I'm afraid your room isn't ready yet. Check-in time is three o'clock, and it's only one thirty.\nW: Oh. I have a business meeting at two, and I was hoping to change clothes first.\nM: I understand. You're welcome to use the changing room at our fitness center on the second floor. And we can keep your suitcase here at the front desk.\nW: That would be very helpful. Thank you.\nM: I'll also have your luggage sent up to your room as soon as it's ready.",
+      "questions": [
+        { "number": 32, "content": "Where does the man most likely work?",
+          "options": { "A": "At an airport", "B": "At a gym", "C": "At a hotel", "D": "At a clothing store" },
+          "answer": "C",
+          "explanation": "'Reservation', 'check-in time', 'front desk' → khách sạn." },
+        { "number": 33, "content": "Why is the woman concerned?",
+          "options": { "A": "She has an appointment soon.", "B": "Her reservation has been lost.", "C": "Her luggage was damaged.", "D": "Her room is too small." },
+          "answer": "A",
+          "explanation": "'I have a business meeting at two, and I was hoping to change clothes first.'" },
+        { "number": 34, "content": "What does the man offer to do?",
+          "options": { "A": "Upgrade her room", "B": "Look after her suitcase", "C": "Call a taxi", "D": "Offer a discount" },
+          "answer": "B",
+          "explanation": "'We can keep your suitcase here at the front desk.'" }
+      ]
+    },
+    {
+      "part": 3, "audio": "audio/q35-37.mp3", "intro": "conversation with three speakers",
+      "transcript": "W: Good morning, Ahmed and Luis. As you know, a group of sixty guests from the Global Pharma conference arrives this afternoon.\nM1: Yes. I've prepared all the key cards and welcome packets.\nM2: But the elevator on the east side is still out of order.\nW: Right. The technician won't be here until tomorrow.\nM1: Then we should give the conference guests rooms on the lower floors of the east wing, or rooms in the west wing.\nW: Good idea. Luis, could you update the room assignments?\nM2: Sure. I'll do it right away.",
+      "questions": [
+        { "number": 35, "content": "What will happen this afternoon?",
+          "options": { "A": "A large group will arrive.", "B": "An elevator will be repaired.", "C": "A conference will end.", "D": "A new manager will start work." },
+          "answer": "A",
+          "explanation": "'A group of sixty guests… arrives this afternoon.' (B) sai: kỹ thuật viên ngày mai mới tới." },
+        { "number": 36, "content": "Why does one of the men say, “the elevator on the east side is still out of order”?",
+          "options": { "A": "To explain why he was late", "B": "To request a new technician", "C": "To suggest canceling a reservation", "D": "To point out a problem for arriving guests" },
+          "answer": "D",
+          "explanation": "Câu hỏi hàm ý: đoàn 60 khách sắp tới mà thang máy phía đông còn hỏng → sẽ gây bất tiện cho khách. Cả nhóm sau đó điều chỉnh việc xếp phòng." },
+        { "number": 37, "content": "What is Luis asked to do?",
+          "options": { "A": "Prepare some key cards", "B": "Contact a technician", "C": "Revise some room assignments", "D": "Greet some guests" },
+          "answer": "C",
+          "explanation": "'Luis, could you update the room assignments?' (A) đã được người kia làm xong." }
+      ]
+    },
+    {
+      "part": 3, "audio": "audio/q38-40.mp3", "image": "images/q38-40.png", "intro": "conversation and price list",
+      "graphic": { "type": "table", "title": "Harbor View Hotel – Nightly Rates",
+        "head": ["Room Type", "Sun.–Thu.", "Fri.–Sat."],
+        "rows": [["Standard", "$120", "$150"], ["Deluxe", "$160", "$190"], ["Junior Suite", "$220", "$260"], ["Family Suite", "$280", "$320"]] },
+      "transcript": "M: Hello, I'd like to book a room for this Friday and Saturday night.\nW: Certainly. How many guests?\nM: Just my wife and me. We'd like a room with a balcony. Do any of your rooms have one?\nW: Our deluxe rooms and suites do. The deluxe room would be the most economical choice.\nM: Great, I'll take that. Is parking included?\nW: Parking is fifteen dollars a night, but it's free if you book through our Web site.",
+      "questions": [
+        { "number": 38, "content": "What does the man want in a room?",
+          "options": { "A": "A kitchen", "B": "A balcony", "C": "Two beds", "D": "A bathtub" },
+          "answer": "B",
+          "explanation": "'We'd like a room with a balcony.'" },
+        { "number": 39, "content": "Look at the graphic. How much will the man most likely pay per night?",
+          "options": { "A": "$150", "B": "$160", "C": "$190", "D": "$220" },
+          "answer": "C",
+          "explanation": "Phòng Deluxe, đặt tối thứ Sáu và thứ Bảy → giá cột Fri.–Sat. là $190. (B) $160 là giá ngày thường – bẫy." },
+        { "number": 40, "content": "How can the man get free parking?",
+          "options": { "A": "By booking online", "B": "By staying three nights", "C": "By joining a loyalty program", "D": "By paying in cash" },
+          "answer": "A",
+          "explanation": "'It's free if you book through our Web site.'" }
+      ]
+    },
+    {
+      "part": 4, "audio": "audio/q71-73.mp3", "intro": "announcement", "voice": "W",
+      "transcript": "Good evening, guests, and welcome to the Grand Palms Resort. Tonight at seven, we're hosting a welcome dinner on the beach terrace, featuring local seafood and live music. The dinner is free for all guests staying five nights or more. Also, please note that the main swimming pool will be closed tomorrow morning for cleaning. The rooftop pool will remain open. For tours of the island, please visit the activities desk next to the gift shop.",
+      "questions": [
+        { "number": 71, "content": "Where is the announcement being made?",
+          "options": { "A": "At a restaurant", "B": "On a cruise ship", "C": "At a resort", "D": "At a convention center" },
+          "answer": "C",
+          "explanation": "'Welcome to the Grand Palms Resort.'" },
+        { "number": 72, "content": "Who can attend the dinner for free?",
+          "options": { "A": "Children under twelve", "B": "Guests staying for a longer period", "C": "Loyalty program members", "D": "Guests who book a tour" },
+          "answer": "B",
+          "explanation": "'The dinner is free for all guests staying five nights or more' → khách lưu trú dài ngày." },
+        { "number": 73, "content": "What will happen tomorrow morning?",
+          "options": { "A": "A tour will leave from the hotel.", "B": "The gift shop will open late.", "C": "A new menu will be introduced.", "D": "A swimming pool will be closed." },
+          "answer": "D",
+          "explanation": "'The main swimming pool will be closed tomorrow morning for cleaning.'" }
+      ]
+    },
+    {
+      "part": 4, "audio": "audio/q74-76.mp3", "intro": "telephone message", "voice": "M",
+      "transcript": "Hi, this is Steven Park from the Westbrook Hotel's event department. I'm calling about your company's awards dinner on June twelfth. You requested the Crystal Ballroom for one hundred and fifty guests. Unfortunately, the ballroom is being renovated, and the work won't be finished until the end of June. Our Garden Hall is available that evening. It holds two hundred. And I can offer you a fifteen percent discount on the food and beverage package. Please let me know by Friday if that works for you.",
+      "questions": [
+        { "number": 74, "content": "What event is the speaker calling about?",
+          "options": { "A": "A wedding", "B": "A conference", "C": "A product launch", "D": "An awards ceremony" },
+          "answer": "D",
+          "explanation": "'…your company's awards dinner on June twelfth' → buổi trao giải." },
+        { "number": 75, "content": "Why does the speaker say, “It holds two hundred”?",
+          "options": { "A": "To indicate that a room is large enough", "B": "To explain a price increase", "C": "To suggest inviting more guests", "D": "To correct a booking error" },
+          "answer": "A",
+          "explanation": "Câu hỏi hàm ý: khách dự 150 người, Garden Hall chứa được 200 → đủ rộng để thay thế phòng khiêu vũ." },
+        { "number": 76, "content": "What does the speaker offer?",
+          "options": { "A": "Free overnight rooms", "B": "A later date", "C": "A reduced price on food and drinks", "D": "Free decorations" },
+          "answer": "C",
+          "explanation": "'I can offer you a fifteen percent discount on the food and beverage package.'" }
+      ]
+    },
+    {
+      "part": 4, "audio": "audio/q77-79.mp3", "image": "images/q77-79.png", "intro": "talk and map", "voice": "W",
+      "graphic": { "type": "map", "title": "Lakeview Hotel – Ground Floor",
+        "cells": [["Restaurant", "", "Gift Shop"], ["Room G2", "", "Room G4"], ["Front Desk", "Lobby", "Elevators"]] },
+      "transcript": "Welcome to your first day at the Lakeview Hotel. Let's start with a quick tour of the ground floor. We're standing in the lobby now. Guests who arrive before check-in time often ask where they can leave their bags. Our luggage storage room is between the restaurant and the front desk. Later this morning, you'll shadow an experienced staff member at the front desk. And don't forget, employees get a thirty percent discount at the hotel restaurant.",
+      "questions": [
+        { "number": 77, "content": "Who most likely are the listeners?",
+          "options": { "A": "Hotel guests", "B": "New employees", "C": "Travel agents", "D": "Building inspectors" },
+          "answer": "B",
+          "explanation": "'Welcome to your first day at the Lakeview Hotel', 'shadow an experienced staff member' → nhân viên mới." },
+        { "number": 78, "content": "Look at the graphic. Where can guests leave their luggage?",
+          "options": { "A": "Room G2", "B": "Room G4", "C": "Gift Shop", "D": "Lobby" },
+          "answer": "A",
+          "explanation": "Phòng giữ hành lý nằm giữa Restaurant và Front Desk – trên sơ đồ là Room G2." },
+        { "number": 79, "content": "What benefit do employees receive?",
+          "options": { "A": "Free parking", "B": "Free hotel stays", "C": "Extra vacation days", "D": "A discount at a restaurant" },
+          "answer": "D",
+          "explanation": "'Employees get a thirty percent discount at the hotel restaurant.'" }
+      ]
+    }
+  ]
+}

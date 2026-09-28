@@ -1,0 +1,216 @@
+{
+  "title": "Listening Practice Test 08 – Shipping & Deliveries",
+  "description": "Đề luyện Listening theo cấu trúc đề thi TOEIC (IIG Việt Nam), rút gọn 26 câu: Part 1 (2) · Part 2 (6) · Part 3 (9, có hội thoại 3 người, câu hỏi hàm ý và biểu đồ) · Part 4 (9). Chủ đề: vận chuyển, giao nhận, kho vận.",
+  "skill": "Listening",
+  "durationMinutes": 15,
+  "publish": true,
+  "groups": [
+    {
+      "part": 1, "audio": "audio/q01.mp3", "image": "images/q01.png",
+      "scene": { "bg": "street", "items": [
+        "#shadow 260 440 260", "🚚 260 442 230",
+        "🌳 440 336 110",
+        "#shadow 600 372 200", "📦 560 372 80", "📦 640 372 80", "📦 600 306 80"
+      ] },
+      "transcript": "(A) A delivery person is carrying a package.\n(B) A truck is being loaded.\n(C) Some packages have been piled on a sidewalk.\n(D) A tree is being planted near a road.",
+      "questions": [
+        { "number": 1,
+          "options": { "A": "A delivery person is carrying a package.", "B": "A truck is being loaded.", "C": "Some packages have been piled on a sidewalk.", "D": "A tree is being planted near a road." },
+          "answer": "C",
+          "explanation": "Các thùng hàng được chất thành chồng trên vỉa hè → (C). Ảnh không có người nên (A) sai, và các câu bị động tiếp diễn (B), (D) cũng sai." }
+      ]
+    },
+    {
+      "part": 1, "audio": "audio/q02.mp3", "image": "images/q02.png",
+      "scene": { "bg": "warehouse", "items": [
+        "#rect 600 120 12 350 #f97316", "#rect 760 120 12 350 #f97316",
+        "📦 650 242 60", "📦 720 242 60", "📦 686 362 60",
+        "#rect 600 240 172 10 #1d4ed8", "#rect 600 360 172 10 #1d4ed8",
+        "#shadow 470 486 260", "#rect 380 470 190 16 #a0785a 2",
+        "📦 430 472 90", "📦 520 472 90", "📦 475 394 90",
+        "#shadow 280 488 150", "🧎🏻‍♂️ 280 488 180 flip"
+      ] },
+      "transcript": "(A) A man is lifting a box onto a shelf.\n(B) A man is kneeling beside some boxes.\n(C) A man is driving a forklift.\n(D) Some boxes are being loaded onto a truck.",
+      "questions": [
+        { "number": 2,
+          "options": { "A": "A man is lifting a box onto a shelf.", "B": "A man is kneeling beside some boxes.", "C": "A man is driving a forklift.", "D": "Some boxes are being loaded onto a truck." },
+          "answer": "B",
+          "explanation": "Người đàn ông đang quỳ gối cạnh chồng thùng hàng → (B). Anh không nhấc thùng lên kệ (A), không lái xe nâng (C), không có xe tải (D)." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q07.mp3",
+      "transcript": "Has the package from Berlin arrived yet?\n(A) A package tour.\n(B) Yes, it came this morning.\n(C) I've never been to Berlin.",
+      "questions": [
+        { "number": 7,
+          "options": { "A": "A package tour.", "B": "Yes, it came this morning.", "C": "I've never been to Berlin." },
+          "answer": "B",
+          "explanation": "Câu hỏi Yes/No 'đã đến chưa' → 'Rồi, sáng nay'. (A) lặp 'package' (package tour = tour trọn gói); (C) lặp 'Berlin'." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q08.mp3",
+      "transcript": "How much does it cost to ship this overnight?\n(A) About forty dollars.\n(B) It arrived late last night.\n(C) Ship it to the main office.",
+      "questions": [
+        { "number": 8,
+          "options": { "A": "About forty dollars.", "B": "It arrived late last night.", "C": "Ship it to the main office." },
+          "answer": "A",
+          "explanation": "How much → giá tiền. (B) bẫy 'overnight' – 'last night'; (C) lặp 'ship'." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q09.mp3",
+      "transcript": "Where should I sign for the delivery?\n(A) At about three o'clock.\n(B) It's a sign of success.\n(C) Right here at the bottom.",
+      "questions": [
+        { "number": 9,
+          "options": { "A": "At about three o'clock.", "B": "It's a sign of success.", "C": "Right here at the bottom." },
+          "answer": "C",
+          "explanation": "Where → vị trí ký: ngay đây, ở cuối trang. (A) trả lời When; (B) 'sign' với nghĩa 'dấu hiệu'." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q10.mp3",
+      "transcript": "Why don't we use a different courier service?\n(A) Because it was delivered.\n(B) A different course.\n(C) That might save us some money.",
+      "questions": [
+        { "number": 10,
+          "options": { "A": "Because it was delivered.", "B": "A different course.", "C": "That might save us some money." },
+          "answer": "C",
+          "explanation": "'Why don't we…?' là lời đề nghị → đồng tình kèm lợi ích (tiết kiệm tiền). (A) bẫy 'Because'; (B) bẫy âm 'courier' – 'course'." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q11.mp3",
+      "transcript": "Do you want this box sent by regular mail or express?\n(A) Regular is fine. It's not urgent.\n(B) Yes, I want it.\n(C) The mailroom is downstairs.",
+      "questions": [
+        { "number": 11,
+          "options": { "A": "Regular is fine. It's not urgent.", "B": "Yes, I want it.", "C": "The mailroom is downstairs." },
+          "answer": "A",
+          "explanation": "Câu hỏi lựa chọn → chọn 'regular' vì không gấp. (B) trả lời Yes và lặp 'want'; (C) liên tưởng 'mail' – 'mailroom'." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q12.mp3",
+      "transcript": "Wasn't the order supposed to arrive on Monday?\n(A) We ordered it from Seoul.\n(B) It was held up at customs.\n(C) Monday's meeting.",
+      "questions": [
+        { "number": 12,
+          "options": { "A": "We ordered it from Seoul.", "B": "It was held up at customs.", "C": "Monday's meeting." },
+          "answer": "B",
+          "explanation": "Câu hỏi phủ định thắc mắc vì sao hàng chưa tới → giải thích 'bị giữ lại ở hải quan' (held up = bị trì hoãn). (A) lặp 'order'; (C) lặp 'Monday'." }
+      ]
+    },
+    {
+      "part": 3, "audio": "audio/q32-34.mp3",
+      "transcript": "W: Hello, I'm calling about a package I was expecting yesterday. The tracking number is B four seven two nine.\nM: Let me look that up. It seems the driver tried to deliver it yesterday afternoon, but no one was home to sign for it.\nW: Oh, I was at work. Can you deliver it again tomorrow?\nM: We can, but only between nine and five. Or you can pick it up at our Elm Street office any time after four p.m. today.\nW: The Elm Street office is close to my workplace, so I'll pick it up on my way home.\nM: OK. Please bring a photo ID with you.",
+      "questions": [
+        { "number": 32, "content": "Why is the woman calling?",
+          "options": { "A": "To change a delivery address", "B": "To send a package", "C": "To report a damaged item", "D": "To ask about a missed delivery" },
+          "answer": "D",
+          "explanation": "Cô gọi về gói hàng lẽ ra nhận hôm qua nhưng chưa nhận được → hỏi về lần giao hàng bị lỡ." },
+        { "number": 33, "content": "Why was the package not delivered?",
+          "options": { "A": "The address was wrong.", "B": "Nobody was available to sign for it.", "C": "The driver was sick.", "D": "The package was damaged." },
+          "answer": "B",
+          "explanation": "'No one was home to sign for it.'" },
+        { "number": 34, "content": "What does the man tell the woman to bring?",
+          "options": { "A": "A photo ID", "B": "A tracking number", "C": "A receipt", "D": "A credit card" },
+          "answer": "A",
+          "explanation": "'Please bring a photo ID with you.'" }
+      ]
+    },
+    {
+      "part": 3, "audio": "audio/q35-37.mp3", "intro": "conversation with three speakers",
+      "transcript": "M1: Hi, Olivia and Jack. We just got a call from Greenway Markets. They received forty boxes of apple juice instead of orange juice.\nW: Oh, no. I think that's my mistake. The product codes are almost the same.\nM2: It happens. Their stores open at eight tomorrow, though.\nW: Right. Then we need to get the correct boxes to them tonight.\nM1: I'll ask the night shift to load a truck right away. Jack, can you call Greenway and let them know?\nM2: Sure. And I'll ask them to keep the apple juice aside so our driver can pick it up.",
+      "questions": [
+        { "number": 35, "content": "What problem is being discussed?",
+          "options": { "A": "A truck broke down.", "B": "Some boxes were damaged.", "C": "The wrong product was delivered.", "D": "An invoice was incorrect." },
+          "answer": "C",
+          "explanation": "Khách nhận 40 thùng nước táo thay vì nước cam → giao nhầm sản phẩm." },
+        { "number": 36, "content": "What does one of the men imply when he says, “Their stores open at eight tomorrow, though”?",
+          "options": { "A": "The problem must be fixed quickly.", "B": "The stores have changed their hours.", "C": "He can deliver the boxes in the morning.", "D": "The client is not concerned." },
+          "answer": "A",
+          "explanation": "Câu hỏi hàm ý: cửa hàng mở cửa lúc 8 giờ sáng mai → phải khắc phục gấp; người phụ nữ hiểu ngay 'we need to get the correct boxes to them tonight'." },
+        { "number": 37, "content": "What will Jack most likely do?",
+          "options": { "A": "Load a truck", "B": "Drive to a store", "C": "Check some product codes", "D": "Call a customer" },
+          "answer": "D",
+          "explanation": "'Jack, can you call Greenway and let them know?' – 'Sure.' (A) là việc ca đêm sẽ làm." }
+      ]
+    },
+    {
+      "part": 3, "audio": "audio/q38-40.mp3", "image": "images/q38-40.png", "intro": "conversation and price list",
+      "graphic": { "type": "table", "title": "Shipping Rates to Canada",
+        "head": ["Service", "Delivery Time", "Price"],
+        "rows": [["Economy", "5–7 days", "$12"], ["Standard", "3–4 days", "$18"], ["Express", "2 days", "$29"], ["Overnight", "Next day", "$45"]] },
+      "transcript": "M: Hi, I'd like to send these product samples to a client in Toronto.\nW: Sure. When do they need to arrive?\nM: The client meeting is on Thursday, so they have to get there by Wednesday at the latest. Today's Monday.\nW: Then I'd recommend our two-day service. It'll arrive on Wednesday.\nM: That works. Can I get a discount? I send packages here every week.\nW: Actually, if you sign up for a business account, you'll get ten percent off every shipment. Here's the application form.",
+      "questions": [
+        { "number": 38, "content": "What is the man sending?",
+          "options": { "A": "Contracts", "B": "Gifts", "C": "Brochures", "D": "Product samples" },
+          "answer": "D",
+          "explanation": "'I'd like to send these product samples to a client in Toronto.'" },
+        { "number": 39, "content": "Look at the graphic. How much will the man most likely pay before any discount?",
+          "options": { "A": "$12", "B": "$18", "C": "$29", "D": "$45" },
+          "answer": "C",
+          "explanation": "Người phụ nữ gợi ý dịch vụ 2 ngày (two-day service) và anh đồng ý – theo bảng là Express, giá $29." },
+        { "number": 40, "content": "What does the woman give the man?",
+          "options": { "A": "A receipt", "B": "A form", "C": "A coupon", "D": "A box" },
+          "answer": "B",
+          "explanation": "'Here's the application form.'" }
+      ]
+    },
+    {
+      "part": 4, "audio": "audio/q71-73.mp3", "intro": "recorded message", "voice": "W",
+      "transcript": "Thank you for calling Swift Parcel Service. Due to the national holiday on Monday, our offices will be closed, and there will be no pickups or deliveries. All packages scheduled for Monday will be delivered on Tuesday. To track a package, please visit our Web site and enter your tracking number. To speak with a customer service representative, please stay on the line. Your call will be answered in the order it was received.",
+      "questions": [
+        { "number": 71, "content": "What kind of business recorded the message?",
+          "options": { "A": "An online store", "B": "A shipping company", "C": "A travel agency", "D": "A bank" },
+          "answer": "B",
+          "explanation": "'Swift Parcel Service', 'pickups or deliveries', 'track a package' → công ty chuyển phát." },
+        { "number": 72, "content": "Why will the offices be closed on Monday?",
+          "options": { "A": "A renovation", "B": "Bad weather", "C": "A system upgrade", "D": "A national holiday" },
+          "answer": "D",
+          "explanation": "'Due to the national holiday on Monday, our offices will be closed.'" },
+        { "number": 73, "content": "How can callers track a package?",
+          "options": { "A": "By using a Web site", "B": "By pressing a number", "C": "By sending a text message", "D": "By visiting an office" },
+          "answer": "A",
+          "explanation": "'To track a package, please visit our Web site and enter your tracking number.'" }
+      ]
+    },
+    {
+      "part": 4, "audio": "audio/q74-76.mp3", "intro": "excerpt from a meeting", "voice": "M",
+      "transcript": "Good morning, team. As you know, we've been having trouble with late deliveries to customers in the northern region. After looking at the data, we found that most delays happen at the Riverside warehouse, where the old sorting machine often breaks down. A new automated sorting system will be installed there next month. Now, I know installation projects often take longer than expected. So until the new system is running, we'll send some northern orders through the Hillcrest warehouse instead. Hillcrest's manager, Ms. Owusu, will now explain the details.",
+      "questions": [
+        { "number": 74, "content": "What problem is the speaker addressing?",
+          "options": { "A": "Late deliveries", "B": "Rising fuel costs", "C": "Staff shortages", "D": "Damaged goods" },
+          "answer": "A",
+          "explanation": "'We've been having trouble with late deliveries to customers in the northern region.'" },
+        { "number": 75, "content": "Why does the speaker say, “I know installation projects often take longer than expected”?",
+          "options": { "A": "To criticize a contractor", "B": "To announce a delay", "C": "To justify a temporary arrangement", "D": "To request more funding" },
+          "answer": "C",
+          "explanation": "Câu hỏi hàm ý: vì lắp đặt thường lâu hơn dự kiến nên trong lúc chờ, đơn hàng sẽ đi qua kho Hillcrest → giải thích cho phương án tạm thời." },
+        { "number": 76, "content": "What will Ms. Owusu most likely do next?",
+          "options": { "A": "Install a system", "B": "Present details of a plan", "C": "Visit a customer", "D": "Hire new staff" },
+          "answer": "B",
+          "explanation": "'Hillcrest's manager, Ms. Owusu, will now explain the details.'" }
+      ]
+    },
+    {
+      "part": 4, "audio": "audio/q77-79.mp3", "image": "images/q77-79.png", "intro": "telephone message and schedule", "voice": "W",
+      "graphic": { "type": "table", "title": "Truck 12 – Today's Deliveries",
+        "head": ["Stop", "Customer", "Time"],
+        "rows": [["1", "Parker Pharmacy", "9:00"], ["2", "Lotus Café", "10:30"], ["3", "Sunrise Hotel", "12:00"], ["4", "Metro Gym", "2:00"]] },
+      "transcript": "Hi, Tony, it's Rachel at dispatch. I'm calling about your route today. The customer at your second stop just called. Their manager won't be there until after lunch, so they asked us to switch their delivery with the hotel's. So please go to the hotel second, and then the café. Also, the gym's loading dock is closed for repairs, so please use the front entrance there. Call me if you have any questions.",
+      "questions": [
+        { "number": 77, "content": "Who most likely is the listener?",
+          "options": { "A": "A hotel manager", "B": "A café owner", "C": "A dispatcher", "D": "A truck driver" },
+          "answer": "D",
+          "explanation": "Người nói ở bộ phận điều phối (dispatch) gọi cho Tony về tuyến giao hàng của anh → tài xế xe tải. (C) là người nói." },
+        { "number": 78, "content": "Look at the graphic. What time will the café most likely receive its delivery?",
+          "options": { "A": "9:00", "B": "10:30", "C": "12:00", "D": "2:00" },
+          "answer": "C",
+          "explanation": "Quán cà phê (điểm dừng 2) đổi chỗ với khách sạn (điểm dừng 3) → sẽ nhận hàng vào khung giờ 12:00." },
+        { "number": 79, "content": "What does the speaker say about the gym?",
+          "options": { "A": "Its loading dock cannot be used.", "B": "It closes early today.", "C": "It has canceled its order.", "D": "It has moved to a new location." },
+          "answer": "A",
+          "explanation": "'The gym's loading dock is closed for repairs, so please use the front entrance.'" }
+      ]
+    }
+  ]
+}

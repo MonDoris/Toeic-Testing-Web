@@ -1,0 +1,217 @@
+{
+  "title": "Listening Practice Test 01 – Office & Administration",
+  "description": "Đề luyện Listening theo cấu trúc đề thi TOEIC (IIG Việt Nam), rút gọn 26 câu: Part 1 (2) · Part 2 (6) · Part 3 (9, có hội thoại 3 người, câu hỏi hàm ý và biểu đồ) · Part 4 (9). Chủ đề: văn phòng & hành chính.",
+  "skill": "Listening",
+  "durationMinutes": 15,
+  "publish": true,
+  "groups": [
+    {
+      "part": 1, "audio": "audio/q01.mp3", "image": "images/q01.png",
+      "scene": { "bg": "office", "items": [
+        "#shadow 400 505 470", "#shadow 700 502 140",
+        "#rect 180 330 440 22 #8a5a3b 4", "#rect 200 352 18 150 #6f4630", "#rect 582 352 18 150 #6f4630",
+        "👩🏻‍💻 400 338 170", "🪴 250 336 70", "☕ 540 334 48",
+        "🗄️ 700 502 150", "🖨️ 700 372 80"
+      ] },
+      "transcript": "(A) A woman is hanging a picture on the wall.\n(B) A plant is being moved to the floor.\n(C) Some files are scattered on the floor.\n(D) A woman is working on a laptop.",
+      "questions": [
+        { "number": 1,
+          "options": { "A": "A woman is hanging a picture on the wall.", "B": "A plant is being moved to the floor.", "C": "Some files are scattered on the floor.", "D": "A woman is working on a laptop." },
+          "answer": "D",
+          "explanation": "Người phụ nữ đang ngồi làm việc với máy tính xách tay → (D). (A) sai hành động; (B) 'is being moved' cần có người đang di chuyển chậu cây; (C) sàn nhà không có tài liệu nào." }
+      ]
+    },
+    {
+      "part": 1, "audio": "audio/q02.mp3", "image": "images/q02.png",
+      "scene": { "bg": "meeting", "items": [
+        "#text 285 72 30 #2563eb Q3 SALES PLAN", "#rect 290 125 180 5 #ef4444 2", "#rect 290 150 140 5 #ef4444 2",
+        "🕒 690 170 70",
+        "#shadow 400 500 520",
+        "🪑 240 352 110", "🪑 350 352 110", "🪑 460 352 110", "🪑 570 352 110",
+        "#rect 150 330 500 24 #86603f 6", "#rect 170 354 20 140 #6d4c35", "#rect 610 354 20 140 #6d4c35",
+        "🪑 100 505 130 flip", "🪑 700 505 130",
+        "💻 300 336 60", "📄 420 334 44", "🥤 520 336 44"
+      ] },
+      "transcript": "(A) Some chairs are stacked against a wall.\n(B) A presenter is writing on a whiteboard.\n(C) A table is surrounded by chairs.\n(D) Some documents are being handed out.",
+      "questions": [
+        { "number": 2,
+          "options": { "A": "Some chairs are stacked against a wall.", "B": "A presenter is writing on a whiteboard.", "C": "A table is surrounded by chairs.", "D": "Some documents are being handed out." },
+          "answer": "C",
+          "explanation": "Các ghế được đặt quanh bàn họp → (C). Ảnh không có người nên loại (B) và (D) ('are being handed out' cần người đang phát). Ghế không chồng lên nhau sát tường → loại (A)." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q07.mp3",
+      "transcript": "When is the budget report due?\n(A) About the new budget.\n(B) By Thursday afternoon.\n(C) I'll report it to the manager.",
+      "questions": [
+        { "number": 7,
+          "options": { "A": "About the new budget.", "B": "By Thursday afternoon.", "C": "I'll report it to the manager." },
+          "answer": "B",
+          "explanation": "When + due → hỏi hạn chót, 'By Thursday afternoon' trả lời đúng. (A) lặp từ 'budget', (C) lặp từ 'report' – bẫy lặp từ." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q08.mp3",
+      "transcript": "Who's going to lead the training session tomorrow?\n(A) Ms. Lopez from Human Resources.\n(B) It starts at nine.\n(C) The train leaves in ten minutes.",
+      "questions": [
+        { "number": 8,
+          "options": { "A": "Ms. Lopez from Human Resources.", "B": "It starts at nine.", "C": "The train leaves in ten minutes." },
+          "answer": "A",
+          "explanation": "Who → cần người: 'Ms. Lopez from Human Resources'. (B) trả lời When; (C) bẫy âm gần 'training' – 'train'." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q09.mp3",
+      "transcript": "Would you like me to make copies of the agenda?\n(A) A cup of coffee, please.\n(B) He made it last week.\n(C) Thanks, that would be helpful.",
+      "questions": [
+        { "number": 9,
+          "options": { "A": "A cup of coffee, please.", "B": "He made it last week.", "C": "Thanks, that would be helpful." },
+          "answer": "C",
+          "explanation": "'Would you like me to…?' là lời đề nghị giúp đỡ → đáp lại bằng cảm ơn/chấp nhận. (A) hợp với câu mời đồ uống; (B) lặp 'made' và sai chủ ngữ." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q10.mp3",
+      "transcript": "Why was the staff meeting moved to Friday?\n(A) The room on the second floor.\n(B) No, I haven't met him.\n(C) The director is out of town until Thursday.",
+      "questions": [
+        { "number": 10,
+          "options": { "A": "The room on the second floor.", "B": "No, I haven't met him.", "C": "The director is out of town until Thursday." },
+          "answer": "C",
+          "explanation": "Why → lý do. (C) nêu lý do gián tiếp (giám đốc vắng tới thứ Năm) dù không có 'because'. (A) trả lời Where; (B) câu hỏi Wh- không trả lời Yes/No, 'met' là bẫy âm với 'meeting'." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q11.mp3",
+      "transcript": "The printer on this floor isn't working again.\n(A) He works on the fourth floor.\n(B) Let's use the one down the hall.\n(C) Please print two copies.",
+      "questions": [
+        { "number": 11,
+          "options": { "A": "He works on the fourth floor.", "B": "Let's use the one down the hall.", "C": "Please print two copies." },
+          "answer": "B",
+          "explanation": "Câu trần thuật nêu vấn đề (máy in hỏng) → đáp lại bằng giải pháp: dùng máy ở cuối hành lang. (A) lặp 'floor', 'works'; (C) lặp 'print'." }
+      ]
+    },
+    {
+      "part": 2, "audio": "audio/q12.mp3",
+      "transcript": "Haven't you submitted your expense report yet?\n(A) At the travel agency.\n(B) I'm finishing it now.\n(C) It was a good report.",
+      "questions": [
+        { "number": 12,
+          "options": { "A": "At the travel agency.", "B": "I'm finishing it now.", "C": "It was a good report." },
+          "answer": "B",
+          "explanation": "Câu hỏi phủ định 'Haven't you…yet?' hỏi đã nộp chưa → 'Tôi đang hoàn thành nó' (tức là chưa nộp). (A) trả lời Where; (C) lặp từ 'report'." }
+      ]
+    },
+    {
+      "part": 3, "audio": "audio/q32-34.mp3",
+      "transcript": "W: Hi, Daniel. I just checked the supply closet, and we're almost out of printer paper. Have you placed this month's order yet?\nM: Not yet. I was going to do it this morning, but the supplier's online catalog was down for hours.\nW: Well, we have the quarterly board meeting on Thursday, and we'll need to print about two hundred copies of the financial report.\nM: Then I'll call the supplier directly and ask for express delivery. They usually deliver within twenty-four hours if you order before three o'clock.\nW: Great. And could you add some blue folders to the order? We'll need them for the meeting packets.",
+      "questions": [
+        { "number": 32, "content": "What problem does the woman mention?",
+          "options": { "A": "A printer is broken.", "B": "A supply is running low.", "C": "A meeting has been canceled.", "D": "A report contains errors." },
+          "answer": "B",
+          "explanation": "'We're almost out of printer paper' → sắp hết giấy in, được diễn đạt lại thành 'a supply is running low'." },
+        { "number": 33, "content": "Why did the man not place an order earlier?",
+          "options": { "A": "He was waiting for approval.", "B": "He was out of the office.", "C": "A supplier was closed.", "D": "A website was not working." },
+          "answer": "D",
+          "explanation": "'The supplier's online catalog was down for hours' → trang web đặt hàng không hoạt động. 'be down' = ngừng hoạt động." },
+        { "number": 34, "content": "What does the woman ask the man to do?",
+          "options": { "A": "Add an item to an order", "B": "Reserve a meeting room", "C": "Print some reports", "D": "Contact a board member" },
+          "answer": "A",
+          "explanation": "'Could you add some blue folders to the order?' → thêm một mặt hàng vào đơn đặt hàng." }
+      ]
+    },
+    {
+      "part": 3, "audio": "audio/q35-37.mp3", "intro": "conversation with three speakers",
+      "transcript": "M1: Sarah, Tom, thanks for coming. As you know, our department is moving to the fifth floor next Monday.\nW: Right. Do we need to pack our own things?\nM1: Yes. The movers will bring boxes on Wednesday, and everything has to be packed by Friday at noon.\nM2: Friday at noon? I'm presenting at the sales conference in Boston on Thursday and Friday.\nW: Don't worry, Tom. My desk is right next to yours. I can pack your files if you label what you need.\nM2: Thanks, Sarah. I'll make a list tonight.\nM1: Great. And remember, the new offices have assigned parking, so please pick up your new parking permits from the security desk.",
+      "questions": [
+        { "number": 35, "content": "What are the speakers mainly discussing?",
+          "options": { "A": "A department relocation", "B": "A sales conference", "C": "A new parking lot", "D": "An office renovation" },
+          "answer": "A",
+          "explanation": "Mở đầu: 'our department is moving to the fifth floor next Monday' → chuyển văn phòng (relocation)." },
+        { "number": 36, "content": "Why does Tom say, “I'm presenting at the sales conference in Boston on Thursday and Friday”?",
+          "options": { "A": "He needs help preparing slides.", "B": "He would like to travel with a colleague.", "C": "He will be unavailable before a deadline.", "D": "He has already finished packing." },
+          "answer": "C",
+          "explanation": "Câu hỏi hàm ý: hạn đóng gói là trưa thứ Sáu nhưng Tom đi công tác thứ Năm và thứ Sáu → anh ấy không có mặt để kịp hạn. Sarah liền đề nghị giúp." },
+        { "number": 37, "content": "What does the woman offer to do?",
+          "options": { "A": "Give a presentation", "B": "Contact the moving company", "C": "Pick up parking permits", "D": "Pack a colleague's files" },
+          "answer": "D",
+          "explanation": "'I can pack your files if you label what you need.' (C) là việc người quản lý nhắc cả nhóm làm, không phải lời đề nghị của Sarah." }
+      ]
+    },
+    {
+      "part": 3, "audio": "audio/q38-40.mp3", "image": "images/q38-40.png", "intro": "conversation and list",
+      "graphic": { "type": "table", "title": "Meeting Room Availability – Tuesday",
+        "head": ["Room", "Seats", "Projector"],
+        "rows": [["Room 201", "8", "No"], ["Room 305", "12", "Yes"], ["Room 410", "20", "Yes"], ["Room 512", "30", "No"]] },
+      "transcript": "M: Hi, Emily. I need to book a room for the client workshop next Tuesday. We're expecting fifteen people.\nW: OK, let me check the list. Will you be showing any slides?\nM: Yes. The client wants to see our design proposal on a big screen, so we'll definitely need a projector.\nW: Then there's only one room that works. I'll reserve it for you from ten to twelve.\nM: Perfect. Oh, and could you order lunch for everyone? The workshop might run a little late.\nW: Sure. I'll ask the caterer to include a vegetarian option, too.",
+      "questions": [
+        { "number": 38, "content": "What is the man planning?",
+          "options": { "A": "A job interview", "B": "A client workshop", "C": "A product launch", "D": "A training course" },
+          "answer": "B",
+          "explanation": "'I need to book a room for the client workshop next Tuesday.'" },
+        { "number": 39, "content": "Look at the graphic. Which room will the speakers most likely use?",
+          "options": { "A": "Room 201", "B": "Room 305", "C": "Room 410", "D": "Room 512" },
+          "answer": "C",
+          "explanation": "Cần phòng cho 15 người VÀ có máy chiếu. Room 305 có máy chiếu nhưng chỉ 12 chỗ; Room 512 đủ chỗ nhưng không có máy chiếu → Room 410 (20 chỗ, có máy chiếu)." },
+        { "number": 40, "content": "What does the man ask the woman to do?",
+          "options": { "A": "Contact a client", "B": "Print some handouts", "C": "Test some equipment", "D": "Order food" },
+          "answer": "D",
+          "explanation": "'Could you order lunch for everyone?' → đặt đồ ăn." }
+      ]
+    },
+    {
+      "part": 4, "audio": "audio/q71-73.mp3", "intro": "telephone message", "voice": "W",
+      "transcript": "Hi, Mr. Harper. This is Linda Park from Greenfield Office Furniture. I'm calling about the twelve desks you ordered for your new branch office. Unfortunately, our delivery truck broke down this morning, so we won't be able to deliver them tomorrow as planned. We can bring them on Thursday instead, between nine and eleven a.m. I apologize for the inconvenience, and to make up for it, we'll assemble the desks for you at no charge. Please call me back at extension two-four-five to confirm that Thursday works for you.",
+      "questions": [
+        { "number": 71, "content": "Why is the speaker calling?",
+          "options": { "A": "To report a delivery delay", "B": "To confirm a payment", "C": "To advertise a sale", "D": "To request an address" },
+          "answer": "A",
+          "explanation": "Xe giao hàng hỏng nên không giao được vào ngày mai như dự kiến, dời sang thứ Năm → thông báo giao hàng trễ." },
+        { "number": 72, "content": "What does the speaker offer?",
+          "options": { "A": "A full refund", "B": "A discount on chairs", "C": "Express shipping", "D": "Free assembly" },
+          "answer": "D",
+          "explanation": "'We'll assemble the desks for you at no charge' – 'at no charge' = miễn phí → Free assembly." },
+        { "number": 73, "content": "What is the listener asked to do?",
+          "options": { "A": "Visit a showroom", "B": "Send an e-mail", "C": "Return a phone call", "D": "Measure an office" },
+          "answer": "C",
+          "explanation": "'Please call me back at extension 245' → gọi lại (return a phone call)." }
+      ]
+    },
+    {
+      "part": 4, "audio": "audio/q74-76.mp3", "intro": "excerpt from a meeting", "voice": "M",
+      "transcript": "Good morning, everyone. Before we start, I have an update about our new time-tracking software. Starting next month, all employees will record their working hours online instead of on paper timesheets. The IT team will hold a one-hour training session on Wednesday afternoon. Now, I know many of you have used a similar program before. But this version has some new features. If you can't make it on Wednesday, the session will be recorded and posted on the company intranet.",
+      "questions": [
+        { "number": 74, "content": "What is the main topic of the announcement?",
+          "options": { "A": "A new method for recording work hours", "B": "A change in office hours", "C": "A company merger", "D": "A recruitment plan" },
+          "answer": "A",
+          "explanation": "'All employees will record their working hours online instead of on paper timesheets' → cách chấm công mới." },
+        { "number": 75, "content": "What does the speaker imply when he says, “this version has some new features”?",
+          "options": { "A": "The software is expensive.", "B": "The listeners should attend the training.", "C": "The IT team needs more time.", "D": "The old program will still be available." },
+          "answer": "B",
+          "explanation": "Câu hỏi hàm ý: dù nhiều người đã dùng chương trình tương tự, phiên bản này có tính năng mới → vẫn nên tham gia buổi đào tạo." },
+        { "number": 76, "content": "According to the speaker, what will be posted on the intranet?",
+          "options": { "A": "A user manual", "B": "A list of attendees", "C": "A new work schedule", "D": "A recording of a training session" },
+          "answer": "D",
+          "explanation": "'The session will be recorded and posted on the company intranet.'" }
+      ]
+    },
+    {
+      "part": 4, "audio": "audio/q77-79.mp3", "image": "images/q77-79.png", "intro": "talk and chart", "voice": "W",
+      "graphic": { "type": "bars", "title": "Monthly Printing Costs", "unit": "",
+        "data": [["January", 420], ["February", 380], ["March", 610], ["April", 450]], "note": "Amounts in U.S. dollars" },
+      "transcript": "Let's move on to printing costs. As you can see on this chart, we spent quite a lot on printing during the first four months of the year. The highest amount was in the month when we prepared materials for the international trade fair. To reduce these costs, all printers will be set to print on both sides of the page automatically. We'll also ask everyone to share documents electronically whenever possible. Next week, I'll send out a short survey to find out which printed materials you actually need.",
+      "questions": [
+        { "number": 77, "content": "What is the purpose of the talk?",
+          "options": { "A": "To discuss printing expenses", "B": "To introduce a new printer", "C": "To announce a trade fair", "D": "To explain survey results" },
+          "answer": "A",
+          "explanation": "'Let's move on to printing costs… To reduce these costs…' → bàn về chi phí in ấn." },
+        { "number": 78, "content": "Look at the graphic. When did the company most likely prepare materials for a trade fair?",
+          "options": { "A": "In January", "B": "In February", "C": "In March", "D": "In April" },
+          "answer": "C",
+          "explanation": "Chi phí cao nhất rơi vào tháng chuẩn bị tài liệu cho hội chợ thương mại; theo biểu đồ, tháng cao nhất là March ($610)." },
+        { "number": 79, "content": "What will the speaker do next week?",
+          "options": { "A": "Order new printers", "B": "Distribute a survey", "C": "Attend a trade fair", "D": "Review a budget" },
+          "answer": "B",
+          "explanation": "'Next week, I'll send out a short survey' – 'send out' = distribute." }
+      ]
+    }
+  ]
+}
