@@ -1,0 +1,31 @@
+name: Deploy API to SmarterASP.NET
+
+on:
+  push:
+    branches:
+      - main # Đổi thành nhánh của bạn nếu không phải main
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    - name: Setup .NET
+      uses: actions/setup-dotnet@v4
+      with:
+        dotnet-version: '8.0.x'
+
+    - name: Publish dự án
+      # TRỎ ĐÚNG ĐƯỜNG DẪN TỚI FILE .CSPROJ CỦA BẠN THEO HÌNH 2
+      run: dotnet publish ./src/ToeicPractice.Api/ToeicPractice.Api.csproj -c Release -o ./publish_output
+
+    - name: FTP Deploy
+      uses: SamKirkland/FTP-Deploy-Action@v4.3.4
+      with:
+        server: ${{ secrets.FTP_SERVER }}
+        username: ${{ secrets.FTP_USERNAME }}
+        password: ${{ secrets.FTP_PASSWORD }}
+        local-dir: ./publish_output/
