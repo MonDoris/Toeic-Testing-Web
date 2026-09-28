@@ -106,7 +106,10 @@ app.UseStaticFiles(new StaticFileOptions
         ctx.Context.Response.Headers.CacheControl = "public,max-age=604800";
     }
 });
-
+app.UseCors(builder => builder
+    .AllowAnyOrigin() // Có thể thay bằng .WithOrigins("https://link-vercel-cua-ban.vercel.app") để bảo mật hơn
+    .AllowAnyMethod()
+    .AllowAnyHeader());
 // Front-end React đã build (npm run build → wwwroot)
 app.UseDefaultFiles();
 app.UseStaticFiles();
