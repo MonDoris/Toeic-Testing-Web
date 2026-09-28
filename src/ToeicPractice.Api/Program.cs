@@ -89,8 +89,6 @@ using (var scope = app.Services.CreateScope())
 
 app.UseExceptionHandler();
 
-if (app.Environment.IsDevelopment())
-{}
     app.UseSwagger();
     app.UseSwaggerUI();
     app.MapOpenApi();
@@ -120,5 +118,6 @@ app.MapControllers();
 // API không tồn tại → 404 JSON thay vì trả về trang SPA
 app.Map("/api/{**rest}", () => Results.NotFound(new { title = "Không tìm thấy API.", status = 404 }));
 app.MapFallbackToFile("index.html");
+app.MapGet("/ping", () => "PONG! BACKEND DA SONG NHE!");
 
 app.Run();
