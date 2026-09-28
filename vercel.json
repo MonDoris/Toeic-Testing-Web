@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:match*",
+      "destination": "http://khuongne-001-site1.jtempurl.com/api/:match*"
+    }
+  ]
+}
