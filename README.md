@@ -4,7 +4,7 @@
 
 ## Kiến trúc
 
-```
+```text
 src/
 ├── ToeicPractice.Domain          Entity, enum, quy tắc TOEIC (Part, số lựa chọn, thang điểm)
 ├── ToeicPractice.Application     Use case: Auth, Tests, Import đề, Attempts, Chấm điểm, Vocabulary, Grammar, Admin
@@ -130,9 +130,9 @@ Khi khởi động, `DataSeeder` tự nạp các gói `.zip` mới trong `Seed/s
 ### Sửa hoặc thêm đề
 Soạn `samples/<tên-gói>/test.json` (xem các gói có sẵn làm mẫu), rồi chạy:
 ```bash
-dotnet run --project tools/SampleBuilder                 # mọi gói trong samples/
-dotnet run --project tools/SampleBuilder -- listening-05 # chỉ các gói có tên bắt đầu bằng "listening-05"
-dotnet run --project tools/SampleBuilder -- --force      # tạo lại toàn bộ audio/ảnh
+dotnet run --project tools/SampleBuilder                  # mọi gói trong samples/
+dotnet run --project tools/SampleBuilder -- listening-05  # chỉ các gói có tên bắt đầu bằng "listening-05"
+dotnet run --project tools/SampleBuilder -- --force       # tạo lại toàn bộ audio/ảnh
 ```
 Công cụ chỉ sinh media còn thiếu, kiểm tra gói bằng đúng bộ validate của tính năng "Nhập gói đề", in phân bố đáp án, rồi ghi `.zip` vào `src/ToeicPractice.Infrastructure/Seed/samples`. Các trường thêm trong `test.json` (ứng dụng bỏ qua khi nhập):
 - `scene` (Part 1): nền (`office`, `meeting`, `kitchen`, `store`, `warehouse`, `street`, `park`, `harbor`, `dock`, `station`, `lobby`, `beach`, `patio`, `library`, `site`) + danh sách emoji/hình khối → ảnh PNG.
