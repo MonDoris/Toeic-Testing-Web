@@ -90,10 +90,10 @@ using (var scope = app.Services.CreateScope())
 app.UseExceptionHandler();
 
 if (app.Environment.IsDevelopment())
-{
+{}
     app.UseSwagger();
     app.UseSwaggerUI();
-}
+    app.MapOpenApi();
 
 // File media upload (audio/ảnh đề thi)
 var storage = config.GetSection(StorageOptions.Section).Get<StorageOptions>() ?? new StorageOptions();
